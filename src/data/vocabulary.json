@@ -1,0 +1,9522 @@
+[
+  {
+    "id": 1,
+    "word": "Plant",
+    "pos": "noun",
+    "meaningVi": "nhà máy",
+    "ipa": "plænt",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 2,
+    "word": "Manager",
+    "pos": "noun",
+    "meaningVi": "người quản lí",
+    "ipa": "ˈmæn.ə.dʒɚ",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 3,
+    "word": "Organize",
+    "pos": "verb",
+    "meaningVi": "tổ chức",
+    "ipa": "ˈɔːr.ɡən.aɪz",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 4,
+    "word": "Day-long",
+    "pos": "adjective",
+    "meaningVi": "1 ngày",
+    "ipa": "ˈdeɪ lɔːŋ",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 5,
+    "word": "Safety",
+    "pos": "noun",
+    "meaningVi": "sự an toàn",
+    "ipa": "ˈseɪf.ti",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 6,
+    "word": "Workshop",
+    "pos": "noun",
+    "meaningVi": "hội thảo",
+    "ipa": "ˈwɝːk.ʃɑːp",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 7,
+    "word": "Construction",
+    "pos": "noun",
+    "meaningVi": "việc xây dựng",
+    "ipa": "kənˈstrʌk.ʃən",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 8,
+    "word": "Begin",
+    "pos": "verb",
+    "meaningVi": "bắt đầu",
+    "ipa": "bɪˈɡɪn",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 9,
+    "word": "Week",
+    "pos": "noun",
+    "meaningVi": "tuần",
+    "ipa": "wiːk",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 10,
+    "word": "Next",
+    "pos": "adjective",
+    "meaningVi": "kế tiếp",
+    "ipa": "nekst",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 11,
+    "word": "Medical",
+    "pos": "adjective",
+    "meaningVi": "y tế",
+    "ipa": "ˈmed.ɪ.kəl",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 12,
+    "word": "Expert",
+    "pos": "noun",
+    "meaningVi": "chuyên gia",
+    "ipa": "ˈek.spɝːt",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 13,
+    "word": "Express",
+    "pos": "verb",
+    "meaningVi": "bày tỏ",
+    "ipa": "ɪkˈspres",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 14,
+    "word": "Increasing",
+    "pos": "adjective",
+    "meaningVi": "tăng",
+    "ipa": "ɪnˈkriːs",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 15,
+    "word": "Use",
+    "pos": "noun",
+    "meaningVi": "việc sử dụng",
+    "ipa": "juːz",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 16,
+    "word": "Antibiotics",
+    "pos": "noun",
+    "meaningVi": "thuốc kháng sinh",
+    "ipa": "ˌæn.t̬i.baɪˈɑː.t̬ɪk",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 17,
+    "word": "Recently",
+    "pos": "adverb",
+    "meaningVi": "gần đây",
+    "ipa": "ˈriː.sənt.li",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 18,
+    "word": "Hire",
+    "pos": "verb",
+    "meaningVi": "thuê",
+    "ipa": "haɪr",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 19,
+    "word": "Several",
+    "pos": "adjective",
+    "meaningVi": "vài",
+    "ipa": "ˈsev.ɚ.əl",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 20,
+    "word": "Sales",
+    "pos": "noun",
+    "meaningVi": "bán hàng",
+    "ipa": "seɪlz",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 21,
+    "word": "Personnel",
+    "pos": "noun",
+    "meaningVi": "nhân sự",
+    "ipa": "ˌpɝː.sənˈel",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 22,
+    "word": "Because",
+    "pos": "conjunction",
+    "meaningVi": "vì",
+    "ipa": "bɪˈkʌz",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 23,
+    "word": "Sick",
+    "pos": "adjective",
+    "meaningVi": "ốm",
+    "ipa": "sɪk",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 24,
+    "word": "Miss",
+    "pos": "verb",
+    "meaningVi": "bỏ nhỡ",
+    "ipa": "mɪs",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 25,
+    "word": "Meeting",
+    "pos": "noun",
+    "meaningVi": "cuộc họp",
+    "ipa": "ˈmiː.t̬ɪŋ",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 26,
+    "word": "Concert",
+    "pos": "noun",
+    "meaningVi": "buổi hòa nhạc",
+    "ipa": "ˈkɑːn.sɚt",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 27,
+    "word": "Cancel",
+    "pos": "verb",
+    "meaningVi": "hủy",
+    "ipa": "ˈkæn.səl",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 28,
+    "word": "Because of",
+    "pos": "preposition",
+    "meaningVi": "vì",
+    "ipa": "bɪˈkɑːz ˌəv",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 29,
+    "word": "Year",
+    "pos": "noun",
+    "meaningVi": "năm",
+    "ipa": "jɪr",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 30,
+    "word": "Accounting",
+    "pos": "noun",
+    "meaningVi": "kế toán",
+    "ipa": "əˈkaʊn.t̬ɪŋ",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 31,
+    "word": "Transfer",
+    "pos": "verb",
+    "meaningVi": "chuyển",
+    "ipa": "ˈtræns.fɝː",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 32,
+    "word": "Branch",
+    "pos": "noun",
+    "meaningVi": "chi nhánh",
+    "ipa": "bræntʃ",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 33,
+    "word": "Fire",
+    "pos": "verb",
+    "meaningVi": "sa thải",
+    "ipa": "faɪr",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 34,
+    "word": "Last",
+    "pos": "adjective",
+    "meaningVi": "trước",
+    "ipa": "læst",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 35,
+    "word": "Company",
+    "pos": "noun",
+    "meaningVi": "công ty",
+    "ipa": "ˈkʌm.pə.ni",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 36,
+    "word": "Locate",
+    "pos": "verb",
+    "meaningVi": "tọa lạc",
+    "ipa": "loʊˈkeɪt",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 37,
+    "word": "Avenue",
+    "pos": "noun",
+    "meaningVi": "đại lộ",
+    "ipa": "ˈæv.ə.nuː",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 38,
+    "word": "Employee",
+    "pos": "noun",
+    "meaningVi": "nhân viên",
+    "ipa": "ˌem.plɔɪˈiː",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 39,
+    "word": "Business",
+    "pos": "noun",
+    "meaningVi": "kinh doanh",
+    "ipa": "ˈbɪz.nɪs",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 40,
+    "word": "District",
+    "pos": "noun",
+    "meaningVi": "quận, khu",
+    "ipa": "ˈdɪs.trɪkt",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 41,
+    "word": "Economic",
+    "pos": "adjective",
+    "meaningVi": "kinh tế",
+    "ipa": "ˌek.əˈnɑː.mɪk",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 42,
+    "word": "Slump",
+    "pos": "noun",
+    "meaningVi": "sự suy giảm",
+    "ipa": "slʌmp",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 43,
+    "word": "Human resources department",
+    "pos": "noun",
+    "meaningVi": "phòng nhân sự",
+    "ipa": "ˌhjuː.mən ˈriː.sɔːr.sɪz dɪˈpɑːrt.mənt",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 44,
+    "word": "Step",
+    "pos": "noun",
+    "meaningVi": "bước",
+    "ipa": "step",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 45,
+    "word": "Attend",
+    "pos": "verb",
+    "meaningVi": "tham gia",
+    "ipa": "əˈtend",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 46,
+    "word": "Session",
+    "pos": "noun",
+    "meaningVi": "phiên họp",
+    "ipa": "ˈseʃ.ən",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 47,
+    "word": "Policy",
+    "pos": "noun",
+    "meaningVi": "chính sách",
+    "ipa": "ˈpɑː.lə.si",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 48,
+    "word": "Announce",
+    "pos": "verb",
+    "meaningVi": "thông báo",
+    "ipa": "əˈnaʊns",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 49,
+    "word": "Opening",
+    "pos": "noun",
+    "meaningVi": "lễ khai trương",
+    "ipa": "ˈoʊp.nɪŋ",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 50,
+    "word": "Line",
+    "pos": "noun",
+    "meaningVi": "dây chuyền",
+    "ipa": "laɪn",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 51,
+    "word": "Production",
+    "pos": "noun",
+    "meaningVi": "việc sản xuất",
+    "ipa": "prəˈdʌk.ʃən",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 52,
+    "word": "Meet",
+    "pos": "verb",
+    "meaningVi": "đáp ứng",
+    "ipa": "miːt",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 53,
+    "word": "Customer",
+    "pos": "noun",
+    "meaningVi": "khách hàng",
+    "ipa": "ˈkʌs.tə.mɚ",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 54,
+    "word": "Demand",
+    "pos": "noun",
+    "meaningVi": "nhu cầu",
+    "ipa": "dɪˈmænd",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 55,
+    "word": "Important",
+    "pos": "adjective",
+    "meaningVi": "quan trọng",
+    "ipa": "ɪmˈpɔːr.tənt",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 56,
+    "word": "Priority",
+    "pos": "noun",
+    "meaningVi": "sự ưu tiên",
+    "ipa": "praɪˈɔːr.ə.t̬i",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 57,
+    "word": "Retain",
+    "pos": "verb",
+    "meaningVi": "giữ lại",
+    "ipa": "rɪˈteɪn",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 58,
+    "word": "Competent",
+    "pos": "adjective",
+    "meaningVi": "tài năng",
+    "ipa": "ˈkɑːm.pə.t̬ənt",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 59,
+    "word": "Succeed",
+    "pos": "verb",
+    "meaningVi": "thành công",
+    "ipa": "səkˈsiːd",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 60,
+    "word": "Machine",
+    "pos": "noun",
+    "meaningVi": "máy",
+    "ipa": "məˈʃiːn",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 61,
+    "word": "Install",
+    "pos": "verb",
+    "meaningVi": "cài đặt",
+    "ipa": "ɪnˈstɑːl",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 62,
+    "word": "Center",
+    "pos": "noun",
+    "meaningVi": "trung tâm",
+    "ipa": "ˈsen.t̬ɚ",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 63,
+    "word": "Request",
+    "pos": "verb",
+    "meaningVi": "yêu cầu",
+    "ipa": "rɪˈkwest",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 64,
+    "word": "Complete",
+    "pos": "verb",
+    "meaningVi": "hoàn thành",
+    "ipa": "kəmˈpliːt",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 65,
+    "word": "Survey",
+    "pos": "noun",
+    "meaningVi": "khảo sát",
+    "ipa": "ˈsɝː.veɪ",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 66,
+    "word": "Appliance",
+    "pos": "noun",
+    "meaningVi": "thiết bị",
+    "ipa": "əˈplaɪ.əns",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 67,
+    "word": "Guarantee",
+    "pos": "verb",
+    "meaningVi": "bảo hành",
+    "ipa": "ˌɡer.ənˈtiː",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 68,
+    "word": "Date",
+    "pos": "noun",
+    "meaningVi": "ngày",
+    "ipa": "deɪt",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 69,
+    "word": "Purchase",
+    "pos": "noun",
+    "meaningVi": "việc mua hàng",
+    "ipa": "ˈpɝː.tʃəs",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 70,
+    "word": "Financial",
+    "pos": "adjective",
+    "meaningVi": "tài chính",
+    "ipa": "faɪˈnæn.ʃəl",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 71,
+    "word": "Report",
+    "pos": "noun",
+    "meaningVi": "báo cáo",
+    "ipa": "rɪˈpɔːrt",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 72,
+    "word": "Sent",
+    "pos": "verb",
+    "meaningVi": "gửi",
+    "ipa": "send",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 73,
+    "word": "Department",
+    "pos": "noun",
+    "meaningVi": "phòng ban",
+    "ipa": "dɪˈpɑːrt.mənt",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 74,
+    "word": "Special",
+    "pos": "adjective",
+    "meaningVi": "đặc biệt",
+    "ipa": "ˈspeʃ.əl",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 75,
+    "word": "Discount",
+    "pos": "noun",
+    "meaningVi": "giảm giá",
+    "ipa": "ˈdɪs.kaʊnt",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 76,
+    "word": "Give",
+    "pos": "verb",
+    "meaningVi": "trao, tặng",
+    "ipa": "ɡɪv",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 77,
+    "word": "Subscriber",
+    "pos": "noun",
+    "meaningVi": "người đăng kí",
+    "ipa": "səbˈskraɪ.bɚ",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 78,
+    "word": "Mediator",
+    "pos": "noun",
+    "meaningVi": "người hòa giải",
+    "ipa": "ˈmiː.di.eɪ.t̬ɚ",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 79,
+    "word": "Talk",
+    "pos": "noun",
+    "meaningVi": "cuộc nói chuyện, đàm phán",
+    "ipa": "tɑːk",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 80,
+    "word": "Merger",
+    "pos": "noun",
+    "meaningVi": "sáp nhập",
+    "ipa": "ˈmɝː.dʒɚ",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 81,
+    "word": "Replace",
+    "pos": "verb",
+    "meaningVi": "thay thế",
+    "ipa": "rɪˈpleɪs",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 82,
+    "word": "Content",
+    "pos": "noun",
+    "meaningVi": "nội dung",
+    "ipa": "kənˈtent",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 83,
+    "word": "Journal",
+    "pos": "noun",
+    "meaningVi": "tạp chí",
+    "ipa": "ˈdʒɝː.nəl",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 84,
+    "word": "Carefully",
+    "pos": "adverb",
+    "meaningVi": "cẩn thận",
+    "ipa": "ˈker.fəl.i",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 85,
+    "word": "Examine",
+    "pos": "verb",
+    "meaningVi": "kiểm tra",
+    "ipa": "ɪɡˈzæm.ɪn",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 86,
+    "word": "Error",
+    "pos": "noun",
+    "meaningVi": "lỗi sai",
+    "ipa": "ˈer.ɚ",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 87,
+    "word": "Regional",
+    "pos": "adjective",
+    "meaningVi": "vùng, khu vực",
+    "ipa": "ˈriː.dʒən.əl",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 88,
+    "word": "Exceed",
+    "pos": "verb",
+    "meaningVi": "vượt quá",
+    "ipa": "ɪkˈsiːd",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 89,
+    "word": "Goal",
+    "pos": "noun",
+    "meaningVi": "mục tiêu",
+    "ipa": "ɡoʊl",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 90,
+    "word": "Receive",
+    "pos": "verb",
+    "meaningVi": "nhận",
+    "ipa": "rɪˈsiːv",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 91,
+    "word": "Bonus",
+    "pos": "noun",
+    "meaningVi": "tiền thưởng",
+    "ipa": "ˈboʊ.nəs",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 92,
+    "word": "Central",
+    "pos": "adjective",
+    "meaningVi": "trung tâm",
+    "ipa": "ˈsen.trəl",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 93,
+    "word": "Library",
+    "pos": "noun",
+    "meaningVi": "thư viện",
+    "ipa": "ˈlaɪ.brer.i",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 94,
+    "word": "Build",
+    "pos": "verb",
+    "meaningVi": "xây dựng",
+    "ipa": "bɪld",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 95,
+    "word": "Currently",
+    "pos": "adverb",
+    "meaningVi": "hiện tại",
+    "ipa": "ˈkɝː.ənt.li",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 96,
+    "word": "Renovation",
+    "pos": "noun",
+    "meaningVi": "sự tân trang",
+    "ipa": "ˌren.əˈveɪ.ʃən",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 97,
+    "word": "Under",
+    "pos": "preposition",
+    "meaningVi": "dưới",
+    "ipa": "ˈʌn.dɚ",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 98,
+    "word": "In charge of",
+    "pos": "phrase",
+    "meaningVi": "phụ trách",
+    "ipa": "ɪn tʃɑːrdʒ əv",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 99,
+    "word": "Promote",
+    "pos": "verb",
+    "meaningVi": "thăng chức",
+    "ipa": "prəˈmoʊt",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 100,
+    "word": "Concert",
+    "pos": "noun",
+    "meaningVi": "buổi hòa nhạc",
+    "ipa": "ˈkɑːn.sɚt",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 101,
+    "word": "Rain",
+    "pos": "noun",
+    "meaningVi": "mưa",
+    "ipa": "reɪn",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 102,
+    "word": "Heavy",
+    "pos": "adjective",
+    "meaningVi": "to, nặng",
+    "ipa": "ˈhev.i",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 103,
+    "word": "According to",
+    "pos": "preposition",
+    "meaningVi": "theo như",
+    "ipa": "əˈkɔːr.dɪŋ ˌtuː",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 104,
+    "word": "Recent",
+    "pos": "adjective",
+    "meaningVi": "gần đây",
+    "ipa": "ˈriː.sənt",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 105,
+    "word": "Interest rate",
+    "pos": "noun",
+    "meaningVi": "tỉ lệ lãi suất",
+    "ipa": "ˈɪn.trɪst ˌreɪt",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 106,
+    "word": "Expect",
+    "pos": "verb",
+    "meaningVi": "dự kiến, mong đợi",
+    "ipa": "ɪkˈspekt",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 107,
+    "word": "Rise",
+    "pos": "verb",
+    "meaningVi": "tăng",
+    "ipa": "raɪz",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 108,
+    "word": "Slightly",
+    "pos": "adverb",
+    "meaningVi": "nhẹ",
+    "ipa": "ˈslaɪt.li",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 109,
+    "word": "Flight",
+    "pos": "noun",
+    "meaningVi": "chuyến bay",
+    "ipa": "flaɪt",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 110,
+    "word": "Late",
+    "pos": "adjective",
+    "meaningVi": "trễ",
+    "ipa": "leɪt",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 111,
+    "word": "Miss",
+    "pos": "verb",
+    "meaningVi": "bỏ lỡ",
+    "ipa": "mɪs",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 112,
+    "word": "Project",
+    "pos": "noun",
+    "meaningVi": "dự án",
+    "ipa": "ˈprɑː.dʒekt",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 113,
+    "word": "Failure",
+    "pos": "noun",
+    "meaningVi": "sự thất bại",
+    "ipa": "ˈfeɪ.ljɚ",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 114,
+    "word": "Though",
+    "pos": "conjunction",
+    "meaningVi": "mặc dù",
+    "ipa": "ðoʊ",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 115,
+    "word": "Invest",
+    "pos": "verb",
+    "meaningVi": "đầu tư",
+    "ipa": "ɪnˈvest",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 116,
+    "word": "A lot of",
+    "pos": null,
+    "meaningVi": "nhiều",
+    "ipa": "ə lɑːt əv",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 117,
+    "word": "Money",
+    "pos": "noun",
+    "meaningVi": "tiền",
+    "ipa": "ˈmʌn.i",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 118,
+    "word": "Monthly",
+    "pos": "adjective",
+    "meaningVi": "hàng tháng",
+    "ipa": "ˈmʌn.θli",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 119,
+    "word": "Publish",
+    "pos": "verb",
+    "meaningVi": "xuất bản",
+    "ipa": "ˈpʌb.lɪʃ",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 120,
+    "word": "Sales",
+    "pos": "noun",
+    "meaningVi": "doanh số",
+    "ipa": "seɪlz",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 121,
+    "word": "Decline",
+    "pos": "verb",
+    "meaningVi": "giảm",
+    "ipa": "dɪˈklaɪn",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 122,
+    "word": "Substantially",
+    "pos": "adverb",
+    "meaningVi": "một cách đáng kể",
+    "ipa": "səbˈstæn.ʃəl.i",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 123,
+    "word": "Teacher",
+    "pos": "noun",
+    "meaningVi": "giáo viên",
+    "ipa": "ˈtiː.tʃɚ",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 124,
+    "word": "Water",
+    "pos": "verb",
+    "meaningVi": "tưới",
+    "ipa": "ˈwɑː.t̬ɚ",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 125,
+    "word": "Plant",
+    "pos": "noun",
+    "meaningVi": "cái cây",
+    "ipa": "plænt",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 126,
+    "word": "Place",
+    "pos": "verb",
+    "meaningVi": "đặt, để",
+    "ipa": "pleɪs",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 127,
+    "word": "Table",
+    "pos": "noun",
+    "meaningVi": "cái bàn",
+    "ipa": "ˈteɪ.bəl",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 128,
+    "word": "Take",
+    "pos": "verb",
+    "meaningVi": "tốn",
+    "ipa": "teɪk",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 129,
+    "word": "Hour",
+    "pos": "noun",
+    "meaningVi": "giờ",
+    "ipa": "aʊr",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 130,
+    "word": "Arrive",
+    "pos": "verb",
+    "meaningVi": "tới",
+    "ipa": "əˈraɪv",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 131,
+    "word": "Soon",
+    "pos": "adverb",
+    "meaningVi": "sớm",
+    "ipa": "suːn",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 132,
+    "word": "A week ago",
+    "pos": null,
+    "meaningVi": "một tuần trước",
+    "ipa": "ə wiːk əˈɡoʊ",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 133,
+    "word": "Since",
+    "pos": "preposition/conjunction",
+    "meaningVi": "kể từ",
+    "ipa": "sɪns",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 134,
+    "word": "Complaint",
+    "pos": "noun",
+    "meaningVi": "lời phàn nàn",
+    "ipa": "kəmˈpleɪnt",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 135,
+    "word": "Product",
+    "pos": "noun",
+    "meaningVi": "sản phẩm",
+    "ipa": "ˈprɑː.dʌkt",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 136,
+    "word": "Effective",
+    "pos": "adjective",
+    "meaningVi": "có hiệu lực, hiệu quả",
+    "ipa": "əˈfek.tɪv",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 137,
+    "word": "In charge of",
+    "pos": "phrase",
+    "meaningVi": "phụ trách",
+    "ipa": "ɪn tʃɑːrdʒ əv",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 138,
+    "word": "Accounting",
+    "pos": "noun",
+    "meaningVi": "kế toán",
+    "ipa": "əˈkaʊn.t̬ɪŋ",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 139,
+    "word": "Legal",
+    "pos": "adjective",
+    "meaningVi": "luật pháp",
+    "ipa": "ˈliː.ɡəl",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 140,
+    "word": "Advisor",
+    "pos": "noun",
+    "meaningVi": "người tư vấn",
+    "ipa": "ədˈvaɪ.zɚ",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 141,
+    "word": "Review",
+    "pos": "verb",
+    "meaningVi": "xem lại",
+    "ipa": "rɪˈvjuː",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 142,
+    "word": "Contract",
+    "pos": "noun",
+    "meaningVi": "hợp đồng",
+    "ipa": "ˈkɑːn.trækt",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 143,
+    "word": "Right now",
+    "pos": "phrase",
+    "meaningVi": "bây giờ",
+    "ipa": "raɪt naʊ",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 144,
+    "word": "Watch",
+    "pos": "verb",
+    "meaningVi": "xem",
+    "ipa": "wɑːtʃ",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 145,
+    "word": "Last night",
+    "pos": null,
+    "meaningVi": "tối qua",
+    "ipa": "læst naɪt",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 146,
+    "word": "Deliver",
+    "pos": "verb",
+    "meaningVi": "giao",
+    "ipa": "dɪˈlɪv.ɚ",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 147,
+    "word": "Document",
+    "pos": "noun",
+    "meaningVi": "tài liệu",
+    "ipa": "ˈdɑː.kjə.mənt",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 148,
+    "word": "In person",
+    "pos": "phrase",
+    "meaningVi": "trực tiếp",
+    "ipa": "ɪn ˈpɝː.sən",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 149,
+    "word": "Management",
+    "pos": "noun",
+    "meaningVi": "ban quản lí, sự quản lí",
+    "ipa": "ˈmæn.ədʒ.mənt",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 150,
+    "word": "Postpone",
+    "pos": "verb",
+    "meaningVi": "hoãn",
+    "ipa": "poʊstˈpoʊn",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 151,
+    "word": "Annual",
+    "pos": "adjective",
+    "meaningVi": "hàng năm",
+    "ipa": "ˈæn.ju.əl",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 152,
+    "word": "Until",
+    "pos": "preposition",
+    "meaningVi": "cho tới",
+    "ipa": "ʌnˈtɪl",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 153,
+    "word": "Memo",
+    "pos": "noun",
+    "meaningVi": "thông báo",
+    "ipa": "ˈmem.oʊ",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 154,
+    "word": "Distributor",
+    "pos": "noun",
+    "meaningVi": "nhà phân phối",
+    "ipa": "dɪˈstrɪb.jə.t̬ɚ",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 155,
+    "word": "Want",
+    "pos": "verb",
+    "meaningVi": "muốn",
+    "ipa": "wɑːnt",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 156,
+    "word": "Promotion",
+    "pos": "noun",
+    "meaningVi": "sự tăng tiến",
+    "ipa": "prəˈmoʊ.ʃən",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 157,
+    "word": "Vacation",
+    "pos": "noun",
+    "meaningVi": "kì nghỉ",
+    "ipa": "veɪˈkeɪ.ʃən",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 158,
+    "word": "Time",
+    "pos": "noun",
+    "meaningVi": "thời gian",
+    "ipa": "taɪm",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 159,
+    "word": "Reason",
+    "pos": "noun",
+    "meaningVi": "lí do",
+    "ipa": "ˈriː.zən",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 160,
+    "word": "Delay",
+    "pos": "noun",
+    "meaningVi": "sự trì hoãn",
+    "ipa": "dɪˈleɪ",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 161,
+    "word": "Submit",
+    "pos": "verb",
+    "meaningVi": "nộp",
+    "ipa": "səbˈmɪt",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 162,
+    "word": "Yesterday",
+    "pos": "noun",
+    "meaningVi": "hôm qua",
+    "ipa": "ˈjes.tɚ.deɪ",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 163,
+    "word": "Indicate",
+    "pos": "verb",
+    "meaningVi": "chỉ ra",
+    "ipa": "ˈɪn.də.keɪt",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 164,
+    "word": "Increase",
+    "pos": "noun",
+    "meaningVi": "sự tăng",
+    "ipa": "ɪnˈkriːs",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 165,
+    "word": "Significant",
+    "pos": "adjective",
+    "meaningVi": "đáng kể",
+    "ipa": "sɪɡˈnɪf.ə.kənt",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 166,
+    "word": "Full-time",
+    "pos": "adjective",
+    "meaningVi": "toàn thời gian",
+    "ipa": "ˌfʊl ˈtaɪm",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 167,
+    "word": "Eligible for",
+    "pos": "adjective",
+    "meaningVi": "đủ điều kiện",
+    "ipa": "ˈel.ə.dʒə.bəl",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 168,
+    "word": "Leave",
+    "pos": "noun",
+    "meaningVi": "sự nghỉ phép",
+    "ipa": "liːv",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 169,
+    "word": "Sick",
+    "pos": "adjective",
+    "meaningVi": "ốm",
+    "ipa": "sɪk",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 170,
+    "word": "Paid",
+    "pos": "adjective",
+    "meaningVi": "được trả tiền",
+    "ipa": "peɪd",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 171,
+    "word": "Everyone",
+    "pos": "pronoun",
+    "meaningVi": "mọi người",
+    "ipa": "ˈev.ri.wʌn",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 172,
+    "word": "Committee",
+    "pos": "noun",
+    "meaningVi": "ủy ban",
+    "ipa": "kəˈmɪt̬.i",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 173,
+    "word": "Agree",
+    "pos": "verb",
+    "meaningVi": "đồng ý",
+    "ipa": "əˈɡriː",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 174,
+    "word": "Spend",
+    "pos": "verb",
+    "meaningVi": "chi",
+    "ipa": "spend",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 175,
+    "word": "Research",
+    "pos": "noun",
+    "meaningVi": "nghiên cứu",
+    "ipa": "ˈriː.sɝːtʃ",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 176,
+    "word": "Development",
+    "pos": "noun",
+    "meaningVi": "sự phát triển",
+    "ipa": "dɪˈvel.əp.mənt",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 177,
+    "word": "Suggest",
+    "pos": "verb",
+    "meaningVi": "đề xuất",
+    "ipa": "səˈdʒest",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 178,
+    "word": "Consultant",
+    "pos": "noun",
+    "meaningVi": "người tư vấn",
+    "ipa": "kənˈsʌl.tənt",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 179,
+    "word": "Thing",
+    "pos": "noun",
+    "meaningVi": "thứ",
+    "ipa": "θɪŋ",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 180,
+    "word": "Achieve",
+    "pos": "verb",
+    "meaningVi": "đạt được",
+    "ipa": "əˈtʃiːv",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 181,
+    "word": "Do your best",
+    "pos": "phrase",
+    "meaningVi": "cố gắng hết sức bạn",
+    "ipa": "duː jɚ best",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 182,
+    "word": "Conference",
+    "pos": "noun",
+    "meaningVi": "hội nghị",
+    "ipa": "ˈkɑːn.fɚ.əns",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 183,
+    "word": "Meet",
+    "pos": "verb",
+    "meaningVi": "gặp",
+    "ipa": "miːt",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 184,
+    "word": "City",
+    "pos": "noun",
+    "meaningVi": "thành phố",
+    "ipa": "ˈsɪt̬.i",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 185,
+    "word": "Other",
+    "pos": "adjective",
+    "meaningVi": "khác",
+    "ipa": "ˈʌð.ɚ",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 186,
+    "word": "Orientation",
+    "pos": "noun",
+    "meaningVi": "sự định hướng",
+    "ipa": "ˌɔːr.i.enˈteɪ.ʃən",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 187,
+    "word": "A number of + Ns",
+    "pos": "phrase",
+    "meaningVi": "nhiều",
+    "ipa": "ə ˈnʌm.bɚ əv",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 188,
+    "word": "The number of + Ns",
+    "pos": null,
+    "meaningVi": "số lượng",
+    "ipa": null,
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 189,
+    "word": "Any",
+    "pos": "determiner",
+    "meaningVi": "bất kì",
+    "ipa": "ˈen.i",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 190,
+    "word": "Assistance",
+    "pos": "noun",
+    "meaningVi": "sự giúp đỡ",
+    "ipa": "əˈsɪs.təns",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 191,
+    "word": "Contact",
+    "pos": "verb",
+    "meaningVi": "liên lạc",
+    "ipa": "ˈkɑːn.tækt",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 192,
+    "word": "Assistant",
+    "pos": "noun",
+    "meaningVi": "trợ lí",
+    "ipa": "əˈsɪs.tənt",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 193,
+    "word": "One of the Ns",
+    "pos": null,
+    "meaningVi": "một trong những…",
+    "ipa": null,
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 194,
+    "word": "Provide",
+    "pos": "verb",
+    "meaningVi": "cung cấp",
+    "ipa": "prəˈvaɪd",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 195,
+    "word": "Service",
+    "pos": "noun",
+    "meaningVi": "dịch vụ",
+    "ipa": "ˈsɝː.vɪs",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 196,
+    "word": "Better",
+    "pos": "adjective",
+    "meaningVi": "tốt hơn",
+    "ipa": "ˈbet̬.ɚ",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 197,
+    "word": "Receive",
+    "pos": "verb",
+    "meaningVi": "nhận",
+    "ipa": "rɪˈsiːv",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 198,
+    "word": "Feedback",
+    "pos": "noun",
+    "meaningVi": "phản hồi",
+    "ipa": "ˈfiːd.bæk",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 199,
+    "word": "Impossible",
+    "pos": "adjective",
+    "meaningVi": "không thể",
+    "ipa": "ɪmˈpɑː.sə.bəl",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 200,
+    "word": "Team",
+    "pos": "noun",
+    "meaningVi": "đội, nhóm",
+    "ipa": "tiːm",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 201,
+    "word": "Deadline",
+    "pos": "noun",
+    "meaningVi": "hạn chót",
+    "ipa": "ˈded.laɪn",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 202,
+    "word": "Software",
+    "pos": "noun",
+    "meaningVi": "phần mềm",
+    "ipa": "ˈsɑːft.wer",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 203,
+    "word": "Program",
+    "pos": "noun",
+    "meaningVi": "chương trình",
+    "ipa": "ˈproʊ.ɡræm",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 204,
+    "word": "Possible",
+    "pos": "adjective",
+    "meaningVi": "có thể",
+    "ipa": "ˈpɑː.sə.bəl",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 205,
+    "word": "Reduce",
+    "pos": "verb",
+    "meaningVi": "giảm",
+    "ipa": "rɪˈduːs",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 206,
+    "word": "Consider",
+    "pos": "verb",
+    "meaningVi": "xem xét",
+    "ipa": "kənˈsɪd.ɚ",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 207,
+    "word": "Discontinue",
+    "pos": "verb",
+    "meaningVi": "ngừng",
+    "ipa": "ˌdɪs.kənˈtɪn.juː",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 208,
+    "word": "Finish",
+    "pos": "verb",
+    "meaningVi": "hoàn thành",
+    "ipa": "ˈfɪn.ɪʃ",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 209,
+    "word": "Include",
+    "pos": "verb",
+    "meaningVi": "bao gồm",
+    "ipa": "ɪnˈkluːd",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 210,
+    "word": "Keep",
+    "pos": "verb",
+    "meaningVi": "tiếp tục",
+    "ipa": "kiːp",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 211,
+    "word": "Decide",
+    "pos": "verb",
+    "meaningVi": "quyết định",
+    "ipa": "dɪˈsaɪd",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 212,
+    "word": "Hat",
+    "pos": "noun",
+    "meaningVi": "cái nón",
+    "ipa": "hæt",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 213,
+    "word": "Lady",
+    "pos": "noun",
+    "meaningVi": "quý bà",
+    "ipa": "ˈleɪ.di",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 214,
+    "word": "Request",
+    "pos": "verb",
+    "meaningVi": "yêu cầu",
+    "ipa": "rɪˈkwest",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 215,
+    "word": "Recommend",
+    "pos": "verb",
+    "meaningVi": "đề nghị",
+    "ipa": "ˌrek.əˈmend",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 216,
+    "word": "Suggest",
+    "pos": "verb",
+    "meaningVi": "đề xuất",
+    "ipa": "səˈdʒest",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 217,
+    "word": "Insist",
+    "pos": "verb",
+    "meaningVi": "khăng khăng",
+    "ipa": "ɪnˈsɪst",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 218,
+    "word": "Imperative",
+    "pos": "adjective",
+    "meaningVi": "cấp thiết",
+    "ipa": "ɪmˈper.ə.t̬ɪv",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 219,
+    "word": "Essential",
+    "pos": "adjective",
+    "meaningVi": "cần thiết",
+    "ipa": "ɪˈsen.ʃəl",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 220,
+    "word": "Important",
+    "pos": "adjective",
+    "meaningVi": "quan trọng",
+    "ipa": "ɪmˈpɔːr.tənt",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 221,
+    "word": "Necessary",
+    "pos": "adjective",
+    "meaningVi": "cần thiết",
+    "ipa": "ˈnes.ə.ser.i",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 222,
+    "word": "Budget",
+    "pos": "noun",
+    "meaningVi": "ngân sách",
+    "ipa": "ˈbʌdʒ.ɪt",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 223,
+    "word": "Facility",
+    "pos": "noun",
+    "meaningVi": "cơ sở vật chất",
+    "ipa": "fəˈsɪl.ə.t̬i",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 224,
+    "word": "Check",
+    "pos": "verb",
+    "meaningVi": "kiểm tra",
+    "ipa": "tʃek",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 225,
+    "word": "Regularly",
+    "pos": "adverb",
+    "meaningVi": "thường xuyên",
+    "ipa": "ˈreɡ·jə·lər·li",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 226,
+    "word": "When",
+    "pos": "conjunction",
+    "meaningVi": "khi",
+    "ipa": "wen",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 227,
+    "word": "While",
+    "pos": "conjunction",
+    "meaningVi": "trong khi",
+    "ipa": "waɪl",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 228,
+    "word": "After",
+    "pos": "preposition/conjunction",
+    "meaningVi": "sau khi",
+    "ipa": "ˈæf.tɚ",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 229,
+    "word": "Before",
+    "pos": "preposition/conjunction",
+    "meaningVi": "trước khi",
+    "ipa": "bɪˈfɔːr",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 230,
+    "word": "As soon as",
+    "pos": "conjunction",
+    "meaningVi": "ngay khi",
+    "ipa": "əz suːn əz",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 231,
+    "word": "If",
+    "pos": "conjunction",
+    "meaningVi": "nếu",
+    "ipa": "ɪf",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 232,
+    "word": "Once",
+    "pos": "conjunction",
+    "meaningVi": "một khi",
+    "ipa": "wʌns",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 233,
+    "word": "Unless",
+    "pos": "conjunction",
+    "meaningVi": "trừ khi, nếu không",
+    "ipa": "ənˈles",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 234,
+    "word": "Forget",
+    "pos": "verb",
+    "meaningVi": "quên",
+    "ipa": "fɚˈɡet",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 235,
+    "word": "Turn off",
+    "pos": "phrase",
+    "meaningVi": "tắt",
+    "ipa": "tɝːn ɑːf",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 236,
+    "word": "Computer",
+    "pos": "noun",
+    "meaningVi": "máy tính",
+    "ipa": "kəmˈpjuː.t̬ɚ",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 237,
+    "word": "Leave",
+    "pos": "verb",
+    "meaningVi": "rời khỏi",
+    "ipa": "liːv",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 238,
+    "word": "Office",
+    "pos": "noun",
+    "meaningVi": "văn phòng",
+    "ipa": "ˈɑː.fɪs",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 239,
+    "word": "Return",
+    "pos": "verb",
+    "meaningVi": "trả lại",
+    "ipa": "rɪˈtɝːn",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 240,
+    "word": "Coupon",
+    "pos": "noun",
+    "meaningVi": "phiếu giảm giá",
+    "ipa": "ˈkuː.pɑːn",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 241,
+    "word": "Discount",
+    "pos": "noun",
+    "meaningVi": "giảm giá",
+    "ipa": "ˈdɪs.kaʊnt",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 242,
+    "word": "There is/are",
+    "pos": null,
+    "meaningVi": "có",
+    "ipa": "ðer ɪz ɑːr",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 243,
+    "word": "Usually",
+    "pos": "adverb",
+    "meaningVi": "thường xuyên",
+    "ipa": "ˈjuː.ʒu.ə.li",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 244,
+    "word": "Help",
+    "pos": "verb",
+    "meaningVi": "giúp đỡ",
+    "ipa": "help",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 245,
+    "word": "Poor",
+    "pos": "adjective",
+    "meaningVi": "nghèo",
+    "ipa": "pʊr",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 246,
+    "word": "Student",
+    "pos": "noun",
+    "meaningVi": "sinh viên",
+    "ipa": "ˈstuː.dənt",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 247,
+    "word": "Area",
+    "pos": "noun",
+    "meaningVi": "khu vực",
+    "ipa": "ˈer.i.ə",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 248,
+    "word": "Donate",
+    "pos": "verb",
+    "meaningVi": "quyên góp",
+    "ipa": "ˈdoʊ.neɪt",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 249,
+    "word": "Ago",
+    "pos": "adverb",
+    "meaningVi": "trước",
+    "ipa": "əˈɡoʊ",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 250,
+    "word": "Join",
+    "pos": "verb",
+    "meaningVi": "tham gia",
+    "ipa": "dʒɔɪn",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 251,
+    "word": "Wage",
+    "pos": "noun",
+    "meaningVi": "tiền lương",
+    "ipa": "weɪdʒ",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 252,
+    "word": "Worker",
+    "pos": "noun",
+    "meaningVi": "công nhân",
+    "ipa": "ˈwɝː.kɚ",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 253,
+    "word": "Rise",
+    "pos": "verb",
+    "meaningVi": "tăng",
+    "ipa": "raɪz",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 254,
+    "word": "Steadily",
+    "pos": "adverb",
+    "meaningVi": "đều đặn",
+    "ipa": "ˈsted.əl.i",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 255,
+    "word": "Over",
+    "pos": "preposition",
+    "meaningVi": "trong vòng",
+    "ipa": "ˈoʊ.vɚ",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 256,
+    "word": "Ceremony",
+    "pos": "noun",
+    "meaningVi": "buổi lễ",
+    "ipa": "ˈser.ə.moʊ.ni",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 257,
+    "word": "Tomorrow",
+    "pos": "adverb",
+    "meaningVi": "ngày mai",
+    "ipa": "təˈmɔːr.oʊ",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 258,
+    "word": "Hold",
+    "pos": "verb",
+    "meaningVi": "tổ chức",
+    "ipa": "hoʊld",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 259,
+    "word": "Economist",
+    "pos": "noun",
+    "meaningVi": "nhà kinh tế",
+    "ipa": "iˈkɑː.nə.mɪst",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 260,
+    "word": "Strongly",
+    "pos": "adverb",
+    "meaningVi": "mạnh mẽ",
+    "ipa": "ˈstrɑːŋ.li",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 261,
+    "word": "Criticize",
+    "pos": "verb",
+    "meaningVi": "chỉ trích",
+    "ipa": "ˈkrɪt̬.ɪ.saɪz",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 262,
+    "word": "Government",
+    "pos": "noun",
+    "meaningVi": "chính phủ",
+    "ipa": "ˈɡʌv.ən.mənt",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 263,
+    "word": "Bill",
+    "pos": "noun",
+    "meaningVi": "luật",
+    "ipa": "bɪl",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 264,
+    "word": "Raise",
+    "pos": "verb",
+    "meaningVi": "tăng",
+    "ipa": "reɪz",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 265,
+    "word": "Property",
+    "pos": "noun",
+    "meaningVi": "tài sản, bất động sản",
+    "ipa": "ˈprɑː.pɚ.t̬i",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 266,
+    "word": "Tax",
+    "pos": "noun",
+    "meaningVi": "thuế",
+    "ipa": "tæks",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 267,
+    "word": "Remember",
+    "pos": "verb",
+    "meaningVi": "nhớ",
+    "ipa": "rɪˈmem.bɚ",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 268,
+    "word": "Application",
+    "pos": "noun",
+    "meaningVi": "đơn xin việc",
+    "ipa": "ˌæp.ləˈkeɪ.ʃən",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 269,
+    "word": "Material",
+    "pos": "noun",
+    "meaningVi": "tài liệu, vật liệu",
+    "ipa": "məˈtɪr.i.əl",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 270,
+    "word": "Send",
+    "pos": "verb",
+    "meaningVi": "gửi",
+    "ipa": "send",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 271,
+    "word": "Friday",
+    "pos": "noun",
+    "meaningVi": "thứ sáu",
+    "ipa": "ˈfraɪ.deɪ",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 272,
+    "word": "Refund",
+    "pos": "noun",
+    "meaningVi": "tiền hoàn lại",
+    "ipa": "ˈriː.fʌnd",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 273,
+    "word": "Account",
+    "pos": "noun",
+    "meaningVi": "tài khoản",
+    "ipa": "əˈkaʊnt",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 274,
+    "word": "Into",
+    "pos": "preposition",
+    "meaningVi": "vào trong",
+    "ipa": "ˈɪn.tuː",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 275,
+    "word": "Within",
+    "pos": "preposition",
+    "meaningVi": "trong vòng",
+    "ipa": "wɪˈðɪn",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 276,
+    "word": "Claim",
+    "pos": "noun",
+    "meaningVi": "yêu cầu, khiếu nại",
+    "ipa": "kleɪm",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 277,
+    "word": "Deposit",
+    "pos": "verb",
+    "meaningVi": "chuyển",
+    "ipa": "dɪˈpɑː.zɪt",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 278,
+    "word": "New-member",
+    "pos": "adjective",
+    "meaningVi": "thành viên mới",
+    "ipa": "nuː mem.bɚ",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 279,
+    "word": "Marketing",
+    "pos": "noun",
+    "meaningVi": "tiếp thị",
+    "ipa": "ˈmɑːr.kɪ.t̬ɪŋ",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 280,
+    "word": "Director",
+    "pos": "noun",
+    "meaningVi": "giám đốc",
+    "ipa": "daɪˈrek.tɚ",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 281,
+    "word": "Detail",
+    "pos": "noun",
+    "meaningVi": "chi tiết",
+    "ipa": "ˈdiː.teɪl",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 282,
+    "word": "Campaign",
+    "pos": "noun",
+    "meaningVi": "chiến dịch",
+    "ipa": "kæmˈpeɪn",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 283,
+    "word": "Vacant",
+    "pos": "adjective",
+    "meaningVi": "trống",
+    "ipa": "ˈveɪ.kənt",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 284,
+    "word": "Position",
+    "pos": "noun",
+    "meaningVi": "vị trí",
+    "ipa": "pəˈzɪʃ.ən",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 285,
+    "word": "Many",
+    "pos": "determiner",
+    "meaningVi": "nhiều",
+    "ipa": "ˈmen.i",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 286,
+    "word": "Enter",
+    "pos": "verb",
+    "meaningVi": "bước vào",
+    "ipa": "ˈen.t̬ɚ",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 287,
+    "word": "Laboratory",
+    "pos": "noun",
+    "meaningVi": "phòng thí nghiệm",
+    "ipa": "ˈlæb.rə.tɔːr.i",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 288,
+    "word": "Present",
+    "pos": "verb",
+    "meaningVi": "xuất trình",
+    "ipa": "prɪˈzent",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 289,
+    "word": "Identification",
+    "pos": "noun",
+    "meaningVi": "giấy chứng minh, thẻ nhận dạng",
+    "ipa": "aɪˌden.t̬ə.fəˈkeɪ.ʃən",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 290,
+    "word": "Institute",
+    "pos": "noun",
+    "meaningVi": "viện",
+    "ipa": "ˈɪn.stə.tuːt",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 291,
+    "word": "Foreign",
+    "pos": "adjective",
+    "meaningVi": "nước ngoài",
+    "ipa": "ˈfɔːr.ən",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 292,
+    "word": "Expect",
+    "pos": "verb",
+    "meaningVi": "dự kiến, mong đợi",
+    "ipa": "ɪkˈspekt",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 293,
+    "word": "Member",
+    "pos": "noun",
+    "meaningVi": "thành viên",
+    "ipa": "ˈmem.bɚ",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 294,
+    "word": "Museum",
+    "pos": "noun",
+    "meaningVi": "bảo tàng",
+    "ipa": "mjuːˈziː.əm",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 295,
+    "word": "Free",
+    "pos": "adjective",
+    "meaningVi": "miễn phí",
+    "ipa": "friː",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 296,
+    "word": "Admission",
+    "pos": "noun",
+    "meaningVi": "sự vào cổng",
+    "ipa": "ədˈmɪʃ.ən",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 297,
+    "word": "Twice a year",
+    "pos": null,
+    "meaningVi": "2 lần 1 năm",
+    "ipa": "twaɪs ə jɪr",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 298,
+    "word": "Information",
+    "pos": "noun",
+    "meaningVi": "thông tin",
+    "ipa": "ˌɪn.fɚˈmeɪ.ʃən",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 299,
+    "word": "Upcoming",
+    "pos": "adjective",
+    "meaningVi": "sắp tới",
+    "ipa": "ˈʌpˌkʌm.ɪŋ",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 300,
+    "word": "Seminar",
+    "pos": "noun",
+    "meaningVi": "hội thảo",
+    "ipa": "ˈsem.ə.nɑːr",
+    "tags": [
+      "baseline"
+    ]
+  },
+  {
+    "id": 301,
+    "word": "Available",
+    "pos": "adjective",
+    "meaningVi": "có sẵn",
+    "ipa": "əˈveɪ.lə.bəl",
+    "tags": []
+  },
+  {
+    "id": 302,
+    "word": "Advance",
+    "pos": "noun",
+    "meaningVi": "sự tiến bộ",
+    "ipa": "ədˈvæns",
+    "tags": []
+  },
+  {
+    "id": 303,
+    "word": "Advancement",
+    "pos": "noun",
+    "meaningVi": "sự thăng tiến",
+    "ipa": "ədˈvæns.mənt",
+    "tags": []
+  },
+  {
+    "id": 304,
+    "word": "Technology",
+    "pos": "noun",
+    "meaningVi": "công nghệ",
+    "ipa": "tekˈnɑː.lə.dʒi",
+    "tags": []
+  },
+  {
+    "id": 305,
+    "word": "Easy",
+    "pos": "adjective",
+    "meaningVi": "dễ dàng",
+    "ipa": "ˈiː.zi",
+    "tags": []
+  },
+  {
+    "id": 306,
+    "word": "Find",
+    "pos": "verb",
+    "meaningVi": "tìm",
+    "ipa": "faɪnd",
+    "tags": []
+  },
+  {
+    "id": 307,
+    "word": "Legal case",
+    "pos": "noun",
+    "meaningVi": "vụ án",
+    "ipa": "ˈliː.ɡəl keɪs",
+    "tags": []
+  },
+  {
+    "id": 308,
+    "word": "Through",
+    "pos": "preposition",
+    "meaningVi": "thông qua",
+    "ipa": "θruː",
+    "tags": []
+  },
+  {
+    "id": 309,
+    "word": "Everyone",
+    "pos": "determiner",
+    "meaningVi": "mọi người",
+    "ipa": "ˈev.ri.wʌn",
+    "tags": []
+  },
+  {
+    "id": 310,
+    "word": "Proceed",
+    "pos": "verb",
+    "meaningVi": "tiến hành",
+    "ipa": "proʊˈsiːd",
+    "tags": []
+  },
+  {
+    "id": 311,
+    "word": "Colleague",
+    "pos": "noun",
+    "meaningVi": "đồng nghiệp",
+    "ipa": "ˈkɑː.liːɡ",
+    "tags": []
+  },
+  {
+    "id": 312,
+    "word": "Instruct",
+    "pos": "verb",
+    "meaningVi": "hướng dẫn",
+    "ipa": "ɪnˈstrʌkt",
+    "tags": []
+  },
+  {
+    "id": 313,
+    "word": "Prepare",
+    "pos": "verb",
+    "meaningVi": "chuẩn bị",
+    "ipa": "prɪˈper",
+    "tags": []
+  },
+  {
+    "id": 314,
+    "word": "Workplace",
+    "pos": "noun",
+    "meaningVi": "nơi làm việc",
+    "ipa": "ˈwɝːk.pleɪs",
+    "tags": []
+  },
+  {
+    "id": 315,
+    "word": "Almost",
+    "pos": "adverb",
+    "meaningVi": "hầu hết",
+    "ipa": "ˈɑːl.moʊst",
+    "tags": []
+  },
+  {
+    "id": 316,
+    "word": "Really",
+    "pos": "adverb",
+    "meaningVi": "rất",
+    "ipa": "ˈriː.ə.li",
+    "tags": []
+  },
+  {
+    "id": 317,
+    "word": "Responsive",
+    "pos": "adjective",
+    "meaningVi": "phản hồi",
+    "ipa": "rɪˈspɑːn.sɪv",
+    "tags": []
+  },
+  {
+    "id": 318,
+    "word": "Need",
+    "pos": "noun",
+    "meaningVi": "nhu cầu",
+    "ipa": "niːd",
+    "tags": []
+  },
+  {
+    "id": 319,
+    "word": "Begin",
+    "pos": "verb",
+    "meaningVi": "bắt đầu",
+    "ipa": "bɪˈɡɪn",
+    "tags": []
+  },
+  {
+    "id": 320,
+    "word": "Line",
+    "pos": "noun",
+    "meaningVi": "dòng sản phẩm",
+    "ipa": "laɪn",
+    "tags": []
+  },
+  {
+    "id": 321,
+    "word": "Portable",
+    "pos": "adjective",
+    "meaningVi": "di động",
+    "ipa": "ˈpɔːr.t̬ə.bəl",
+    "tags": []
+  },
+  {
+    "id": 322,
+    "word": "Printer",
+    "pos": "noun",
+    "meaningVi": "máy in",
+    "ipa": "ˈprɪn.t̬ɚ",
+    "tags": []
+  },
+  {
+    "id": 323,
+    "word": "Productive",
+    "pos": "adjective",
+    "meaningVi": "năng suất",
+    "ipa": "prəˈdʌk.tɪv",
+    "tags": []
+  },
+  {
+    "id": 324,
+    "word": "Produce",
+    "pos": "verb",
+    "meaningVi": "sản xuất",
+    "ipa": "prəˈduːs",
+    "tags": []
+  },
+  {
+    "id": 325,
+    "word": "Production",
+    "pos": "noun",
+    "meaningVi": "việc sản xuất",
+    "ipa": "prəˈdʌk.ʃən",
+    "tags": []
+  },
+  {
+    "id": 326,
+    "word": "System",
+    "pos": "noun",
+    "meaningVi": "hệ thống",
+    "ipa": "ˈsɪs.təm",
+    "tags": []
+  },
+  {
+    "id": 327,
+    "word": "Engineer",
+    "pos": "noun",
+    "meaningVi": "kĩ sư",
+    "ipa": "ˌen.dʒɪˈnɪr",
+    "tags": []
+  },
+  {
+    "id": 328,
+    "word": "Existing",
+    "pos": "adjective",
+    "meaningVi": "hiện có",
+    "ipa": "ɪɡˈzɪs.tɪŋ",
+    "tags": []
+  },
+  {
+    "id": 329,
+    "word": "As soon as possible",
+    "pos": null,
+    "meaningVi": "ngay khi có thể",
+    "ipa": "əz suːn əz ˈpɑː.sə.bəl",
+    "tags": []
+  },
+  {
+    "id": 330,
+    "word": "Upgrade",
+    "pos": "verb",
+    "meaningVi": "nâng cấp",
+    "ipa": "ʌpˈɡreɪd",
+    "tags": []
+  },
+  {
+    "id": 331,
+    "word": "Hesitate",
+    "pos": "verb",
+    "meaningVi": "do dự",
+    "ipa": "ˈhez.ə.teɪt",
+    "tags": []
+  },
+  {
+    "id": 332,
+    "word": "Ask",
+    "pos": "verb",
+    "meaningVi": "hỏi",
+    "ipa": "æsk",
+    "tags": []
+  },
+  {
+    "id": 333,
+    "word": "Recreational",
+    "pos": "adjective",
+    "meaningVi": "giải trí",
+    "ipa": "ˌrek.riˈeɪ.ʃən.əl",
+    "tags": []
+  },
+  {
+    "id": 334,
+    "word": "Vehicle",
+    "pos": "noun",
+    "meaningVi": "xe",
+    "ipa": "ˈviː.ə.kəl",
+    "tags": []
+  },
+  {
+    "id": 335,
+    "word": "Significantly",
+    "pos": "adverb",
+    "meaningVi": "một cách đáng kể",
+    "ipa": "sɪɡˈnɪf.ə.kənt.li",
+    "tags": []
+  },
+  {
+    "id": 336,
+    "word": "Low",
+    "pos": "adjective",
+    "meaningVi": "thấp",
+    "ipa": "loʊ",
+    "tags": []
+  },
+  {
+    "id": 337,
+    "word": "Discussion",
+    "pos": "noun",
+    "meaningVi": "sự thảo luận",
+    "ipa": "dɪˈskʌʃ.ən",
+    "tags": []
+  },
+  {
+    "id": 338,
+    "word": "Introduce",
+    "pos": "verb",
+    "meaningVi": "giới thiệu",
+    "ipa": "ˌɪn.trəˈduːs",
+    "tags": []
+  },
+  {
+    "id": 339,
+    "word": "Early",
+    "pos": "adverb",
+    "meaningVi": "đầu, sớm",
+    "ipa": "ˈɝː.li",
+    "tags": []
+  },
+  {
+    "id": 340,
+    "word": "Launch",
+    "pos": "verb",
+    "meaningVi": "ra mắt",
+    "ipa": "lɑːntʃ",
+    "tags": []
+  },
+  {
+    "id": 341,
+    "word": "Advertising",
+    "pos": "noun",
+    "meaningVi": "quảng cáo",
+    "ipa": "ˈæd.vɚ.taɪ.zɪŋ",
+    "tags": []
+  },
+  {
+    "id": 342,
+    "word": "Post",
+    "pos": "verb",
+    "meaningVi": "đăng, dán",
+    "ipa": "poʊst",
+    "tags": []
+  },
+  {
+    "id": 343,
+    "word": "Bulletin board",
+    "pos": "noun",
+    "meaningVi": "bảng dán thông báo",
+    "ipa": "ˈbʊl.ə.t̬ɪn ˌbɔːrd",
+    "tags": []
+  },
+  {
+    "id": 344,
+    "word": "Schedule",
+    "pos": "verb",
+    "meaningVi": "lên lịch",
+    "ipa": "ˈskedʒ.uːl",
+    "tags": []
+  },
+  {
+    "id": 345,
+    "word": "Schedule",
+    "pos": "noun",
+    "meaningVi": "lịch trình",
+    "ipa": "ˈskedʒ.uːl",
+    "tags": []
+  },
+  {
+    "id": 346,
+    "word": "Late",
+    "pos": "adjective",
+    "meaningVi": "trễ",
+    "ipa": "leɪt",
+    "tags": []
+  },
+  {
+    "id": 347,
+    "word": "Entry",
+    "pos": "noun",
+    "meaningVi": "bài dự thi",
+    "ipa": "ˈen.tri",
+    "tags": []
+  },
+  {
+    "id": 348,
+    "word": "Contest",
+    "pos": "noun",
+    "meaningVi": "cuộc thi",
+    "ipa": "ˈkɑːn.test",
+    "tags": []
+  },
+  {
+    "id": 349,
+    "word": "Solution",
+    "pos": "noun",
+    "meaningVi": "giải pháp",
+    "ipa": "səˈluː.ʃən",
+    "tags": []
+  },
+  {
+    "id": 350,
+    "word": "Traffic",
+    "pos": "noun",
+    "meaningVi": "giao thông",
+    "ipa": "ˈtræf.ɪk",
+    "tags": []
+  },
+  {
+    "id": 351,
+    "word": "Problem",
+    "pos": "noun",
+    "meaningVi": "vấn đề",
+    "ipa": "ˈprɑː.bləm",
+    "tags": []
+  },
+  {
+    "id": 352,
+    "word": "Individually",
+    "pos": "adverb",
+    "meaningVi": "riêng lẻ",
+    "ipa": "ˌɪn.dəˈvɪdʒ.u.ə.li",
+    "tags": []
+  },
+  {
+    "id": 353,
+    "word": "Follow",
+    "pos": "verb",
+    "meaningVi": "tuân theo",
+    "ipa": "ˈfɑː.loʊ",
+    "tags": []
+  },
+  {
+    "id": 354,
+    "word": "Precaution",
+    "pos": "noun",
+    "meaningVi": "biện pháp phòng ngừa",
+    "ipa": "prɪˈkɑː.ʃən",
+    "tags": []
+  },
+  {
+    "id": 355,
+    "word": "Safety",
+    "pos": "noun",
+    "meaningVi": "sự an toàn",
+    "ipa": "ˈseɪf.ti",
+    "tags": []
+  },
+  {
+    "id": 356,
+    "word": "Avoid",
+    "pos": "verb",
+    "meaningVi": "tránh",
+    "ipa": "əˈvɔɪd",
+    "tags": []
+  },
+  {
+    "id": 357,
+    "word": "Injury",
+    "pos": "noun",
+    "meaningVi": "sự bị thương",
+    "ipa": "ˈɪn.dʒər.i",
+    "tags": []
+  },
+  {
+    "id": 358,
+    "word": "Expand",
+    "pos": "verb",
+    "meaningVi": "mở rộng",
+    "ipa": "ɪkˈspænd",
+    "tags": []
+  },
+  {
+    "id": 359,
+    "word": "Size",
+    "pos": "noun",
+    "meaningVi": "kích thước",
+    "ipa": "saɪz",
+    "tags": []
+  },
+  {
+    "id": 360,
+    "word": "Quality",
+    "pos": "noun",
+    "meaningVi": "chất lượng",
+    "ipa": "ˈkwɑː.lə.t̬i",
+    "tags": []
+  },
+  {
+    "id": 361,
+    "word": "Attract",
+    "pos": "verb",
+    "meaningVi": "thu hút",
+    "ipa": "əˈtrækt",
+    "tags": []
+  },
+  {
+    "id": 362,
+    "word": "Tourist",
+    "pos": "noun",
+    "meaningVi": "khách du lịch",
+    "ipa": "ˈtʊr.ɪst",
+    "tags": []
+  },
+  {
+    "id": 363,
+    "word": "Coming",
+    "pos": "adjective",
+    "meaningVi": "sắp tới",
+    "ipa": "ˈkʌm.ɪŋ",
+    "tags": []
+  },
+  {
+    "id": 364,
+    "word": "Expectation",
+    "pos": "noun",
+    "meaningVi": "sự kì vọng",
+    "ipa": "ˌek.spekˈteɪ.ʃən",
+    "tags": []
+  },
+  {
+    "id": 365,
+    "word": "Though",
+    "pos": "conjunction",
+    "meaningVi": "mặc dù",
+    "ipa": "ðoʊ",
+    "tags": []
+  },
+  {
+    "id": 366,
+    "word": "A great deal of + N không đếm được",
+    "pos": null,
+    "meaningVi": "nhiều",
+    "ipa": "ə ɡreɪt diːl əv",
+    "tags": []
+  },
+  {
+    "id": 367,
+    "word": "Invest",
+    "pos": "verb",
+    "meaningVi": "đầu tư",
+    "ipa": "ɪnˈvest",
+    "tags": []
+  },
+  {
+    "id": 368,
+    "word": "Public",
+    "pos": "adjective",
+    "meaningVi": "công cộng",
+    "ipa": "ˈpʌb.lɪk",
+    "tags": []
+  },
+  {
+    "id": 369,
+    "word": "Building",
+    "pos": "noun",
+    "meaningVi": "tòa nhà",
+    "ipa": "ˈbɪl.dɪŋ",
+    "tags": []
+  },
+  {
+    "id": 370,
+    "word": "Throughout",
+    "pos": "preposition",
+    "meaningVi": "khắp",
+    "ipa": "θruːˈaʊt",
+    "tags": []
+  },
+  {
+    "id": 371,
+    "word": "Country",
+    "pos": "noun",
+    "meaningVi": "đất nước",
+    "ipa": "ˈkʌn.tri",
+    "tags": []
+  },
+  {
+    "id": 372,
+    "word": "Implement",
+    "pos": "verb",
+    "meaningVi": "thực hiện",
+    "ipa": "ˈɪm.plə.ment",
+    "tags": []
+  },
+  {
+    "id": 373,
+    "word": "Implementation",
+    "pos": "noun",
+    "meaningVi": "sự thực hiện",
+    "ipa": "ˌɪm.plə.menˈteɪ.ʃən",
+    "tags": []
+  },
+  {
+    "id": 374,
+    "word": "No-smoking",
+    "pos": "adjective",
+    "meaningVi": "không hút thuốc",
+    "ipa": "ˌnoʊˈsmoʊ.kɪŋ",
+    "tags": []
+  },
+  {
+    "id": 375,
+    "word": "Great",
+    "pos": "adjective",
+    "meaningVi": "tuyệt, lớn",
+    "ipa": "ɡreɪt",
+    "tags": []
+  },
+  {
+    "id": 376,
+    "word": "Pleasure",
+    "pos": "noun",
+    "meaningVi": "niềm vui, sự vinh dự",
+    "ipa": "ˈpleʒ.ɚ",
+    "tags": []
+  },
+  {
+    "id": 377,
+    "word": "Inform",
+    "pos": "verb",
+    "meaningVi": "thông báo",
+    "ipa": "ɪnˈfɔːrm",
+    "tags": []
+  },
+  {
+    "id": 378,
+    "word": "Supplier",
+    "pos": "noun",
+    "meaningVi": "nhà cung cấp",
+    "ipa": "səˈplaɪ.ɚ",
+    "tags": []
+  },
+  {
+    "id": 379,
+    "word": "New",
+    "pos": "adjective",
+    "meaningVi": "mới",
+    "ipa": "nuː",
+    "tags": []
+  },
+  {
+    "id": 380,
+    "word": "Our",
+    "pos": "adjective",
+    "meaningVi": "của chúng tôi",
+    "ipa": "aʊr",
+    "tags": []
+  },
+  {
+    "id": 381,
+    "word": "Select",
+    "pos": "verb",
+    "meaningVi": "lựa chọn",
+    "ipa": "səˈlekt",
+    "tags": []
+  },
+  {
+    "id": 382,
+    "word": "Require",
+    "pos": "verb",
+    "meaningVi": "yêu cầu",
+    "ipa": "rɪˈkwaɪr",
+    "tags": []
+  },
+  {
+    "id": 383,
+    "word": "Additional",
+    "pos": "adjective",
+    "meaningVi": "thêm, bổ sung",
+    "ipa": "əˈdɪʃ.ən.əl",
+    "tags": []
+  },
+  {
+    "id": 384,
+    "word": "Contact",
+    "pos": "verb",
+    "meaningVi": "liên lạc",
+    "ipa": "ˈkɑːn.tækt",
+    "tags": []
+  },
+  {
+    "id": 385,
+    "word": "Representative",
+    "pos": "noun",
+    "meaningVi": "người đại diện",
+    "ipa": "ˌrep.rɪˈzen.t̬ə.t̬ɪv",
+    "tags": []
+  },
+  {
+    "id": 386,
+    "word": "Because of",
+    "pos": "preposition",
+    "meaningVi": "bởi vì",
+    "ipa": "bɪˈkɑːz ˌəv",
+    "tags": []
+  },
+  {
+    "id": 387,
+    "word": "Mechanical",
+    "pos": "adjective",
+    "meaningVi": "máy móc",
+    "ipa": "məˈkæn.ɪ.kəl",
+    "tags": []
+  },
+  {
+    "id": 388,
+    "word": "Replacement",
+    "pos": "noun",
+    "meaningVi": "sự thay thế, vật thay thế",
+    "ipa": "rɪˈpleɪs.mənt",
+    "tags": []
+  },
+  {
+    "id": 389,
+    "word": "Part",
+    "pos": "noun",
+    "meaningVi": "bộ phận",
+    "ipa": "pɑːrt",
+    "tags": []
+  },
+  {
+    "id": 390,
+    "word": "Ship",
+    "pos": "verb",
+    "meaningVi": "gửi",
+    "ipa": "ʃɪp",
+    "tags": []
+  },
+  {
+    "id": 391,
+    "word": "Luncheon",
+    "pos": "noun",
+    "meaningVi": "tiệc trưa",
+    "ipa": "ˈlʌn.tʃən",
+    "tags": []
+  },
+  {
+    "id": 392,
+    "word": "In honor of",
+    "pos": "phrase",
+    "meaningVi": "nhằm vinh danh",
+    "ipa": "ɪnˈɑː.nɚ əv",
+    "tags": []
+  },
+  {
+    "id": 393,
+    "word": "Sales department",
+    "pos": "noun",
+    "meaningVi": "phòng bán hàng",
+    "ipa": "seɪlz dɪˈpɑːrt.mənt",
+    "tags": []
+  },
+  {
+    "id": 394,
+    "word": "Reach",
+    "pos": "verb",
+    "meaningVi": "đạt được",
+    "ipa": "riːtʃ",
+    "tags": []
+  },
+  {
+    "id": 395,
+    "word": "Hold",
+    "pos": "verb",
+    "meaningVi": "tổ chức",
+    "ipa": "hoʊld",
+    "tags": []
+  },
+  {
+    "id": 396,
+    "word": "According to",
+    "pos": "preposition",
+    "meaningVi": "theo như",
+    "ipa": "əˈkɔːr.dɪŋ ˌtuː",
+    "tags": []
+  },
+  {
+    "id": 397,
+    "word": "Overnight",
+    "pos": "adjective",
+    "meaningVi": "qua đêm",
+    "ipa": "ˌoʊ.vɚˈnaɪt",
+    "tags": []
+  },
+  {
+    "id": 398,
+    "word": "Camping",
+    "pos": "noun",
+    "meaningVi": "việc cắm trại",
+    "ipa": "ˈkæm.pɪŋ",
+    "tags": []
+  },
+  {
+    "id": 399,
+    "word": "National",
+    "pos": "adjective",
+    "meaningVi": "quốc gia",
+    "ipa": "ˈnæʃ.ən.əl",
+    "tags": []
+  },
+  {
+    "id": 400,
+    "word": "Park",
+    "pos": "noun",
+    "meaningVi": "công viên",
+    "ipa": "pɑːrk",
+    "tags": []
+  },
+  {
+    "id": 401,
+    "word": "No longer",
+    "pos": "adverb",
+    "meaningVi": "không còn nữa",
+    "ipa": "noʊ ˈlɔːŋɡər",
+    "tags": []
+  },
+  {
+    "id": 402,
+    "word": "Permit",
+    "pos": "verb",
+    "meaningVi": "cho phép",
+    "ipa": "pɚˈmɪt",
+    "tags": []
+  },
+  {
+    "id": 403,
+    "word": "Permit",
+    "pos": "noun",
+    "meaningVi": "giấy phép",
+    "ipa": "pɚˈmɪt",
+    "tags": []
+  },
+  {
+    "id": 404,
+    "word": "Permission",
+    "pos": "noun",
+    "meaningVi": "sự cho phép",
+    "ipa": "pɚˈmɪʃ.ən",
+    "tags": []
+  },
+  {
+    "id": 405,
+    "word": "Council",
+    "pos": "noun",
+    "meaningVi": "hội đồng",
+    "ipa": "ˈkaʊn.səl",
+    "tags": []
+  },
+  {
+    "id": 406,
+    "word": "City",
+    "pos": "noun",
+    "meaningVi": "thành phố",
+    "ipa": "ˈsɪt̬.i",
+    "tags": []
+  },
+  {
+    "id": 407,
+    "word": "Formally",
+    "pos": "adverb",
+    "meaningVi": "chính thức",
+    "ipa": "ˈfɔːr.mə.li",
+    "tags": []
+  },
+  {
+    "id": 408,
+    "word": "Downtown",
+    "pos": "adjective/adverb",
+    "meaningVi": "trung tâm",
+    "ipa": "ˌdaʊnˈtaʊn",
+    "tags": []
+  },
+  {
+    "id": 409,
+    "word": "Renewal",
+    "pos": "noun",
+    "meaningVi": "sự làm mới",
+    "ipa": "rɪˈnuː.əl",
+    "tags": []
+  },
+  {
+    "id": 410,
+    "word": "Approve",
+    "pos": null,
+    "meaningVi": "phê duyệt",
+    "ipa": "əˈpruːv",
+    "tags": []
+  },
+  {
+    "id": 411,
+    "word": "Effort",
+    "pos": "noun",
+    "meaningVi": "sự nỗ lực",
+    "ipa": "ˈef.ɚt",
+    "tags": []
+  },
+  {
+    "id": 412,
+    "word": "Considerable",
+    "pos": "adjective",
+    "meaningVi": "đáng kể",
+    "ipa": "kənˈsɪd.ɚ.ə.bəl",
+    "tags": []
+  },
+  {
+    "id": 413,
+    "word": "Succeed",
+    "pos": "verb",
+    "meaningVi": "thành công",
+    "ipa": "səkˈsiːd",
+    "tags": []
+  },
+  {
+    "id": 414,
+    "word": "Develop",
+    "pos": "verb",
+    "meaningVi": "phát triển",
+    "ipa": "dɪˈvel.əp",
+    "tags": []
+  },
+  {
+    "id": 415,
+    "word": "Environment-friendly",
+    "pos": "adjective",
+    "meaningVi": "thân thiện môi trường",
+    "ipa": "ɪn.vaɪ.rəˌmen.təl.i ˈfrend.li",
+    "tags": []
+  },
+  {
+    "id": 416,
+    "word": "Home",
+    "pos": "noun",
+    "meaningVi": "gia đình",
+    "ipa": "hoʊm",
+    "tags": []
+  },
+  {
+    "id": 417,
+    "word": "Appliance",
+    "pos": "noun",
+    "meaningVi": "thiết bị",
+    "ipa": "əˈplaɪ.əns",
+    "tags": []
+  },
+  {
+    "id": 418,
+    "word": "Commercial",
+    "pos": "adjective",
+    "meaningVi": "thương mại",
+    "ipa": "kəˈmɝː.ʃəl",
+    "tags": []
+  },
+  {
+    "id": 419,
+    "word": "Bank",
+    "pos": "noun",
+    "meaningVi": "ngân hàng",
+    "ipa": "bæŋk",
+    "tags": []
+  },
+  {
+    "id": 420,
+    "word": "Mortgage",
+    "pos": "noun",
+    "meaningVi": "việc thế chấp",
+    "ipa": "ˈmɔːr.ɡɪdʒ",
+    "tags": []
+  },
+  {
+    "id": 421,
+    "word": "Rate",
+    "pos": "noun",
+    "meaningVi": "tỉ lệ",
+    "ipa": "reɪt",
+    "tags": []
+  },
+  {
+    "id": 422,
+    "word": "Household",
+    "pos": "noun",
+    "meaningVi": "hộ gia đình",
+    "ipa": "ˈhaʊs.hoʊld",
+    "tags": []
+  },
+  {
+    "id": 423,
+    "word": "Difficulty",
+    "pos": "noun",
+    "meaningVi": "sự khó khăn",
+    "ipa": "ˈdɪf.ə.kəl.t̬i",
+    "tags": []
+  },
+  {
+    "id": 424,
+    "word": "Repay",
+    "pos": "verb",
+    "meaningVi": "trả, thanh toán",
+    "ipa": "rɪˈpeɪ",
+    "tags": []
+  },
+  {
+    "id": 425,
+    "word": "Interest",
+    "pos": "noun",
+    "meaningVi": "lãi suất",
+    "ipa": "ˈɪn.trɪst",
+    "tags": []
+  },
+  {
+    "id": 426,
+    "word": "Security",
+    "pos": "noun",
+    "meaningVi": "an ninh",
+    "ipa": "səˈkjʊr.ə.t̬i",
+    "tags": []
+  },
+  {
+    "id": 427,
+    "word": "Guard",
+    "pos": "noun",
+    "meaningVi": "nhân viên bảo vệ",
+    "ipa": "ɡɑːrd",
+    "tags": []
+  },
+  {
+    "id": 428,
+    "word": "Guideline",
+    "pos": "noun",
+    "meaningVi": "hướng dẫn",
+    "ipa": "ˈɡaɪd.laɪn",
+    "tags": []
+  },
+  {
+    "id": 429,
+    "word": "On duty",
+    "pos": "phrase",
+    "meaningVi": "làm nhiệm vụ",
+    "ipa": "ɑːn ˈduː.t̬i",
+    "tags": []
+  },
+  {
+    "id": 430,
+    "word": "Technical",
+    "pos": "adjective",
+    "meaningVi": "kĩ thuật",
+    "ipa": "ˈtek.nɪ.kəl",
+    "tags": []
+  },
+  {
+    "id": 431,
+    "word": "Support",
+    "pos": "noun",
+    "meaningVi": "sự hỗ trợ",
+    "ipa": "səˈpɔːrt",
+    "tags": []
+  },
+  {
+    "id": 432,
+    "word": "Headquarter",
+    "pos": "noun",
+    "meaningVi": "trụ sở chính",
+    "ipa": "ˈhedˌkwɔːr.t̬ɚ",
+    "tags": []
+  },
+  {
+    "id": 433,
+    "word": "Learn",
+    "pos": "verb",
+    "meaningVi": "học",
+    "ipa": "lɝːn",
+    "tags": []
+  },
+  {
+    "id": 434,
+    "word": "Operate",
+    "pos": "verb",
+    "meaningVi": "vận hành",
+    "ipa": "ˈɑː.pə.reɪt",
+    "tags": []
+  },
+  {
+    "id": 435,
+    "word": "Network",
+    "pos": "noun",
+    "meaningVi": "mạng lưới",
+    "ipa": "ˈnet.wɝːk",
+    "tags": []
+  },
+  {
+    "id": 436,
+    "word": "Access",
+    "pos": "noun",
+    "meaningVi": "sự truy cập, tiếp cận",
+    "ipa": "ˈæk.ses",
+    "tags": []
+  },
+  {
+    "id": 437,
+    "word": "Train",
+    "pos": "verb",
+    "meaningVi": "đào tạo",
+    "ipa": "treɪn",
+    "tags": []
+  },
+  {
+    "id": 438,
+    "word": "Newly",
+    "pos": "adverb",
+    "meaningVi": "gần đây",
+    "ipa": "ˈnuː.li",
+    "tags": []
+  },
+  {
+    "id": 439,
+    "word": "Installed",
+    "pos": "adjective",
+    "meaningVi": "được cài đặt",
+    "ipa": "ɪnˈstɑːl",
+    "tags": []
+  },
+  {
+    "id": 440,
+    "word": "User",
+    "pos": "noun",
+    "meaningVi": "người dùng",
+    "ipa": "ˈjuː.zɚ",
+    "tags": []
+  },
+  {
+    "id": 441,
+    "word": "Number",
+    "pos": "noun",
+    "meaningVi": "số",
+    "ipa": "ˈnʌm.bɚ",
+    "tags": []
+  },
+  {
+    "id": 442,
+    "word": "Four-digit",
+    "pos": "adjective",
+    "meaningVi": "có 4 chữ số",
+    "ipa": "fɔːr ˈdɪdʒ.ɪt",
+    "tags": []
+  },
+  {
+    "id": 443,
+    "word": "Responsible for",
+    "pos": "adjective",
+    "meaningVi": "chịu trách nhiệm",
+    "ipa": "rɪˈspɑːn.sə.bəl fɚ",
+    "tags": []
+  },
+  {
+    "id": 444,
+    "word": "Equipment",
+    "pos": "noun",
+    "meaningVi": "thiết bị",
+    "ipa": "ɪˈkwɪp.mənt",
+    "tags": []
+  },
+  {
+    "id": 445,
+    "word": "Tool",
+    "pos": "noun",
+    "meaningVi": "công cụ, dụng cụ",
+    "ipa": "tuːl",
+    "tags": []
+  },
+  {
+    "id": 446,
+    "word": "Propose",
+    "pos": "verb",
+    "meaningVi": "đề xuất",
+    "ipa": "prəˈpoʊz",
+    "tags": []
+  },
+  {
+    "id": 447,
+    "word": "Structure",
+    "pos": "noun",
+    "meaningVi": "cấu trúc",
+    "ipa": "ˈstrʌk.tʃɚ",
+    "tags": []
+  },
+  {
+    "id": 448,
+    "word": "Proposal",
+    "pos": "noun",
+    "meaningVi": "sự đề xuất, báo giá",
+    "ipa": "prəˈpoʊ.zəl",
+    "tags": []
+  },
+  {
+    "id": 449,
+    "word": "Managing",
+    "pos": "adjective",
+    "meaningVi": "quản lí",
+    "ipa": "ˌmæn.ə.dʒɪŋ",
+    "tags": []
+  },
+  {
+    "id": 450,
+    "word": "Provide",
+    "pos": "verb",
+    "meaningVi": "cung cấp",
+    "ipa": "prəˈvaɪd",
+    "tags": []
+  },
+  {
+    "id": 451,
+    "word": "Provision",
+    "pos": "noun",
+    "meaningVi": "sự cung cấp",
+    "ipa": "prəˈvɪʒ.ən",
+    "tags": []
+  },
+  {
+    "id": 452,
+    "word": "Own",
+    "pos": "adjective",
+    "meaningVi": "của chính",
+    "ipa": "oʊn",
+    "tags": []
+  },
+  {
+    "id": 453,
+    "word": "Weather",
+    "pos": "noun",
+    "meaningVi": "thời tiết",
+    "ipa": "ˈweð.ɚ",
+    "tags": []
+  },
+  {
+    "id": 454,
+    "word": "Forecast",
+    "pos": "noun",
+    "meaningVi": "sự dự báo",
+    "ipa": "ˈfɔːr.kæst",
+    "tags": []
+  },
+  {
+    "id": 455,
+    "word": "Forecast",
+    "pos": "verb",
+    "meaningVi": "dự báo",
+    "ipa": "ˈfɔːr.kæst",
+    "tags": []
+  },
+  {
+    "id": 456,
+    "word": "Partly",
+    "pos": "adverb",
+    "meaningVi": "một phần",
+    "ipa": "ˈpɑːrt.li",
+    "tags": []
+  },
+  {
+    "id": 457,
+    "word": "Cloudy",
+    "pos": "adjective",
+    "meaningVi": "có mây",
+    "ipa": "ˈklaʊ.di",
+    "tags": []
+  },
+  {
+    "id": 458,
+    "word": "Chance",
+    "pos": "noun",
+    "meaningVi": "khả năng, cơ hội",
+    "ipa": "tʃæns",
+    "tags": []
+  },
+  {
+    "id": 459,
+    "word": "Rain",
+    "pos": "noun",
+    "meaningVi": "mưa",
+    "ipa": "reɪn",
+    "tags": []
+  },
+  {
+    "id": 460,
+    "word": "Slight",
+    "pos": "adjective",
+    "meaningVi": "nhẹ",
+    "ipa": "slaɪt",
+    "tags": []
+  },
+  {
+    "id": 461,
+    "word": "Tour",
+    "pos": "noun",
+    "meaningVi": "chuyến thăm quan",
+    "ipa": "tʊr",
+    "tags": []
+  },
+  {
+    "id": 462,
+    "word": "Visitor",
+    "pos": "noun",
+    "meaningVi": "du khách",
+    "ipa": "ˈvɪz.ɪ.t̬ɚ",
+    "tags": []
+  },
+  {
+    "id": 463,
+    "word": "Conduct",
+    "pos": "verb",
+    "meaningVi": "sắp xếp, thực hiện",
+    "ipa": "kənˈdʌkt",
+    "tags": []
+  },
+  {
+    "id": 464,
+    "word": "Personnel department",
+    "pos": "noun",
+    "meaningVi": "phòng nhân sự",
+    "ipa": "ˌpɝː.sənˈel dɪˈpɑːrt.mənt",
+    "tags": []
+  },
+  {
+    "id": 465,
+    "word": "Directly",
+    "pos": "adverb",
+    "meaningVi": "trực tiếp",
+    "ipa": "daɪˈrekt.li",
+    "tags": []
+  },
+  {
+    "id": 466,
+    "word": "Question",
+    "pos": "noun",
+    "meaningVi": "câu hỏi",
+    "ipa": "ˈkwes.tʃən",
+    "tags": []
+  },
+  {
+    "id": 467,
+    "word": "Regarding",
+    "pos": "preposition",
+    "meaningVi": "liên quan tới",
+    "ipa": "rɪˈɡɑːr.dɪŋ",
+    "tags": []
+  },
+  {
+    "id": 468,
+    "word": "Benefit",
+    "pos": "noun",
+    "meaningVi": "lợi ích",
+    "ipa": "ˈben.ə.fɪt",
+    "tags": []
+  },
+  {
+    "id": 469,
+    "word": "Host",
+    "pos": "verb",
+    "meaningVi": "tổ chức",
+    "ipa": "hoʊst",
+    "tags": []
+  },
+  {
+    "id": 470,
+    "word": "President",
+    "pos": "noun",
+    "meaningVi": "chủ tịch",
+    "ipa": "ˈprez.ɪ.dənt",
+    "tags": []
+  },
+  {
+    "id": 471,
+    "word": "Play a role",
+    "pos": null,
+    "meaningVi": "đóng vai trò",
+    "ipa": "pleɪ ə roʊl",
+    "tags": []
+  },
+  {
+    "id": 472,
+    "word": "Exchange",
+    "pos": "verb",
+    "meaningVi": "trao đổi",
+    "ipa": "ɪksˈtʃeɪndʒ",
+    "tags": []
+  },
+  {
+    "id": 473,
+    "word": "Idea",
+    "pos": "noun",
+    "meaningVi": "ý kiến, ý tưởng",
+    "ipa": "aɪˈdiː.ə",
+    "tags": []
+  },
+  {
+    "id": 474,
+    "word": "Office supplies",
+    "pos": "noun",
+    "meaningVi": "văn phòng phẩm",
+    "ipa": "ˈɑː.fɪs səˈplaɪ",
+    "tags": []
+  },
+  {
+    "id": 475,
+    "word": "Submission",
+    "pos": "noun",
+    "meaningVi": "việc nộp",
+    "ipa": "səbˈmɪʃ.ən",
+    "tags": []
+  },
+  {
+    "id": 476,
+    "word": "Noon",
+    "pos": "adverb",
+    "meaningVi": "12h trưa",
+    "ipa": "nuːn",
+    "tags": []
+  },
+  {
+    "id": 477,
+    "word": "Plan",
+    "pos": "verb",
+    "meaningVi": "lên kế hoạch",
+    "ipa": "plæn",
+    "tags": []
+  },
+  {
+    "id": 478,
+    "word": "Acquire",
+    "pos": "verb",
+    "meaningVi": "mua lại",
+    "ipa": "əˈkwaɪɚ",
+    "tags": []
+  },
+  {
+    "id": 479,
+    "word": "Expand",
+    "pos": "verb",
+    "meaningVi": "mở rộng",
+    "ipa": "ɪkˈspænd",
+    "tags": []
+  },
+  {
+    "id": 480,
+    "word": "Restaurant",
+    "pos": "noun",
+    "meaningVi": "nhà hàng",
+    "ipa": "ˈres.tə.rɑːnt",
+    "tags": []
+  },
+  {
+    "id": 481,
+    "word": "Area",
+    "pos": "noun",
+    "meaningVi": "khu vực",
+    "ipa": "ˈer.i.ə",
+    "tags": []
+  },
+  {
+    "id": 482,
+    "word": "Offer",
+    "pos": "verb",
+    "meaningVi": "cung cấp",
+    "ipa": "ˈɑː.fɚ",
+    "tags": []
+  },
+  {
+    "id": 483,
+    "word": "Extensive",
+    "pos": "adjective",
+    "meaningVi": "phong phú",
+    "ipa": "ɪkˈsten.sɪv",
+    "tags": []
+  },
+  {
+    "id": 484,
+    "word": "Menu",
+    "pos": "noun",
+    "meaningVi": "thực đơn",
+    "ipa": "ˈmen.juː",
+    "tags": []
+  },
+  {
+    "id": 485,
+    "word": "Vary",
+    "pos": "verb",
+    "meaningVi": "khác nhau",
+    "ipa": "ˈver.i",
+    "tags": []
+  },
+  {
+    "id": 486,
+    "word": "Various",
+    "pos": "adjective",
+    "meaningVi": "nhiều, đa dạng",
+    "ipa": "ˈver.i.əs",
+    "tags": []
+  },
+  {
+    "id": 487,
+    "word": "Variety",
+    "pos": "noun",
+    "meaningVi": "sự đa dạng",
+    "ipa": "vəˈraɪ.ə.t̬i",
+    "tags": []
+  },
+  {
+    "id": 488,
+    "word": "Item",
+    "pos": "noun",
+    "meaningVi": "mặt hàng",
+    "ipa": "ˈaɪ.t̬əm",
+    "tags": []
+  },
+  {
+    "id": 489,
+    "word": "Display",
+    "pos": "verb",
+    "meaningVi": "trưng bày",
+    "ipa": "dɪˈspleɪ",
+    "tags": []
+  },
+  {
+    "id": 490,
+    "word": "Store",
+    "pos": "noun",
+    "meaningVi": "cửa hàng",
+    "ipa": "stɔːr",
+    "tags": []
+  },
+  {
+    "id": 491,
+    "word": "The front of",
+    "pos": null,
+    "meaningVi": "phía trước",
+    "ipa": "ðə frʌnt əv",
+    "tags": []
+  },
+  {
+    "id": 492,
+    "word": "Consulting",
+    "pos": "adjective",
+    "meaningVi": "tư vấn",
+    "ipa": "kənˈsʌl.t̬ɪŋ",
+    "tags": []
+  },
+  {
+    "id": 493,
+    "word": "Firm",
+    "pos": "noun",
+    "meaningVi": "công ty",
+    "ipa": "fɝːm",
+    "tags": []
+  },
+  {
+    "id": 494,
+    "word": "Process",
+    "pos": "noun",
+    "meaningVi": "quá trình",
+    "ipa": "ˈprɑː.ses",
+    "tags": []
+  },
+  {
+    "id": 495,
+    "word": "Establish",
+    "pos": "verb",
+    "meaningVi": "thiết lập",
+    "ipa": "ɪˈstæb.lɪʃ",
+    "tags": []
+  },
+  {
+    "id": 496,
+    "word": "Establishment",
+    "pos": "noun",
+    "meaningVi": "sự thiết lập",
+    "ipa": "ɪˈstæb.lɪʃ.mənt",
+    "tags": []
+  },
+  {
+    "id": 497,
+    "word": "Suggestion",
+    "pos": "noun",
+    "meaningVi": "sự đề xuất",
+    "ipa": "səˈdʒes.tʃən",
+    "tags": []
+  },
+  {
+    "id": 498,
+    "word": "Suggest",
+    "pos": "verb",
+    "meaningVi": "đề xuất",
+    "ipa": "səˈdʒest",
+    "tags": []
+  },
+  {
+    "id": 499,
+    "word": "Renew",
+    "pos": "verb",
+    "meaningVi": "gia hạn, làm mới",
+    "ipa": "rɪˈnuː",
+    "tags": []
+  },
+  {
+    "id": 500,
+    "word": "Current",
+    "pos": "adjective",
+    "meaningVi": "hiện tại",
+    "ipa": "ˈkɝː.ənt",
+    "tags": []
+  },
+  {
+    "id": 501,
+    "word": "Fiscal",
+    "pos": "adjective",
+    "meaningVi": "tài chính",
+    "ipa": "ˈfɪs.kəl",
+    "tags": []
+  },
+  {
+    "id": 502,
+    "word": "Overseas",
+    "pos": "adjective",
+    "meaningVi": "ở nước ngoài",
+    "ipa": "ˌoʊ.vɚˈsiːz",
+    "tags": []
+  },
+  {
+    "id": 503,
+    "word": "Manufacturing",
+    "pos": "noun",
+    "meaningVi": "sản xuất",
+    "ipa": "ˌmæn.jəˈfæk.tʃɚ.ɪŋ",
+    "tags": []
+  },
+  {
+    "id": 504,
+    "word": "Ticket",
+    "pos": "noun",
+    "meaningVi": "vé",
+    "ipa": "ˈtɪk.ɪt",
+    "tags": []
+  },
+  {
+    "id": 505,
+    "word": "Ticket",
+    "pos": "verb",
+    "meaningVi": "bán vé",
+    "ipa": "ˈtɪk.ɪt",
+    "tags": []
+  },
+  {
+    "id": 506,
+    "word": "Upon",
+    "pos": "preposition",
+    "meaningVi": "khi",
+    "ipa": "əˈpɑːn",
+    "tags": []
+  },
+  {
+    "id": 507,
+    "word": "Festival",
+    "pos": "noun",
+    "meaningVi": "lễ hội",
+    "ipa": "ˈfes.tə.vəl",
+    "tags": []
+  },
+  {
+    "id": 508,
+    "word": "Music",
+    "pos": "noun",
+    "meaningVi": "âm nhạc",
+    "ipa": "ˈmjuː.zɪk",
+    "tags": []
+  },
+  {
+    "id": 509,
+    "word": "Orphanage",
+    "pos": "noun",
+    "meaningVi": "trại mồ côi",
+    "ipa": "ˈɔːr.fən.ɪdʒ",
+    "tags": []
+  },
+  {
+    "id": 510,
+    "word": "Would like",
+    "pos": "phrase",
+    "meaningVi": "muốn",
+    "ipa": "wʊd laɪk",
+    "tags": []
+  },
+  {
+    "id": 511,
+    "word": "Thank",
+    "pos": "verb",
+    "meaningVi": "cảm ơn",
+    "ipa": "θæŋk",
+    "tags": []
+  },
+  {
+    "id": 512,
+    "word": "Donation",
+    "pos": "noun",
+    "meaningVi": "sự đóng góp",
+    "ipa": "doʊˈneɪ.ʃən",
+    "tags": []
+  },
+  {
+    "id": 513,
+    "word": "Deliver",
+    "pos": "verb",
+    "meaningVi": "trao, giao",
+    "ipa": "dɪˈlɪv.ɚ",
+    "tags": []
+  },
+  {
+    "id": 514,
+    "word": "Delivery",
+    "pos": "noun",
+    "meaningVi": "việc giao hàng",
+    "ipa": "dɪˈlɪv.ɚ.i",
+    "tags": []
+  },
+  {
+    "id": 515,
+    "word": "Show",
+    "pos": "verb",
+    "meaningVi": "thể hiện, cho thấy",
+    "ipa": "ʃoʊ",
+    "tags": []
+  },
+  {
+    "id": 516,
+    "word": "Brand",
+    "pos": "noun",
+    "meaningVi": "thương hiệu",
+    "ipa": "brænd",
+    "tags": []
+  },
+  {
+    "id": 517,
+    "word": "Seasonal",
+    "pos": "adjective",
+    "meaningVi": "theo mùa",
+    "ipa": "ˈsiː.zən.əl",
+    "tags": []
+  },
+  {
+    "id": 518,
+    "word": "Well",
+    "pos": "adverb",
+    "meaningVi": "tốt",
+    "ipa": "wel",
+    "tags": []
+  },
+  {
+    "id": 519,
+    "word": "Sell",
+    "pos": "verb",
+    "meaningVi": "bán",
+    "ipa": "sel",
+    "tags": []
+  },
+  {
+    "id": 520,
+    "word": "Study",
+    "pos": "noun",
+    "meaningVi": "nghiên cứu",
+    "ipa": "ˈstʌd.i",
+    "tags": []
+  },
+  {
+    "id": 521,
+    "word": "Sure",
+    "pos": "adjective",
+    "meaningVi": "đảm bảo",
+    "ipa": "ʃʊr",
+    "tags": []
+  },
+  {
+    "id": 522,
+    "word": "File",
+    "pos": "verb",
+    "meaningVi": "nộp",
+    "ipa": "faɪl",
+    "tags": []
+  },
+  {
+    "id": 523,
+    "word": "Properly",
+    "pos": "adverb",
+    "meaningVi": "đúng cách, hợp lệ",
+    "ipa": "ˈprɑː.pɚ.li",
+    "tags": []
+  },
+  {
+    "id": 524,
+    "word": "Previous",
+    "pos": "adjective",
+    "meaningVi": "trước đó",
+    "ipa": "ˈpriː.vi.əs",
+    "tags": []
+  },
+  {
+    "id": 525,
+    "word": "Importance",
+    "pos": "noun",
+    "meaningVi": "tầm quan trọng",
+    "ipa": "ɪmˈpɔːr.təns",
+    "tags": []
+  },
+  {
+    "id": 526,
+    "word": "Create",
+    "pos": "verb",
+    "meaningVi": "tạo ra",
+    "ipa": "kriˈeɪt",
+    "tags": []
+  },
+  {
+    "id": 527,
+    "word": "Creative",
+    "pos": "adjective",
+    "meaningVi": "sáng tạo",
+    "ipa": "kriˈeɪ.t̬ɪv",
+    "tags": []
+  },
+  {
+    "id": 528,
+    "word": "Creation",
+    "pos": "noun",
+    "meaningVi": "việc sáng tạo, sản phẩm được tạo ra",
+    "ipa": "kriˈeɪ.ʃən",
+    "tags": []
+  },
+  {
+    "id": 529,
+    "word": "Environment",
+    "pos": "noun",
+    "meaningVi": "môi trường",
+    "ipa": "ɪnˈvaɪ.rə.mənt",
+    "tags": []
+  },
+  {
+    "id": 530,
+    "word": "Negotiation",
+    "pos": "noun",
+    "meaningVi": "cuộc đàm phán",
+    "ipa": "nəˌɡoʊ.ʃiˈeɪ.ʃən",
+    "tags": []
+  },
+  {
+    "id": 531,
+    "word": "Proposed",
+    "pos": "adjective",
+    "meaningVi": "được đề xuất",
+    "ipa": "prəˈpoʊzd",
+    "tags": []
+  },
+  {
+    "id": 532,
+    "word": "Receipt",
+    "pos": "noun",
+    "meaningVi": "biên lai",
+    "ipa": "rɪˈsiːt",
+    "tags": []
+  },
+  {
+    "id": 533,
+    "word": "Travel",
+    "pos": "verb/noun",
+    "meaningVi": "đi lại",
+    "ipa": "ˈtræv.əl",
+    "tags": []
+  },
+  {
+    "id": 534,
+    "word": "Verify",
+    "pos": "verb",
+    "meaningVi": "xác minh",
+    "ipa": "ˈver.ə.faɪ",
+    "tags": []
+  },
+  {
+    "id": 535,
+    "word": "Expense",
+    "pos": "noun",
+    "meaningVi": "chi phí",
+    "ipa": "ɪkˈspens",
+    "tags": []
+  },
+  {
+    "id": 536,
+    "word": "Able",
+    "pos": "adjective",
+    "meaningVi": "có thể",
+    "ipa": "ˈeɪ.bəl",
+    "tags": []
+  },
+  {
+    "id": 537,
+    "word": "Implementation",
+    "pos": "noun",
+    "meaningVi": "việc thực hiện",
+    "ipa": "ˌɪm.plə.menˈteɪ.ʃən",
+    "tags": []
+  },
+  {
+    "id": 538,
+    "word": "Revised",
+    "pos": "adjective",
+    "meaningVi": "được sửa lại",
+    "ipa": "rɪˈvaɪzd",
+    "tags": []
+  },
+  {
+    "id": 539,
+    "word": "Return",
+    "pos": "noun/verb",
+    "meaningVi": "trả lại",
+    "ipa": "rɪˈtɝːn",
+    "tags": []
+  },
+  {
+    "id": 540,
+    "word": "Emerging",
+    "pos": "adjective",
+    "meaningVi": "đang nổi",
+    "ipa": "ɪˈmɝː.dʒɪŋ",
+    "tags": []
+  },
+  {
+    "id": 541,
+    "word": "Another",
+    "pos": "pronoun",
+    "meaningVi": "1 cái khác",
+    "ipa": "əˈnʌð.ɚ",
+    "tags": []
+  },
+  {
+    "id": 542,
+    "word": "The other",
+    "pos": "pronoun",
+    "meaningVi": "1 cái còn lại",
+    "ipa": "ðə ˈʌð.ɚ",
+    "tags": []
+  },
+  {
+    "id": 543,
+    "word": "Pay raise",
+    "pos": "noun",
+    "meaningVi": "mức tăng lương",
+    "ipa": "ˈpeɪ ˌreɪz",
+    "tags": []
+  },
+  {
+    "id": 544,
+    "word": "Similar to",
+    "pos": "adjective",
+    "meaningVi": "tương tự",
+    "ipa": "ˈsɪm.ə.lɚ tu",
+    "tags": []
+  },
+  {
+    "id": 545,
+    "word": "Profit margin",
+    "pos": "noun",
+    "meaningVi": "lợi nhuận biên",
+    "ipa": "ˈprɑː.fɪt ˌmɑːr.dʒɪn",
+    "tags": []
+  },
+  {
+    "id": 546,
+    "word": "Quarter",
+    "pos": "noun",
+    "meaningVi": "quý",
+    "ipa": "ˈkwɔːr.t̬ɚ",
+    "tags": []
+  },
+  {
+    "id": 547,
+    "word": "Early",
+    "pos": "adverb",
+    "meaningVi": "sớm",
+    "ipa": "ˈɝː.li",
+    "tags": []
+  },
+  {
+    "id": 548,
+    "word": "Reserve",
+    "pos": "verb",
+    "meaningVi": "đặt chỗ",
+    "ipa": "rɪˈzɝːv",
+    "tags": []
+  },
+  {
+    "id": 549,
+    "word": "Fee",
+    "pos": "noun",
+    "meaningVi": "phí",
+    "ipa": "fiː",
+    "tags": []
+  },
+  {
+    "id": 550,
+    "word": "Transfer",
+    "pos": "verb",
+    "meaningVi": "chuyển",
+    "ipa": "ˈtræns.fɝː",
+    "tags": []
+  },
+  {
+    "id": 551,
+    "word": "Fund",
+    "pos": "noun",
+    "meaningVi": "tiền",
+    "ipa": "fʌnd",
+    "tags": []
+  },
+  {
+    "id": 552,
+    "word": "Account",
+    "pos": "noun",
+    "meaningVi": "tài khoản",
+    "ipa": "əˈkaʊnt",
+    "tags": []
+  },
+  {
+    "id": 553,
+    "word": "Another",
+    "pos": "pronoun",
+    "meaningVi": "một cái khác",
+    "ipa": "əˈnʌð.ɚ",
+    "tags": []
+  },
+  {
+    "id": 554,
+    "word": "Already",
+    "pos": "adverb",
+    "meaningVi": "rồi",
+    "ipa": "ɑːlˈred.i",
+    "tags": []
+  },
+  {
+    "id": 555,
+    "word": "By oneself",
+    "pos": null,
+    "meaningVi": "một mình",
+    "ipa": "baɪ ˌwʌnˈself",
+    "tags": []
+  },
+  {
+    "id": 556,
+    "word": "Around",
+    "pos": "preposition",
+    "meaningVi": "vòng quanh",
+    "ipa": "əˈraʊnd",
+    "tags": []
+  },
+  {
+    "id": 557,
+    "word": "World",
+    "pos": "noun",
+    "meaningVi": "thế giới",
+    "ipa": "wɝːld",
+    "tags": []
+  },
+  {
+    "id": 558,
+    "word": "Airport",
+    "pos": "noun",
+    "meaningVi": "sân bay",
+    "ipa": "ˈer.pɔːrt",
+    "tags": []
+  },
+  {
+    "id": 559,
+    "word": "Pick up",
+    "pos": "phrase",
+    "meaningVi": "đón",
+    "ipa": "pɪk ʌp",
+    "tags": []
+  },
+  {
+    "id": 560,
+    "word": "Close",
+    "pos": "verb",
+    "meaningVi": "đóng",
+    "ipa": "kloʊz",
+    "tags": []
+  },
+  {
+    "id": 561,
+    "word": "Observe",
+    "pos": "verb",
+    "meaningVi": "quan sát",
+    "ipa": "əbˈzɝːv",
+    "tags": []
+  },
+  {
+    "id": 562,
+    "word": "Observer",
+    "pos": "noun",
+    "meaningVi": "người quan sát",
+    "ipa": "əbˈzɝː.vɚ",
+    "tags": []
+  },
+  {
+    "id": 563,
+    "word": "Observance",
+    "pos": "noun",
+    "meaningVi": "sự tuân theo, ngày kỉ niệm",
+    "ipa": "əbˈzɝː.vəns",
+    "tags": []
+  },
+  {
+    "id": 564,
+    "word": "Independence day",
+    "pos": "noun",
+    "meaningVi": "ngày độc lập",
+    "ipa": "ˌɪn.dɪˈpen.dəns",
+    "tags": []
+  },
+  {
+    "id": 565,
+    "word": "Take a day off",
+    "pos": null,
+    "meaningVi": "nghỉ một ngày",
+    "ipa": "teɪk ə deɪ əv",
+    "tags": []
+  },
+  {
+    "id": 566,
+    "word": "Supervisor",
+    "pos": "noun",
+    "meaningVi": "người giám sát",
+    "ipa": "ˈsuː.pɚ.vaɪ.zɚ",
+    "tags": []
+  },
+  {
+    "id": 567,
+    "word": "Approval",
+    "pos": "noun",
+    "meaningVi": "sự phê duyệt",
+    "ipa": "əˈpruː.vəl",
+    "tags": []
+  },
+  {
+    "id": 568,
+    "word": "Approve",
+    "pos": "verb",
+    "meaningVi": "phê duyệt",
+    "ipa": "əˈpruːv",
+    "tags": []
+  },
+  {
+    "id": 569,
+    "word": "Invite",
+    "pos": "verb",
+    "meaningVi": "mời",
+    "ipa": "ɪnˈvaɪt",
+    "tags": []
+  },
+  {
+    "id": 570,
+    "word": "Complete",
+    "pos": "verb",
+    "meaningVi": "hoàn thành",
+    "ipa": "kəmˈpliːt",
+    "tags": []
+  },
+  {
+    "id": 571,
+    "word": "Opinion",
+    "pos": "noun",
+    "meaningVi": "ý kiến",
+    "ipa": "əˈpɪn.jən",
+    "tags": []
+  },
+  {
+    "id": 572,
+    "word": "Satisfaction",
+    "pos": "noun",
+    "meaningVi": "sự hài lòng",
+    "ipa": "ˌsæt̬.ɪsˈfæk.ʃən",
+    "tags": []
+  },
+  {
+    "id": 573,
+    "word": "In case of",
+    "pos": "preposition",
+    "meaningVi": "trong trường hợp",
+    "ipa": "ɪn keɪs əv",
+    "tags": []
+  },
+  {
+    "id": 574,
+    "word": "Emergency",
+    "pos": "noun",
+    "meaningVi": "khẩn cấp",
+    "ipa": "ɪˈmɝː.dʒən.si",
+    "tags": []
+  },
+  {
+    "id": 575,
+    "word": "Listed",
+    "pos": "verb",
+    "meaningVi": "được liệt kê",
+    "ipa": "lɪstid",
+    "tags": []
+  },
+  {
+    "id": 576,
+    "word": "Below",
+    "pos": "preposition",
+    "meaningVi": "bên dưới",
+    "ipa": "bɪˈloʊ",
+    "tags": []
+  },
+  {
+    "id": 577,
+    "word": "Proud",
+    "pos": "adjective",
+    "meaningVi": "tự hào",
+    "ipa": "praʊd",
+    "tags": []
+  },
+  {
+    "id": 578,
+    "word": "Competitor",
+    "pos": "noun",
+    "meaningVi": "đối thủ",
+    "ipa": "kəmˈpet̬.ə.t̬ɚ",
+    "tags": []
+  },
+  {
+    "id": 579,
+    "word": "Plan",
+    "pos": "noun",
+    "meaningVi": "kế hoạch",
+    "ipa": "plæn",
+    "tags": []
+  },
+  {
+    "id": 580,
+    "word": "Unacceptable",
+    "pos": "adjective",
+    "meaningVi": "không chấp nhận",
+    "ipa": "ˌʌn.əkˈsep.t̬ə.bəl",
+    "tags": []
+  },
+  {
+    "id": 581,
+    "word": "President",
+    "pos": "noun",
+    "meaningVi": "chủ tịch",
+    "ipa": "ˈprez.ɪ.dənt",
+    "tags": []
+  },
+  {
+    "id": 582,
+    "word": "Welcome",
+    "pos": "verb",
+    "meaningVi": "chào đón",
+    "ipa": "ˈwel.kəm",
+    "tags": []
+  },
+  {
+    "id": 583,
+    "word": "Delegate",
+    "pos": "noun",
+    "meaningVi": "đại biểu",
+    "ipa": "ˈdel.ə.ɡət",
+    "tags": []
+  },
+  {
+    "id": 584,
+    "word": "License",
+    "pos": "noun",
+    "meaningVi": "giấy phép",
+    "ipa": "ˈlaɪ.səns",
+    "tags": []
+  },
+  {
+    "id": 585,
+    "word": "Present",
+    "pos": "verb",
+    "meaningVi": "xuất trình",
+    "ipa": "prɪˈzent",
+    "tags": []
+  },
+  {
+    "id": 586,
+    "word": "Form",
+    "pos": "noun",
+    "meaningVi": "mẫu, đơn",
+    "ipa": "fɔːrm",
+    "tags": []
+  },
+  {
+    "id": 587,
+    "word": "Identification",
+    "pos": "noun",
+    "meaningVi": "giấy chứng minh",
+    "ipa": "aɪˌden.t̬ə.fəˈkeɪ.ʃən",
+    "tags": []
+  },
+  {
+    "id": 588,
+    "word": "Start-up company",
+    "pos": "noun",
+    "meaningVi": "công ty khởi nghiệp",
+    "ipa": "stɑːrt ʌp ˈkʌm.pə.ni",
+    "tags": []
+  },
+  {
+    "id": 589,
+    "word": "Relatively",
+    "pos": "adverb",
+    "meaningVi": "tương đối",
+    "ipa": "ˈrel.ə.t̬ɪv.li",
+    "tags": []
+  },
+  {
+    "id": 590,
+    "word": "High",
+    "pos": "adjective",
+    "meaningVi": "cao",
+    "ipa": "haɪ",
+    "tags": []
+  },
+  {
+    "id": 591,
+    "word": "Percentage",
+    "pos": "noun",
+    "meaningVi": "phần trăm",
+    "ipa": "pɚˈsen.t̬ɪdʒ",
+    "tags": []
+  },
+  {
+    "id": 592,
+    "word": "Budget",
+    "pos": "noun",
+    "meaningVi": "ngân sách",
+    "ipa": "ˈbʌdʒ.ɪt",
+    "tags": []
+  },
+  {
+    "id": 593,
+    "word": "Cost",
+    "pos": "noun",
+    "meaningVi": "chi phí",
+    "ipa": "kɑːst",
+    "tags": []
+  },
+  {
+    "id": 594,
+    "word": "Busy",
+    "pos": "adjective",
+    "meaningVi": "bận",
+    "ipa": "ˈbɪz.i",
+    "tags": []
+  },
+  {
+    "id": 595,
+    "word": "Had to",
+    "pos": "phrase",
+    "meaningVi": "phải",
+    "ipa": "hæd tu",
+    "tags": []
+  },
+  {
+    "id": 596,
+    "word": "Finish",
+    "pos": "verb",
+    "meaningVi": "hoàn thành",
+    "ipa": "ˈfɪn.ɪʃ",
+    "tags": []
+  },
+  {
+    "id": 597,
+    "word": "Discontinue",
+    "pos": "verb",
+    "meaningVi": "ngừng",
+    "ipa": "ˌdɪs.kənˈtɪn.juː",
+    "tags": []
+  },
+  {
+    "id": 598,
+    "word": "Operational",
+    "pos": "adjective",
+    "meaningVi": "vận hành",
+    "ipa": "ˌɑː.pəˈreɪ.ʃən.əl",
+    "tags": []
+  },
+  {
+    "id": 599,
+    "word": "Operate",
+    "pos": "verb",
+    "meaningVi": "vận hành",
+    "ipa": "ˈɑː.pə.reɪt",
+    "tags": []
+  },
+  {
+    "id": 600,
+    "word": "Operation",
+    "pos": "noun",
+    "meaningVi": "sự vận hành",
+    "ipa": "ˌɑː.pəˈreɪ.ʃən",
+    "tags": []
+  },
+  {
+    "id": 601,
+    "word": "Assembly",
+    "pos": "noun",
+    "meaningVi": "sự lắp rắp",
+    "ipa": "əˈsem.bli",
+    "tags": []
+  },
+  {
+    "id": 602,
+    "word": "Line",
+    "pos": "noun",
+    "meaningVi": "dây chuyền",
+    "ipa": "laɪn",
+    "tags": []
+  },
+  {
+    "id": 603,
+    "word": "Previous",
+    "pos": "adjective",
+    "meaningVi": "trước đó",
+    "ipa": "ˈpriː.vi.əs",
+    "tags": []
+  },
+  {
+    "id": 604,
+    "word": "Experience",
+    "pos": "noun",
+    "meaningVi": "kinh nghiệm",
+    "ipa": "ɪkˈspɪr.i.əns",
+    "tags": []
+  },
+  {
+    "id": 605,
+    "word": "Field",
+    "pos": "noun",
+    "meaningVi": "lĩnh vực",
+    "ipa": "fiːld",
+    "tags": []
+  },
+  {
+    "id": 606,
+    "word": "Priority",
+    "pos": "noun",
+    "meaningVi": "sự ưu tiên",
+    "ipa": "praɪˈɔːr.ə.t̬i",
+    "tags": []
+  },
+  {
+    "id": 607,
+    "word": "Claim",
+    "pos": "noun",
+    "meaningVi": "sự yêu cầu, khiếu nại",
+    "ipa": "kleɪm",
+    "tags": []
+  },
+  {
+    "id": 608,
+    "word": "Reimbursement",
+    "pos": "noun",
+    "meaningVi": "việc hoàn lại tiền",
+    "ipa": "ˌriː.ɪmˈbɝːs.mənt",
+    "tags": []
+  },
+  {
+    "id": 609,
+    "word": "Type",
+    "pos": "verb",
+    "meaningVi": "gõ",
+    "ipa": "taɪp",
+    "tags": []
+  },
+  {
+    "id": 610,
+    "word": "Password",
+    "pos": "noun",
+    "meaningVi": "mật khẩu",
+    "ipa": "ˈpæs.wɝːd",
+    "tags": []
+  },
+  {
+    "id": 611,
+    "word": "Sample",
+    "pos": "noun",
+    "meaningVi": "mẫu",
+    "ipa": "ˈsæm.pəl",
+    "tags": []
+  },
+  {
+    "id": 612,
+    "word": "Uniform",
+    "pos": "noun",
+    "meaningVi": "đồng phục",
+    "ipa": "ˈjuː.nə.fɔːrm",
+    "tags": []
+  },
+  {
+    "id": 613,
+    "word": "On display",
+    "pos": "phrase",
+    "meaningVi": "trưng bày",
+    "ipa": "ɑːn dɪˈspleɪ",
+    "tags": []
+  },
+  {
+    "id": 614,
+    "word": "Lobby",
+    "pos": "noun",
+    "meaningVi": "sảnh",
+    "ipa": "ˈlɑː.bi",
+    "tags": []
+  },
+  {
+    "id": 615,
+    "word": "Remain",
+    "pos": "verb",
+    "meaningVi": "vẫn",
+    "ipa": "rɪˈmeɪn",
+    "tags": []
+  },
+  {
+    "id": 616,
+    "word": "Remainder",
+    "pos": "noun",
+    "meaningVi": "phần còn lại",
+    "ipa": "rɪˈmeɪn.dɚ",
+    "tags": []
+  },
+  {
+    "id": 617,
+    "word": "Committee",
+    "pos": "noun",
+    "meaningVi": "ủy ban",
+    "ipa": "kəˈmɪt̬.i",
+    "tags": []
+  },
+  {
+    "id": 618,
+    "word": "Inform",
+    "pos": "verb",
+    "meaningVi": "thông báo",
+    "ipa": "ɪnˈfɔːrm",
+    "tags": []
+  },
+  {
+    "id": 619,
+    "word": "Application",
+    "pos": "noun",
+    "meaningVi": "đơn",
+    "ipa": "ˌæp.ləˈkeɪ.ʃən",
+    "tags": []
+  },
+  {
+    "id": 620,
+    "word": "Accept",
+    "pos": "verb",
+    "meaningVi": "chấp nhận",
+    "ipa": "əkˈsept",
+    "tags": []
+  },
+  {
+    "id": 621,
+    "word": "Required",
+    "pos": "adjective",
+    "meaningVi": "được yêu cầu",
+    "ipa": "rɪˈkwaɪəd",
+    "tags": []
+  },
+  {
+    "id": 622,
+    "word": "Whenever",
+    "pos": "conjunction",
+    "meaningVi": "bất cứ khi nào",
+    "ipa": "wenˈev.ɚ",
+    "tags": []
+  },
+  {
+    "id": 623,
+    "word": "Market",
+    "pos": "verb",
+    "meaningVi": "tiếp thị",
+    "ipa": "ˈmɑːr.kɪt",
+    "tags": []
+  },
+  {
+    "id": 624,
+    "word": "Final",
+    "pos": "adjective",
+    "meaningVi": "cuối cùng",
+    "ipa": "ˈfaɪ.nəl",
+    "tags": []
+  },
+  {
+    "id": 625,
+    "word": "Candidate",
+    "pos": "noun",
+    "meaningVi": "ứng viên",
+    "ipa": "ˈkæn.dɪ.deɪt",
+    "tags": []
+  },
+  {
+    "id": 626,
+    "word": "Reluctant",
+    "pos": "adjective",
+    "meaningVi": "do dự",
+    "ipa": "rɪˈlʌk.tənt",
+    "tags": []
+  },
+  {
+    "id": 627,
+    "word": "Abroad",
+    "pos": "adverb",
+    "meaningVi": "ở nước ngoài",
+    "ipa": "əˈbrɑːd",
+    "tags": []
+  },
+  {
+    "id": 628,
+    "word": "Efficiently",
+    "pos": "adverb",
+    "meaningVi": "hiệu quả",
+    "ipa": "ɪˈfɪʃ.ənt.li",
+    "tags": []
+  },
+  {
+    "id": 629,
+    "word": "Technology",
+    "pos": "noun",
+    "meaningVi": "công nghệ",
+    "ipa": "tekˈnɑː.lə.dʒi",
+    "tags": []
+  },
+  {
+    "id": 630,
+    "word": "Become",
+    "pos": "verb",
+    "meaningVi": "trở nên, trở thành",
+    "ipa": "bɪˈkʌm",
+    "tags": []
+  },
+  {
+    "id": 631,
+    "word": "Remain",
+    "pos": "verb",
+    "meaningVi": "vẫn",
+    "ipa": "rɪˈmeɪn",
+    "tags": []
+  },
+  {
+    "id": 632,
+    "word": "Prepare",
+    "pos": "verb",
+    "meaningVi": "chuẩn bị",
+    "ipa": "prɪˈper",
+    "tags": []
+  },
+  {
+    "id": 633,
+    "word": "Aggressive",
+    "pos": "adjective",
+    "meaningVi": "rầm rộ",
+    "ipa": "əˈɡres.ɪv",
+    "tags": []
+  },
+  {
+    "id": 634,
+    "word": "Few",
+    "pos": "adjective",
+    "meaningVi": "rất hiếm, ít",
+    "ipa": "fjuː",
+    "tags": []
+  },
+  {
+    "id": 635,
+    "word": "A few",
+    "pos": "adjective",
+    "meaningVi": "vài",
+    "ipa": "ə fjuː",
+    "tags": []
+  },
+  {
+    "id": 636,
+    "word": "Willing",
+    "pos": "adjective",
+    "meaningVi": "sẵn lòng",
+    "ipa": "ˈwɪl.ɪŋ",
+    "tags": []
+  },
+  {
+    "id": 637,
+    "word": "Enter",
+    "pos": "verb",
+    "meaningVi": "nhập",
+    "ipa": "ˈen.t̬ɚ",
+    "tags": []
+  },
+  {
+    "id": 638,
+    "word": "Access code",
+    "pos": "noun",
+    "meaningVi": "mã truy cập",
+    "ipa": "ˈæk.ses koʊd",
+    "tags": []
+  },
+  {
+    "id": 639,
+    "word": "Factor",
+    "pos": "noun",
+    "meaningVi": "yếu tốt",
+    "ipa": "ˈfæk.tɚ",
+    "tags": []
+  },
+  {
+    "id": 640,
+    "word": "Start",
+    "pos": "verb",
+    "meaningVi": "bắt đầu",
+    "ipa": "stɑːrt",
+    "tags": []
+  },
+  {
+    "id": 641,
+    "word": "Inspector",
+    "pos": "noun",
+    "meaningVi": "người thanh tra",
+    "ipa": "ɪnˈspek.tɚ",
+    "tags": []
+  },
+  {
+    "id": 642,
+    "word": "Factory",
+    "pos": "noun",
+    "meaningVi": "nhà máy",
+    "ipa": "ˈfæk.tɚ.i",
+    "tags": []
+  },
+  {
+    "id": 643,
+    "word": "Examine",
+    "pos": "verb",
+    "meaningVi": "kiểm tra",
+    "ipa": "ɪɡˈzæm.ɪn",
+    "tags": []
+  },
+  {
+    "id": 644,
+    "word": "Facility",
+    "pos": "noun",
+    "meaningVi": "cơ sở vật chất",
+    "ipa": "fəˈsɪl.ə.t̬i",
+    "tags": []
+  },
+  {
+    "id": 645,
+    "word": "Mistake",
+    "pos": "noun",
+    "meaningVi": "lỗi",
+    "ipa": "mɪˈsteɪk",
+    "tags": []
+  },
+  {
+    "id": 646,
+    "word": "Map",
+    "pos": "noun",
+    "meaningVi": "bản đồ",
+    "ipa": "mæp",
+    "tags": []
+  },
+  {
+    "id": 647,
+    "word": "Resource",
+    "pos": "noun",
+    "meaningVi": "nguồn",
+    "ipa": "ˈriː.zɔːrs",
+    "tags": []
+  },
+  {
+    "id": 648,
+    "word": "Clean",
+    "pos": "verb",
+    "meaningVi": "làm sạch",
+    "ipa": "kliːn",
+    "tags": []
+  },
+  {
+    "id": 649,
+    "word": "Equipment",
+    "pos": "noun",
+    "meaningVi": "thiết bị",
+    "ipa": "ɪˈkwɪp.mənt",
+    "tags": []
+  },
+  {
+    "id": 650,
+    "word": "Participant",
+    "pos": "noun",
+    "meaningVi": "người tham gia",
+    "ipa": "pɑːrˈtɪs.ə.pənt",
+    "tags": []
+  },
+  {
+    "id": 651,
+    "word": "Express",
+    "pos": "verb",
+    "meaningVi": "bày tỏ",
+    "ipa": "ɪkˈspres",
+    "tags": []
+  },
+  {
+    "id": 652,
+    "word": "Take the subway",
+    "pos": null,
+    "meaningVi": "đi tàu điện ngầm",
+    "ipa": "teɪk ðə ˈsʌb.weɪ",
+    "tags": []
+  },
+  {
+    "id": 653,
+    "word": "Other",
+    "pos": "adjective",
+    "meaningVi": "khác",
+    "ipa": "ˈʌð.ɚ",
+    "tags": []
+  },
+  {
+    "id": 654,
+    "word": "Method",
+    "pos": "noun",
+    "meaningVi": "phương thức, phương tiện",
+    "ipa": "ˈmeθ.əd",
+    "tags": []
+  },
+  {
+    "id": 655,
+    "word": "Demonstrate",
+    "pos": "verb",
+    "meaningVi": "thể hiện, chứng minh",
+    "ipa": "ˈdem.ən.streɪt",
+    "tags": []
+  },
+  {
+    "id": 656,
+    "word": "Productivity",
+    "pos": "noun",
+    "meaningVi": "năng suất",
+    "ipa": "ˌproʊ.dəkˈtɪv.ə.t̬i",
+    "tags": []
+  },
+  {
+    "id": 657,
+    "word": "Recent",
+    "pos": "adjective",
+    "meaningVi": "gần đây",
+    "ipa": "ˈriː.sənt",
+    "tags": []
+  },
+  {
+    "id": 658,
+    "word": "Offer",
+    "pos": "verb",
+    "meaningVi": "cung cấp",
+    "ipa": "ˈɑː.fɚ",
+    "tags": []
+  },
+  {
+    "id": 659,
+    "word": "Comprehensive",
+    "pos": "adjective",
+    "meaningVi": "toàn diện",
+    "ipa": "ˌkɑːm.prəˈhen.sɪv",
+    "tags": []
+  },
+  {
+    "id": 660,
+    "word": "Fast",
+    "pos": "adjective",
+    "meaningVi": "nhanh",
+    "ipa": "fæst",
+    "tags": []
+  },
+  {
+    "id": 661,
+    "word": "Machine",
+    "pos": "noun",
+    "meaningVi": "máy móc",
+    "ipa": "məˈʃiːn",
+    "tags": []
+  },
+  {
+    "id": 662,
+    "word": "Interesting",
+    "pos": "adjective",
+    "meaningVi": "thú vị",
+    "ipa": "ˈɪn.trɪ.stɪŋ",
+    "tags": []
+  },
+  {
+    "id": 663,
+    "word": "Interested",
+    "pos": "adjective",
+    "meaningVi": "quan tâm",
+    "ipa": "ˈɪn.trɪ.stɪd",
+    "tags": []
+  },
+  {
+    "id": 664,
+    "word": "Exciting",
+    "pos": "adjective",
+    "meaningVi": "tạo sự phấn khích",
+    "ipa": "ɪkˈsaɪ.t̬ɪŋ",
+    "tags": []
+  },
+  {
+    "id": 665,
+    "word": "Excited",
+    "pos": "adjective",
+    "meaningVi": "phấn khích",
+    "ipa": "ɪkˈsaɪ.t̬ɪd",
+    "tags": []
+  },
+  {
+    "id": 666,
+    "word": "Disappointed",
+    "pos": "adjective",
+    "meaningVi": "thất vọng",
+    "ipa": "ˌdɪs.əˈpɔɪn.t̬ɪd",
+    "tags": []
+  },
+  {
+    "id": 667,
+    "word": "Disappointing",
+    "pos": "adjective",
+    "meaningVi": "tạo sự thất vọng",
+    "ipa": "ˌdɪs.əˈpɔɪn.t̬ɪŋ",
+    "tags": []
+  },
+  {
+    "id": 668,
+    "word": "Satisfactory",
+    "pos": "adjective",
+    "meaningVi": "tạo cảm giác hài lòng",
+    "ipa": "ˌsæt̬.ɪsˈfæk.tɚ.i",
+    "tags": []
+  },
+  {
+    "id": 669,
+    "word": "Satisfied",
+    "pos": "adjective",
+    "meaningVi": "hài lòng",
+    "ipa": "ˈsæt̬.ɪs.faɪd",
+    "tags": []
+  },
+  {
+    "id": 670,
+    "word": "Impressive",
+    "pos": "adjective",
+    "meaningVi": "tạo sự ấn tượng",
+    "ipa": "ɪmˈpres.ɪv",
+    "tags": []
+  },
+  {
+    "id": 671,
+    "word": "Impressed",
+    "pos": "adjective",
+    "meaningVi": "ấn tượng",
+    "ipa": "ɪmˈprest",
+    "tags": []
+  },
+  {
+    "id": 672,
+    "word": "Participating",
+    "pos": "adjective",
+    "meaningVi": "tham gia",
+    "ipa": "pɑːˈtɪsɪpeɪtɪŋ",
+    "tags": []
+  },
+  {
+    "id": 673,
+    "word": "Falling",
+    "pos": "adjective",
+    "meaningVi": "rơi",
+    "ipa": "ˈfɑː.lɪŋ",
+    "tags": []
+  },
+  {
+    "id": 674,
+    "word": "Attached",
+    "pos": "adjective",
+    "meaningVi": "được đính kèm",
+    "ipa": "əˈtætʃt",
+    "tags": []
+  },
+  {
+    "id": 675,
+    "word": "Proposed",
+    "pos": "adjective",
+    "meaningVi": "được đề xuất",
+    "ipa": "prəˈpoʊzd",
+    "tags": []
+  },
+  {
+    "id": 676,
+    "word": "Result",
+    "pos": "noun",
+    "meaningVi": "kết quả",
+    "ipa": "rɪˈzʌlt",
+    "tags": []
+  },
+  {
+    "id": 677,
+    "word": "Test",
+    "pos": "noun",
+    "meaningVi": "bài thi",
+    "ipa": "test",
+    "tags": []
+  },
+  {
+    "id": 678,
+    "word": "During",
+    "pos": "preposition",
+    "meaningVi": "trong suốt",
+    "ipa": "ˈdʊr.ɪŋ",
+    "tags": []
+  },
+  {
+    "id": 679,
+    "word": "Visit",
+    "pos": "noun",
+    "meaningVi": "chuyến thăm",
+    "ipa": "ˈvɪz.ɪt",
+    "tags": []
+  },
+  {
+    "id": 680,
+    "word": "Office",
+    "pos": "noun",
+    "meaningVi": "văn phòng",
+    "ipa": "ˈɑː.fɪs",
+    "tags": []
+  },
+  {
+    "id": 681,
+    "word": "Recent",
+    "pos": "adjective",
+    "meaningVi": "gần đây",
+    "ipa": "ˈriː.sənt",
+    "tags": []
+  },
+  {
+    "id": 682,
+    "word": "Recently",
+    "pos": "adverb",
+    "meaningVi": "gần đây",
+    "ipa": "ˈriː.sənt.li",
+    "tags": []
+  },
+  {
+    "id": 683,
+    "word": "Recency",
+    "pos": "noun",
+    "meaningVi": "sự gần đây",
+    "ipa": "ˈriː.sən.si",
+    "tags": []
+  },
+  {
+    "id": 684,
+    "word": "Communication skill",
+    "pos": "noun",
+    "meaningVi": "kĩ năng giao tiếp",
+    "ipa": "kəˌmjuː.nəˈkeɪ.ʃən skɪl",
+    "tags": []
+  },
+  {
+    "id": 685,
+    "word": "Compete",
+    "pos": "verb",
+    "meaningVi": "cạnh tranh, thi",
+    "ipa": "kəmˈpiːt",
+    "tags": []
+  },
+  {
+    "id": 686,
+    "word": "Competition",
+    "pos": "noun",
+    "meaningVi": "sự cạnh tranh, cuộc thi",
+    "ipa": "ˌkɑːm.pəˈtɪʃ.ən",
+    "tags": []
+  },
+  {
+    "id": 687,
+    "word": "Competitive",
+    "pos": "adjective",
+    "meaningVi": "mang tính cạnh tranh",
+    "ipa": "kəmˈpet̬.ə.t̬ɪv",
+    "tags": []
+  },
+  {
+    "id": 688,
+    "word": "Interview",
+    "pos": "noun",
+    "meaningVi": "buổi phỏng vấn",
+    "ipa": "ˈɪn.t̬ɚ.vjuː",
+    "tags": []
+  },
+  {
+    "id": 689,
+    "word": "Email",
+    "pos": "noun",
+    "meaningVi": "thư điện tử",
+    "ipa": "ˈiː.meɪl",
+    "tags": []
+  },
+  {
+    "id": 690,
+    "word": "Job applicant",
+    "pos": "noun",
+    "meaningVi": "ứng viên xin việc",
+    "ipa": "dʒɑːb ˈæp.lə.kənt",
+    "tags": []
+  },
+  {
+    "id": 691,
+    "word": "Advertisement",
+    "pos": "noun",
+    "meaningVi": "mẫu quảng cáo",
+    "ipa": "ˌæd.vɚˈtaɪz.mənt",
+    "tags": []
+  },
+  {
+    "id": 692,
+    "word": "Since",
+    "pos": "preposition",
+    "meaningVi": "kể từ",
+    "ipa": "sɪns",
+    "tags": []
+  },
+  {
+    "id": 693,
+    "word": "Request",
+    "pos": "noun",
+    "meaningVi": "đơn yêu cầu",
+    "ipa": "rɪˈkwest",
+    "tags": []
+  },
+  {
+    "id": 694,
+    "word": "Experience",
+    "pos": "verb",
+    "meaningVi": "trải qua",
+    "ipa": "ɪkˈspɪr.i.əns",
+    "tags": []
+  },
+  {
+    "id": 695,
+    "word": "Originally",
+    "pos": "adverb",
+    "meaningVi": "ban đầu",
+    "ipa": "əˈrɪdʒ.ən.əl.i",
+    "tags": []
+  },
+  {
+    "id": 696,
+    "word": "Predict",
+    "pos": "verb",
+    "meaningVi": "dự đoán",
+    "ipa": "prɪˈdɪkt",
+    "tags": []
+  },
+  {
+    "id": 697,
+    "word": "Whether",
+    "pos": "conjunction",
+    "meaningVi": "liệu là có hay không",
+    "ipa": "ˈweð.ɚ",
+    "tags": []
+  },
+  {
+    "id": 698,
+    "word": "Reputation",
+    "pos": "noun",
+    "meaningVi": "danh tiếng",
+    "ipa": "ˌrep.jəˈteɪ.ʃən",
+    "tags": []
+  },
+  {
+    "id": 699,
+    "word": "Selection",
+    "pos": "noun",
+    "meaningVi": "sự lựa chọn",
+    "ipa": "səˈlek.ʃən",
+    "tags": []
+  },
+  {
+    "id": 700,
+    "word": "Briefcase",
+    "pos": "noun",
+    "meaningVi": "cặp hồ sơ",
+    "ipa": "ˈbriːf.keɪs",
+    "tags": []
+  },
+  {
+    "id": 701,
+    "word": "Marketplace",
+    "pos": "noun",
+    "meaningVi": "thị trường",
+    "ipa": "ˈmɑːr.kɪt.pleɪs",
+    "tags": []
+  },
+  {
+    "id": 702,
+    "word": "Wide",
+    "pos": "adjective",
+    "meaningVi": "rộng",
+    "ipa": "waɪd",
+    "tags": []
+  },
+  {
+    "id": 703,
+    "word": "Widely",
+    "pos": "adverb",
+    "meaningVi": "rộng",
+    "ipa": "ˈwaɪd.li",
+    "tags": []
+  },
+  {
+    "id": 704,
+    "word": "Subscribe",
+    "pos": "verb",
+    "meaningVi": "đăng kí",
+    "ipa": "səbˈskraɪb",
+    "tags": []
+  },
+  {
+    "id": 705,
+    "word": "Subscriber",
+    "pos": "noun",
+    "meaningVi": "người đăng kí",
+    "ipa": "səbˈskraɪ.bɚ",
+    "tags": []
+  },
+  {
+    "id": 706,
+    "word": "Discount",
+    "pos": "noun",
+    "meaningVi": "giảm giá",
+    "ipa": "ˈdɪs.kaʊnt",
+    "tags": []
+  },
+  {
+    "id": 707,
+    "word": "Celebrate",
+    "pos": "verb",
+    "meaningVi": "ăn mừng",
+    "ipa": "ˈsel.ə.breɪt",
+    "tags": []
+  },
+  {
+    "id": 708,
+    "word": "Launch",
+    "pos": "noun",
+    "meaningVi": "việc ra mắt",
+    "ipa": "lɑːntʃ",
+    "tags": []
+  },
+  {
+    "id": 709,
+    "word": "Magazine",
+    "pos": "noun",
+    "meaningVi": "tạp chí",
+    "ipa": "ˌmæɡ.əˈziːn",
+    "tags": []
+  },
+  {
+    "id": 710,
+    "word": "Device",
+    "pos": "noun",
+    "meaningVi": "thiết bị",
+    "ipa": "dɪˈvaɪs",
+    "tags": []
+  },
+  {
+    "id": 711,
+    "word": "Versatile",
+    "pos": "adjective",
+    "meaningVi": "đa năng",
+    "ipa": "ˈvɝː.sə.t̬əl",
+    "tags": []
+  },
+  {
+    "id": 712,
+    "word": "Concern",
+    "pos": "noun",
+    "meaningVi": "mối bận tâm",
+    "ipa": "kənˈsɝːn",
+    "tags": []
+  },
+  {
+    "id": 713,
+    "word": "Decide",
+    "pos": "verb",
+    "meaningVi": "quyết định",
+    "ipa": "dɪˈsaɪd",
+    "tags": []
+  },
+  {
+    "id": 714,
+    "word": "Expansion",
+    "pos": "noun",
+    "meaningVi": "sự mở rộng",
+    "ipa": "ɪkˈspæn.ʃən",
+    "tags": []
+  },
+  {
+    "id": 715,
+    "word": "Terminate",
+    "pos": "verb",
+    "meaningVi": "chấm dứt",
+    "ipa": "ˈtɝː.mə.neɪt",
+    "tags": []
+  },
+  {
+    "id": 716,
+    "word": "Partnership",
+    "pos": "noun",
+    "meaningVi": "mối hợp tác",
+    "ipa": "ˈpɑːrt.nɚ.ʃɪp",
+    "tags": []
+  },
+  {
+    "id": 717,
+    "word": "Term",
+    "pos": "noun",
+    "meaningVi": "điều khoản",
+    "ipa": "tɝːm",
+    "tags": []
+  },
+  {
+    "id": 718,
+    "word": "Accommodate",
+    "pos": "verb",
+    "meaningVi": "đáp ứng",
+    "ipa": "əˈkɑː.mə.deɪt",
+    "tags": []
+  },
+  {
+    "id": 719,
+    "word": "Frustrating",
+    "pos": "adjective",
+    "meaningVi": "gây ra khó chịu",
+    "ipa": "ˈfrʌs.treɪ.t̬ɪŋ",
+    "tags": []
+  },
+  {
+    "id": 720,
+    "word": "Frustrated",
+    "pos": "adjective",
+    "meaningVi": "bực bội, khó chịu",
+    "ipa": "ˈfrʌs.treɪ.t̬ɪd",
+    "tags": []
+  },
+  {
+    "id": 721,
+    "word": "Frustration",
+    "pos": "noun",
+    "meaningVi": "sự khó chịu, bực bội",
+    "ipa": "frʌsˈtreɪ.ʃən",
+    "tags": []
+  },
+  {
+    "id": 722,
+    "word": "Be known for",
+    "pos": "phrase",
+    "meaningVi": "nổi tiếng, được biết đến",
+    "ipa": "biː noʊn fɚ",
+    "tags": []
+  },
+  {
+    "id": 723,
+    "word": "Present",
+    "pos": "verb",
+    "meaningVi": "trình bày",
+    "ipa": "prɪˈzent",
+    "tags": []
+  },
+  {
+    "id": 724,
+    "word": "Creator",
+    "pos": "noun",
+    "meaningVi": "người sáng tạo",
+    "ipa": "kriˈeɪ.t̬ɚ",
+    "tags": []
+  },
+  {
+    "id": 725,
+    "word": "Creative",
+    "pos": "adjective",
+    "meaningVi": "sáng tạo",
+    "ipa": "kriˈeɪ.t̬ɪv",
+    "tags": []
+  },
+  {
+    "id": 726,
+    "word": "Creation",
+    "pos": "noun",
+    "meaningVi": "sự sáng tạo, sản phẩm",
+    "ipa": "kriˈeɪ.ʃən",
+    "tags": []
+  },
+  {
+    "id": 727,
+    "word": "Advertising",
+    "pos": "noun",
+    "meaningVi": "quảng cáo",
+    "ipa": "ˈæd.vɚ.taɪ.zɪŋ",
+    "tags": []
+  },
+  {
+    "id": 728,
+    "word": "Recruit",
+    "pos": "verb",
+    "meaningVi": "tuyển dụng",
+    "ipa": "rɪˈkruːt",
+    "tags": []
+  },
+  {
+    "id": 729,
+    "word": "Notify",
+    "pos": "verb",
+    "meaningVi": "thông báo",
+    "ipa": "ˈnoʊ.t̬ə.faɪ",
+    "tags": []
+  },
+  {
+    "id": 730,
+    "word": "Staff",
+    "pos": "noun",
+    "meaningVi": "nhân viên",
+    "ipa": "stæf",
+    "tags": []
+  },
+  {
+    "id": 731,
+    "word": "Timely",
+    "pos": "adjective",
+    "meaningVi": "kịp thời",
+    "ipa": "ˈtaɪm.li",
+    "tags": []
+  },
+  {
+    "id": 732,
+    "word": "Manner",
+    "pos": "noun",
+    "meaningVi": "cách thức",
+    "ipa": "ˈmæn.ɚ",
+    "tags": []
+  },
+  {
+    "id": 733,
+    "word": "Time",
+    "pos": "noun",
+    "meaningVi": "thời gian",
+    "ipa": "taɪm",
+    "tags": []
+  },
+  {
+    "id": 734,
+    "word": "Timing",
+    "pos": "noun",
+    "meaningVi": "thời điểm",
+    "ipa": "ˈtaɪ.mɪŋ",
+    "tags": []
+  },
+  {
+    "id": 735,
+    "word": "Convenience",
+    "pos": "noun",
+    "meaningVi": "sự thuận tiện",
+    "ipa": "kənˈviː.ni.əns",
+    "tags": []
+  },
+  {
+    "id": 736,
+    "word": "Division",
+    "pos": "noun",
+    "meaningVi": "bộ phận",
+    "ipa": "dɪˈvɪʒ.ən",
+    "tags": []
+  },
+  {
+    "id": 737,
+    "word": "Claim",
+    "pos": "noun",
+    "meaningVi": "yêu cầu, khiếu nại",
+    "ipa": "kleɪm",
+    "tags": []
+  },
+  {
+    "id": 738,
+    "word": "Open",
+    "pos": "verb",
+    "meaningVi": "mở",
+    "ipa": "ˈoʊ.pən",
+    "tags": []
+  },
+  {
+    "id": 739,
+    "word": "Weekday",
+    "pos": "noun",
+    "meaningVi": "ngày trong tuần",
+    "ipa": "ˈwiːk.deɪ",
+    "tags": []
+  },
+  {
+    "id": 740,
+    "word": "Job seeker",
+    "pos": "noun",
+    "meaningVi": "người tìm việc",
+    "ipa": "dʒɑːb ˈsiː.kɚ",
+    "tags": []
+  },
+  {
+    "id": 741,
+    "word": "Consider",
+    "pos": "verb",
+    "meaningVi": "xem xét",
+    "ipa": "kənˈsɪd.ɚ",
+    "tags": []
+  },
+  {
+    "id": 742,
+    "word": "Internship",
+    "pos": "noun",
+    "meaningVi": "thực tập",
+    "ipa": "ˈɪn.tɝːn.ʃɪp",
+    "tags": []
+  },
+  {
+    "id": 743,
+    "word": "Experience",
+    "pos": "noun",
+    "meaningVi": "kinh nghiệm",
+    "ipa": "ɪkˈspɪr.i.əns",
+    "tags": []
+  },
+  {
+    "id": 744,
+    "word": "At least",
+    "pos": "phrase",
+    "meaningVi": "ít nhất",
+    "ipa": "ət liːst",
+    "tags": []
+  },
+  {
+    "id": 745,
+    "word": "Valuable",
+    "pos": "adjective",
+    "meaningVi": "có giá trị",
+    "ipa": "ˈvæl.jə.bəl",
+    "tags": []
+  },
+  {
+    "id": 746,
+    "word": "Qualification",
+    "pos": "noun",
+    "meaningVi": "trình độ chuyên môn",
+    "ipa": "ˌkwɑː.lə.fəˈkeɪ.ʃən",
+    "tags": []
+  },
+  {
+    "id": 747,
+    "word": "Degree",
+    "pos": "noun",
+    "meaningVi": "bằng cấp",
+    "ipa": "dɪˈɡriː",
+    "tags": []
+  },
+  {
+    "id": 748,
+    "word": "Career",
+    "pos": "noun",
+    "meaningVi": "sự nghiệp",
+    "ipa": "kəˈrɪr",
+    "tags": []
+  },
+  {
+    "id": 749,
+    "word": "Development",
+    "pos": "noun",
+    "meaningVi": "sự phát triển",
+    "ipa": "dɪˈvel.əp.mənt",
+    "tags": []
+  },
+  {
+    "id": 750,
+    "word": "Admission fee",
+    "pos": "noun",
+    "meaningVi": "phí vào cổng",
+    "ipa": "ədˈmɪʃ.ən fiː",
+    "tags": []
+  },
+  {
+    "id": 751,
+    "word": "Art",
+    "pos": "noun",
+    "meaningVi": "nghệ thuật",
+    "ipa": "ɑːrt",
+    "tags": []
+  },
+  {
+    "id": 752,
+    "word": "Expensive",
+    "pos": "adjective",
+    "meaningVi": "đắt tiền",
+    "ipa": "ɪkˈspen.sɪv",
+    "tags": []
+  },
+  {
+    "id": 753,
+    "word": "Far",
+    "pos": "adverb",
+    "meaningVi": "nhiều",
+    "ipa": "fɑːr",
+    "tags": []
+  },
+  {
+    "id": 754,
+    "word": "Quite",
+    "pos": "adverb",
+    "meaningVi": "khá là",
+    "ipa": "kwaɪt",
+    "tags": []
+  },
+  {
+    "id": 755,
+    "word": "Pretty",
+    "pos": "adverb",
+    "meaningVi": "khá",
+    "ipa": "ˈprɪt̬.i",
+    "tags": []
+  },
+  {
+    "id": 756,
+    "word": "Architect",
+    "pos": "noun",
+    "meaningVi": "kiến trúc sư",
+    "ipa": "ˈɑːr.kə.tekt",
+    "tags": []
+  },
+  {
+    "id": 757,
+    "word": "Revise",
+    "pos": "verb",
+    "meaningVi": "sửa lại",
+    "ipa": "rɪˈvaɪz",
+    "tags": []
+  },
+  {
+    "id": 758,
+    "word": "Blueprint",
+    "pos": "noun",
+    "meaningVi": "bảng thiết kế",
+    "ipa": "ˈbluː.prɪnt",
+    "tags": []
+  },
+  {
+    "id": 759,
+    "word": "Contain",
+    "pos": "verb",
+    "meaningVi": "chứa",
+    "ipa": "kənˈteɪn",
+    "tags": []
+  },
+  {
+    "id": 760,
+    "word": "Unusable",
+    "pos": "adjective",
+    "meaningVi": "không sử dụng",
+    "ipa": "ʌnˈjuː.zə.bəl",
+    "tags": []
+  },
+  {
+    "id": 761,
+    "word": "Space",
+    "pos": "noun",
+    "meaningVi": "không gian",
+    "ipa": "speɪs",
+    "tags": []
+  },
+  {
+    "id": 762,
+    "word": "Consultant",
+    "pos": "noun",
+    "meaningVi": "người tư vấn",
+    "ipa": "kənˈsʌl.tənt",
+    "tags": []
+  },
+  {
+    "id": 763,
+    "word": "Believe",
+    "pos": "verb",
+    "meaningVi": "tin",
+    "ipa": "bɪˈliːv",
+    "tags": []
+  },
+  {
+    "id": 764,
+    "word": "Revision",
+    "pos": null,
+    "meaningVi": "việc sửa đổi",
+    "ipa": "rɪˈvɪʒ.ən",
+    "tags": []
+  },
+  {
+    "id": 765,
+    "word": "Process",
+    "pos": "noun",
+    "meaningVi": "quá trình",
+    "ipa": "ˈprɑː.ses",
+    "tags": []
+  },
+  {
+    "id": 766,
+    "word": "Ordering",
+    "pos": "noun",
+    "meaningVi": "việc đặt hàng",
+    "ipa": "ˈɔːdərɪŋ",
+    "tags": []
+  },
+  {
+    "id": 767,
+    "word": "Cost-effective",
+    "pos": "adjective",
+    "meaningVi": "hiệu quả chi phí",
+    "ipa": "ˌkɑːst.ɪˈfek.tɪv",
+    "tags": []
+  },
+  {
+    "id": 768,
+    "word": "Please",
+    "pos": null,
+    "meaningVi": "làm ơn, vui lòng",
+    "ipa": "pliːz",
+    "tags": []
+  },
+  {
+    "id": 769,
+    "word": "Damage",
+    "pos": "noun",
+    "meaningVi": "sự hư hại",
+    "ipa": "ˈdæm.ɪdʒ",
+    "tags": []
+  },
+  {
+    "id": 770,
+    "word": "Cause",
+    "pos": "verb",
+    "meaningVi": "gây ra",
+    "ipa": "kɑːz",
+    "tags": []
+  },
+  {
+    "id": 771,
+    "word": "Misuse",
+    "pos": "noun",
+    "meaningVi": "việc dùng sai cách",
+    "ipa": "ˌmɪsˈjuːz",
+    "tags": []
+  },
+  {
+    "id": 772,
+    "word": "Improper",
+    "pos": "adjective",
+    "meaningVi": "không đúng cách",
+    "ipa": "ɪmˈprɑː.pɚ",
+    "tags": []
+  },
+  {
+    "id": 773,
+    "word": "Negligence",
+    "pos": "noun",
+    "meaningVi": "sự bất cẩn",
+    "ipa": "ˈneɡ.lə.dʒəns",
+    "tags": []
+  },
+  {
+    "id": 774,
+    "word": "Dependent on",
+    "pos": "adjective",
+    "meaningVi": "phụ thuộc",
+    "ipa": "dɪˈpen.dənt ɑːn",
+    "tags": []
+  },
+  {
+    "id": 775,
+    "word": "Consumption",
+    "pos": "noun",
+    "meaningVi": "sự tiêu thụ",
+    "ipa": "kənˈsʌmp.ʃən",
+    "tags": []
+  },
+  {
+    "id": 776,
+    "word": "Domestic",
+    "pos": "adjective",
+    "meaningVi": "nội địa",
+    "ipa": "dəˈmes.tɪk",
+    "tags": []
+  },
+  {
+    "id": 777,
+    "word": "Lawyer",
+    "pos": "noun",
+    "meaningVi": "luật sư",
+    "ipa": "ˈlɔɪ.jɚ",
+    "tags": []
+  },
+  {
+    "id": 778,
+    "word": "Thoroughly",
+    "pos": "adverb",
+    "meaningVi": "kĩ lưỡng",
+    "ipa": "ˈθɝː.oʊ.li",
+    "tags": []
+  },
+  {
+    "id": 779,
+    "word": "Condition",
+    "pos": "noun",
+    "meaningVi": "điều kiện",
+    "ipa": "kənˈdɪʃ.ən",
+    "tags": []
+  },
+  {
+    "id": 780,
+    "word": "Conveniently",
+    "pos": "adverb",
+    "meaningVi": "thuận tiện",
+    "ipa": "kənˈviː.ni.ənt.li",
+    "tags": []
+  },
+  {
+    "id": 781,
+    "word": "Locate",
+    "pos": "verb",
+    "meaningVi": "tọa lạc",
+    "ipa": "loʊˈkeɪt",
+    "tags": []
+  },
+  {
+    "id": 782,
+    "word": "Direction",
+    "pos": "noun",
+    "meaningVi": "hướng dẫn",
+    "ipa": "dɪˈrek.ʃən",
+    "tags": []
+  },
+  {
+    "id": 783,
+    "word": "Read",
+    "pos": "verb",
+    "meaningVi": "đọc",
+    "ipa": "riːd",
+    "tags": []
+  },
+  {
+    "id": 784,
+    "word": "Carefully",
+    "pos": "adverb",
+    "meaningVi": "một cách cẩn thận",
+    "ipa": "ˈker.fəl.i",
+    "tags": []
+  },
+  {
+    "id": 785,
+    "word": "Point",
+    "pos": "noun",
+    "meaningVi": "điểm",
+    "ipa": "pɔɪnt",
+    "tags": []
+  },
+  {
+    "id": 786,
+    "word": "Probably",
+    "pos": "adverb",
+    "meaningVi": "có lẽ",
+    "ipa": "ˈprɑː.bə.bli",
+    "tags": []
+  },
+  {
+    "id": 787,
+    "word": "Probable",
+    "pos": "adjective",
+    "meaningVi": "có thể xảy ra",
+    "ipa": "ˈprɑː.bə.bəl",
+    "tags": []
+  },
+  {
+    "id": 788,
+    "word": "Prove",
+    "pos": "verb",
+    "meaningVi": "chứng minh",
+    "ipa": "pruːv",
+    "tags": []
+  },
+  {
+    "id": 789,
+    "word": "Probability",
+    "pos": "noun",
+    "meaningVi": "sác xuất",
+    "ipa": "ˌprɑː.bəˈbɪl.ə.t̬i",
+    "tags": []
+  },
+  {
+    "id": 790,
+    "word": "Due to",
+    "pos": "preposition",
+    "meaningVi": "do, vì",
+    "ipa": "duː tu",
+    "tags": []
+  },
+  {
+    "id": 791,
+    "word": "Constraint",
+    "pos": "noun",
+    "meaningVi": "sự hạn chế",
+    "ipa": "kənˈstreɪnt",
+    "tags": []
+  },
+  {
+    "id": 792,
+    "word": "Reduce",
+    "pos": "verb",
+    "meaningVi": "giảm",
+    "ipa": "rɪˈduːs",
+    "tags": []
+  },
+  {
+    "id": 793,
+    "word": "Substance",
+    "pos": "noun",
+    "meaningVi": "vật chất",
+    "ipa": "ˈsʌb.stəns",
+    "tags": []
+  },
+  {
+    "id": 794,
+    "word": "Substantial",
+    "pos": "adjective",
+    "meaningVi": "đáng kể",
+    "ipa": "səbˈstæn.ʃəl",
+    "tags": []
+  },
+  {
+    "id": 795,
+    "word": "Substantially",
+    "pos": "adverb",
+    "meaningVi": "một cách đáng kể",
+    "ipa": "səbˈstæn.ʃəl.i",
+    "tags": []
+  },
+  {
+    "id": 796,
+    "word": "Substantiate",
+    "pos": "verb",
+    "meaningVi": "chứng minh",
+    "ipa": "səbˈstæn.ʃi.eɪt",
+    "tags": []
+  },
+  {
+    "id": 797,
+    "word": "Population",
+    "pos": "noun",
+    "meaningVi": "dân số",
+    "ipa": "ˌpɑː.pjəˈleɪ.ʃən",
+    "tags": []
+  },
+  {
+    "id": 798,
+    "word": "Decrease",
+    "pos": "verb",
+    "meaningVi": "giảm",
+    "ipa": "ˈdiː.kriːs",
+    "tags": []
+  },
+  {
+    "id": 799,
+    "word": "Slight",
+    "pos": "adjective",
+    "meaningVi": "nhẹ",
+    "ipa": "slaɪt",
+    "tags": []
+  },
+  {
+    "id": 800,
+    "word": "Slightly",
+    "pos": "adverb",
+    "meaningVi": "nhẹ",
+    "ipa": "ˈslaɪt.li",
+    "tags": []
+  },
+  {
+    "id": 801,
+    "word": "Slightness",
+    "pos": "noun",
+    "meaningVi": "sự nhẹ nhàng",
+    "ipa": "ˈslaɪt.nəs",
+    "tags": []
+  },
+  {
+    "id": 802,
+    "word": "Slighted",
+    "pos": "adjective",
+    "meaningVi": "bị xem thường",
+    "ipa": "ˈslaɪtɪd",
+    "tags": []
+  },
+  {
+    "id": 803,
+    "word": "Evaluation",
+    "pos": "noun",
+    "meaningVi": "sự đánh giá",
+    "ipa": "ɪˌvæl.juˈeɪ.ʃən",
+    "tags": []
+  },
+  {
+    "id": 804,
+    "word": "Form",
+    "pos": "noun",
+    "meaningVi": "đơn, mẫu đơn",
+    "ipa": "fɔːrm",
+    "tags": []
+  },
+  {
+    "id": 805,
+    "word": "Place",
+    "pos": "verb",
+    "meaningVi": "đặt, để",
+    "ipa": "pleɪs",
+    "tags": []
+  },
+  {
+    "id": 806,
+    "word": "Outside",
+    "pos": "preposition",
+    "meaningVi": "bên ngoài",
+    "ipa": "ˈaʊt.saɪd",
+    "tags": []
+  },
+  {
+    "id": 807,
+    "word": "Door",
+    "pos": "noun",
+    "meaningVi": "cửa",
+    "ipa": "dɔːr",
+    "tags": []
+  },
+  {
+    "id": 808,
+    "word": "Leave",
+    "pos": "verb",
+    "meaningVi": "rời đi",
+    "ipa": "liːv",
+    "tags": []
+  },
+  {
+    "id": 809,
+    "word": "Convenience",
+    "pos": "noun",
+    "meaningVi": "sự thuận tiện",
+    "ipa": "kənˈviː.ni.əns",
+    "tags": []
+  },
+  {
+    "id": 810,
+    "word": "Convenient",
+    "pos": "adjective",
+    "meaningVi": "thuận tiện",
+    "ipa": "kənˈviː.ni.ənt",
+    "tags": []
+  },
+  {
+    "id": 811,
+    "word": "Conveniently",
+    "pos": "adverb",
+    "meaningVi": "một cách thuận tiện",
+    "ipa": "kənˈviː.ni.ənt.li",
+    "tags": []
+  },
+  {
+    "id": 812,
+    "word": "Convene",
+    "pos": "verb",
+    "meaningVi": "tập hợp, triệu tập",
+    "ipa": "kənˈviːn",
+    "tags": []
+  },
+  {
+    "id": 813,
+    "word": "Automatic",
+    "pos": "adjective",
+    "meaningVi": "tự động",
+    "ipa": "ˌɑː.t̬əˈmæt̬.ɪk",
+    "tags": []
+  },
+  {
+    "id": 814,
+    "word": "Design",
+    "pos": "verb",
+    "meaningVi": "thiết kế",
+    "ipa": "dɪˈzaɪn",
+    "tags": []
+  },
+  {
+    "id": 815,
+    "word": "Order",
+    "pos": "noun",
+    "meaningVi": "đơn hàng",
+    "ipa": "ˈɔːr.dɚ",
+    "tags": []
+  },
+  {
+    "id": 816,
+    "word": "Regardless of",
+    "pos": "preposition",
+    "meaningVi": "bất chấp",
+    "ipa": "rɪˈɡɑːrd.ləs əv",
+    "tags": []
+  },
+  {
+    "id": 817,
+    "word": "Location",
+    "pos": "noun",
+    "meaningVi": "địa điểm",
+    "ipa": "loʊˈkeɪ.ʃən",
+    "tags": []
+  },
+  {
+    "id": 818,
+    "word": "Quick",
+    "pos": "adjective",
+    "meaningVi": "nhanh",
+    "ipa": "kwɪk",
+    "tags": []
+  },
+  {
+    "id": 819,
+    "word": "Quickly",
+    "pos": "adverb",
+    "meaningVi": "nhanh",
+    "ipa": "ˈkwɪk.li",
+    "tags": []
+  },
+  {
+    "id": 820,
+    "word": "Quickness",
+    "pos": "noun",
+    "meaningVi": "sự nhanh chóng",
+    "ipa": "ˈkwɪk.nəs",
+    "tags": []
+  },
+  {
+    "id": 821,
+    "word": "Train",
+    "pos": "noun",
+    "meaningVi": "tàu lửa",
+    "ipa": "treɪn",
+    "tags": []
+  },
+  {
+    "id": 822,
+    "word": "Prompt",
+    "pos": "adjective",
+    "meaningVi": "nhanh chóng",
+    "ipa": "prɑːmpt",
+    "tags": []
+  },
+  {
+    "id": 823,
+    "word": "Promptly",
+    "pos": "adjective",
+    "meaningVi": "một cách nhanh chóng",
+    "ipa": "ˈprɑːmpt.li",
+    "tags": []
+  },
+  {
+    "id": 824,
+    "word": "Promptness",
+    "pos": "noun",
+    "meaningVi": "sự nhanh chóng",
+    "ipa": "ˈprɑːmpt.nəs",
+    "tags": []
+  },
+  {
+    "id": 825,
+    "word": "Prompt",
+    "pos": "verb",
+    "meaningVi": "gây ra",
+    "ipa": "prɑːmpt",
+    "tags": []
+  },
+  {
+    "id": 826,
+    "word": "Board",
+    "pos": "verb",
+    "meaningVi": "bước lên",
+    "ipa": "bɔːrd",
+    "tags": []
+  },
+  {
+    "id": 827,
+    "word": "Expert",
+    "pos": "noun",
+    "meaningVi": "chuyên gia",
+    "ipa": "ˈek.spɝːt",
+    "tags": []
+  },
+  {
+    "id": 828,
+    "word": "Stress",
+    "pos": "verb",
+    "meaningVi": "nhấn mạnh",
+    "ipa": "stres",
+    "tags": []
+  },
+  {
+    "id": 829,
+    "word": "Inspection",
+    "pos": "noun",
+    "meaningVi": "việc kiểm tra",
+    "ipa": "ɪnˈspek.ʃən",
+    "tags": []
+  },
+  {
+    "id": 830,
+    "word": "Hospital",
+    "pos": "noun",
+    "meaningVi": "bệnh vện",
+    "ipa": "ˈhɑː.spɪ.t̬əl",
+    "tags": []
+  },
+  {
+    "id": 831,
+    "word": "Ensure",
+    "pos": "verb",
+    "meaningVi": "đảm bảo",
+    "ipa": "ɪnˈʃʊr",
+    "tags": []
+  },
+  {
+    "id": 832,
+    "word": "Proper",
+    "pos": "adjective",
+    "meaningVi": "đúng cách",
+    "ipa": "ˈprɑː.pɚ",
+    "tags": []
+  },
+  {
+    "id": 833,
+    "word": "Functioning",
+    "pos": "noun",
+    "meaningVi": "việc vận hành",
+    "ipa": "ˈfʌŋk.ʃən.ɪŋ",
+    "tags": []
+  },
+  {
+    "id": 834,
+    "word": "Frequent",
+    "pos": "adjective",
+    "meaningVi": "thường xuyên",
+    "ipa": "ˈfriː.kwənt",
+    "tags": []
+  },
+  {
+    "id": 835,
+    "word": "Frequently",
+    "pos": "adverb",
+    "meaningVi": "một cách thường xuyên",
+    "ipa": "ˈfriː.kwənt.li",
+    "tags": []
+  },
+  {
+    "id": 836,
+    "word": "Frequency",
+    "pos": "noun",
+    "meaningVi": "tần suất",
+    "ipa": "ˈfriː.kwən.si",
+    "tags": []
+  },
+  {
+    "id": 837,
+    "word": "Cancellation",
+    "pos": "noun",
+    "meaningVi": "việc hủy",
+    "ipa": "ˌkæn.səlˈeɪ.ʃən",
+    "tags": []
+  },
+  {
+    "id": 838,
+    "word": "Expand",
+    "pos": "verb",
+    "meaningVi": "mở rộng",
+    "ipa": "ɪkˈspænd",
+    "tags": []
+  },
+  {
+    "id": 839,
+    "word": "Operation",
+    "pos": "noun",
+    "meaningVi": "việc vận hành",
+    "ipa": "ˌɑː.pəˈreɪ.ʃən",
+    "tags": []
+  },
+  {
+    "id": 840,
+    "word": "Regret",
+    "pos": "verb",
+    "meaningVi": "tiếc nuối",
+    "ipa": "rɪˈɡret",
+    "tags": []
+  },
+  {
+    "id": 841,
+    "word": "Regretful",
+    "pos": "adjective",
+    "meaningVi": "cảm thấy tiếc nuối",
+    "ipa": "rɪˈɡret.fəl",
+    "tags": []
+  },
+  {
+    "id": 842,
+    "word": "Regretfully",
+    "pos": "adverb",
+    "meaningVi": "một cách tiếc nuối",
+    "ipa": "rɪˈɡret.fəl.i",
+    "tags": []
+  },
+  {
+    "id": 843,
+    "word": "Hazardous",
+    "pos": "adjective",
+    "meaningVi": "nguy hiểm",
+    "ipa": "ˈhæz.ɚ.dəs",
+    "tags": []
+  },
+  {
+    "id": 844,
+    "word": "Cautious",
+    "pos": "adjective",
+    "meaningVi": "cẩn thận",
+    "ipa": "ˈkɑː.ʃəs",
+    "tags": []
+  },
+  {
+    "id": 845,
+    "word": "Cautiously",
+    "pos": "adverb",
+    "meaningVi": "một cách cẩn thận",
+    "ipa": "ˈkɑː.ʃəs.li",
+    "tags": []
+  },
+  {
+    "id": 846,
+    "word": "Caution",
+    "pos": "noun",
+    "meaningVi": "cảnh báo",
+    "ipa": "ˈkɑː.ʃən",
+    "tags": []
+  },
+  {
+    "id": 847,
+    "word": "Cautiousness",
+    "pos": "noun",
+    "meaningVi": "hành vi cẩn thận",
+    "ipa": "ˈkɑː.ʃəs.nəs",
+    "tags": []
+  },
+  {
+    "id": 848,
+    "word": "Protective",
+    "pos": "adjective",
+    "meaningVi": "bảo vệ",
+    "ipa": "prəˈtek.tɪv",
+    "tags": []
+  },
+  {
+    "id": 849,
+    "word": "Clothing",
+    "pos": "noun",
+    "meaningVi": "quần áo",
+    "ipa": "ˈkloʊ.ðɪŋ",
+    "tags": []
+  },
+  {
+    "id": 850,
+    "word": "Loan",
+    "pos": "noun",
+    "meaningVi": "tiền vay",
+    "ipa": "loʊn",
+    "tags": []
+  },
+  {
+    "id": 851,
+    "word": "Fill out",
+    "pos": "phrase",
+    "meaningVi": "điền vào",
+    "ipa": "fɪl aʊt",
+    "tags": []
+  },
+  {
+    "id": 852,
+    "word": "Complete",
+    "pos": "verb",
+    "meaningVi": "hoàn thành",
+    "ipa": "kəmˈpliːt",
+    "tags": []
+  },
+  {
+    "id": 853,
+    "word": "Complete",
+    "pos": "adjective",
+    "meaningVi": "đầy đủ, hoàn toàn",
+    "ipa": "kəmˈpliːt",
+    "tags": []
+  },
+  {
+    "id": 854,
+    "word": "Completely",
+    "pos": "adverb",
+    "meaningVi": "đầy đủ",
+    "ipa": "kəmˈpliːt.li",
+    "tags": []
+  },
+  {
+    "id": 855,
+    "word": "Contend with",
+    "pos": "phrase",
+    "meaningVi": "giải quyết",
+    "ipa": "kənˈtend wɪð",
+    "tags": []
+  },
+  {
+    "id": 856,
+    "word": "Hire",
+    "pos": "verb",
+    "meaningVi": "thuê",
+    "ipa": "haɪr",
+    "tags": []
+  },
+  {
+    "id": 857,
+    "word": "Addition",
+    "pos": "noun",
+    "meaningVi": "sự bổ sung, thêm vào",
+    "ipa": "əˈdɪʃ.ən",
+    "tags": []
+  },
+  {
+    "id": 858,
+    "word": "Additional",
+    "pos": "adjective",
+    "meaningVi": "thêm, bổ sung",
+    "ipa": "əˈdɪʃ.ən.əl",
+    "tags": []
+  },
+  {
+    "id": 859,
+    "word": "Additionally",
+    "pos": "adverb",
+    "meaningVi": "thêm, bổ sung",
+    "ipa": "əˈdɪʃ.ən.əl.i",
+    "tags": []
+  },
+  {
+    "id": 860,
+    "word": "Market share",
+    "pos": "noun",
+    "meaningVi": "thị phần thị trường",
+    "ipa": "ˈmɑːr.kɪt ʃer",
+    "tags": []
+  },
+  {
+    "id": 861,
+    "word": "Strong",
+    "pos": "adjective",
+    "meaningVi": "mạnh",
+    "ipa": "strɑːŋ",
+    "tags": []
+  },
+  {
+    "id": 862,
+    "word": "Competitor",
+    "pos": "noun",
+    "meaningVi": "đối thủ",
+    "ipa": "kəmˈpet̬.ə.t̬ɚ",
+    "tags": []
+  },
+  {
+    "id": 863,
+    "word": "Researcher",
+    "pos": "noun",
+    "meaningVi": "nhà nghiên cứu",
+    "ipa": "ˈriː.sɝː.tʃɚ",
+    "tags": []
+  },
+  {
+    "id": 864,
+    "word": "Chemical",
+    "pos": "adjective",
+    "meaningVi": "hóa học",
+    "ipa": "ˈkem.ɪ.kəl",
+    "tags": []
+  },
+  {
+    "id": 865,
+    "word": "Research institution",
+    "pos": null,
+    "meaningVi": "tổ chức nghiên cứu",
+    "ipa": "ˈriː.sɝːtʃ ɪn.stəˈtuː.ʃən",
+    "tags": []
+  },
+  {
+    "id": 866,
+    "word": "Collaboration",
+    "pos": "noun",
+    "meaningVi": "sự hợp tác",
+    "ipa": "kəˌlæb.əˈreɪ.ʃən",
+    "tags": []
+  },
+  {
+    "id": 867,
+    "word": "Collaborate",
+    "pos": "verb",
+    "meaningVi": "hợp tác",
+    "ipa": "kəˈlæb.ə.reɪt",
+    "tags": []
+  },
+  {
+    "id": 868,
+    "word": "Collaboratively",
+    "pos": "adverb",
+    "meaningVi": "một cách hợp tác",
+    "ipa": "kəˈlæb.ɚ.ə.t̬ɪv.li",
+    "tags": []
+  },
+  {
+    "id": 869,
+    "word": "Driver",
+    "pos": "noun",
+    "meaningVi": "tài xế",
+    "ipa": "ˈdraɪ.vɚ",
+    "tags": []
+  },
+  {
+    "id": 870,
+    "word": "Remind",
+    "pos": "verb",
+    "meaningVi": "nhắc nhở",
+    "ipa": "rɪˈmaɪnd",
+    "tags": []
+  },
+  {
+    "id": 871,
+    "word": "Drive",
+    "pos": "verb",
+    "meaningVi": "lái xe",
+    "ipa": "draɪv",
+    "tags": []
+  },
+  {
+    "id": 872,
+    "word": "Throughout",
+    "pos": "preposition",
+    "meaningVi": "trong suốt",
+    "ipa": "θruːˈaʊt",
+    "tags": []
+  },
+  {
+    "id": 873,
+    "word": "July",
+    "pos": "noun",
+    "meaningVi": "tháng 7",
+    "ipa": "dʒʊˈlaɪ",
+    "tags": []
+  },
+  {
+    "id": 874,
+    "word": "Ongoing",
+    "pos": "adjective",
+    "meaningVi": "đang diễn ra",
+    "ipa": "ˈɑːnˌɡoʊ.ɪŋ",
+    "tags": []
+  },
+  {
+    "id": 875,
+    "word": "Chef",
+    "pos": "noun",
+    "meaningVi": "đầu bếp",
+    "ipa": "ʃef",
+    "tags": []
+  },
+  {
+    "id": 876,
+    "word": "Executive",
+    "pos": "noun",
+    "meaningVi": "người điều hành",
+    "ipa": "ɪɡˈzek.jə.t̬ɪv",
+    "tags": []
+  },
+  {
+    "id": 877,
+    "word": "Respond",
+    "pos": "verb",
+    "meaningVi": "trả lời, phản hồi",
+    "ipa": "rɪˈspɑːnd",
+    "tags": []
+  },
+  {
+    "id": 878,
+    "word": "Suggestion",
+    "pos": "noun",
+    "meaningVi": "sự đề xuất",
+    "ipa": "səˈdʒes.tʃən",
+    "tags": []
+  },
+  {
+    "id": 879,
+    "word": "Guest",
+    "pos": "noun",
+    "meaningVi": "khách hàng",
+    "ipa": "ɡest",
+    "tags": []
+  },
+  {
+    "id": 880,
+    "word": "Respect",
+    "pos": "noun",
+    "meaningVi": "sự tôn trọng",
+    "ipa": "rɪˈspekt",
+    "tags": []
+  },
+  {
+    "id": 881,
+    "word": "Respect",
+    "pos": "verb",
+    "meaningVi": "tôn trọng",
+    "ipa": "rɪˈspekt",
+    "tags": []
+  },
+  {
+    "id": 882,
+    "word": "Respectful",
+    "pos": "adjective",
+    "meaningVi": "một cách tôn trọng",
+    "ipa": "rɪˈspekt.fəl",
+    "tags": []
+  },
+  {
+    "id": 883,
+    "word": "Respectfully",
+    "pos": "adverb",
+    "meaningVi": "một cách tôn trọng",
+    "ipa": "rɪˈspekt.fəl.i",
+    "tags": []
+  },
+  {
+    "id": 884,
+    "word": "Respected",
+    "pos": "adjective",
+    "meaningVi": "được ngưỡng mộ",
+    "ipa": "rɪˈspek.tɪd",
+    "tags": []
+  },
+  {
+    "id": 885,
+    "word": "View",
+    "pos": "verb",
+    "meaningVi": "xem, nhìn",
+    "ipa": "vjuː",
+    "tags": []
+  },
+  {
+    "id": 886,
+    "word": "Beautiful",
+    "pos": "adjective",
+    "meaningVi": "xinh đẹp",
+    "ipa": "ˈbjuː.t̬ə.fəl",
+    "tags": []
+  },
+  {
+    "id": 887,
+    "word": "Landscape",
+    "pos": "noun",
+    "meaningVi": "phong cảnh",
+    "ipa": "ˈlænd.skeɪp",
+    "tags": []
+  },
+  {
+    "id": 888,
+    "word": "Inspire",
+    "pos": "verb",
+    "meaningVi": "truyền cảm hứng",
+    "ipa": "ɪnˈspaɪr",
+    "tags": []
+  },
+  {
+    "id": 889,
+    "word": "Paint",
+    "pos": "verb",
+    "meaningVi": "vẽ",
+    "ipa": "peɪnt",
+    "tags": []
+  },
+  {
+    "id": 890,
+    "word": "Continually",
+    "pos": "adverb",
+    "meaningVi": "liên tục, lặp đi lặp lại",
+    "ipa": "kənˈtɪn.ju.ə.li",
+    "tags": []
+  },
+  {
+    "id": 891,
+    "word": "Continual",
+    "pos": "adjective",
+    "meaningVi": "liên lục, lặp đi lặp lại",
+    "ipa": "kənˈtɪn.ju.əl",
+    "tags": []
+  },
+  {
+    "id": 892,
+    "word": "Sidewalk",
+    "pos": "noun",
+    "meaningVi": "vỉa hè",
+    "ipa": "ˈsaɪd.wɑːk",
+    "tags": []
+  },
+  {
+    "id": 893,
+    "word": "Town",
+    "pos": "noun",
+    "meaningVi": "thị trấn",
+    "ipa": "taʊn",
+    "tags": []
+  },
+  {
+    "id": 894,
+    "word": "Wide",
+    "pos": "adjective",
+    "meaningVi": "rộng",
+    "ipa": "waɪd",
+    "tags": []
+  },
+  {
+    "id": 895,
+    "word": "General",
+    "pos": "adjective",
+    "meaningVi": "nhìn chung",
+    "ipa": "ˈdʒen.ər.əl",
+    "tags": []
+  },
+  {
+    "id": 896,
+    "word": "Generally",
+    "pos": "adverb",
+    "meaningVi": "nói chung",
+    "ipa": "ˈdʒen.ə r.əl.i",
+    "tags": []
+  },
+  {
+    "id": 897,
+    "word": "Generalize",
+    "pos": "verb",
+    "meaningVi": "tổng quát hóa",
+    "ipa": "ˈdʒen.ər.əl.aɪz",
+    "tags": []
+  },
+  {
+    "id": 898,
+    "word": "Generalization",
+    "pos": "noun",
+    "meaningVi": "sự tổng quát",
+    "ipa": "ˌdʒen.ə r.əl.əˈzeɪ.ʃən",
+    "tags": []
+  },
+  {
+    "id": 899,
+    "word": "Meter",
+    "pos": "noun",
+    "meaningVi": "mét",
+    "ipa": "ˈmiː.t̬ɚ",
+    "tags": []
+  },
+  {
+    "id": 900,
+    "word": "Lense",
+    "pos": "noun",
+    "meaningVi": "thấu kính",
+    "ipa": "lenz",
+    "tags": []
+  },
+  {
+    "id": 901,
+    "word": "Telephoto",
+    "pos": "noun",
+    "meaningVi": "thấu kính chụp xa",
+    "ipa": "ˌtel.əˌfoʊ.t̬oʊ",
+    "tags": []
+  },
+  {
+    "id": 902,
+    "word": "Reach",
+    "pos": "noun",
+    "meaningVi": "tầm với",
+    "ipa": "riːtʃ",
+    "tags": []
+  },
+  {
+    "id": 903,
+    "word": "Lightweight",
+    "pos": "adjective",
+    "meaningVi": "nhẹ",
+    "ipa": "ˈlaɪt.weɪt",
+    "tags": []
+  },
+  {
+    "id": 904,
+    "word": "Yet",
+    "pos": "adverb",
+    "meaningVi": "nhưng",
+    "ipa": "jet",
+    "tags": []
+  },
+  {
+    "id": 905,
+    "word": "Casing",
+    "pos": "noun",
+    "meaningVi": "vỏ bên ngoài",
+    "ipa": "ˈkeɪ.sɪŋ",
+    "tags": []
+  },
+  {
+    "id": 906,
+    "word": "Exception",
+    "pos": "noun",
+    "meaningVi": "ngoại lệ",
+    "ipa": "ɪkˈsep.ʃən",
+    "tags": []
+  },
+  {
+    "id": 907,
+    "word": "Except",
+    "pos": "preposition",
+    "meaningVi": "ngoại trừ",
+    "ipa": "ɪkˈsept",
+    "tags": []
+  },
+  {
+    "id": 908,
+    "word": "Exceptionally",
+    "pos": "adverb",
+    "meaningVi": "đặc biệt, cực kì",
+    "ipa": "ɪkˈsep.ʃən.əl.i",
+    "tags": []
+  },
+  {
+    "id": 909,
+    "word": "Relocate",
+    "pos": "verb",
+    "meaningVi": "chuyển chỗ",
+    "ipa": "ˌriːˈloʊ.keɪt",
+    "tags": []
+  },
+  {
+    "id": 910,
+    "word": "Difficult",
+    "pos": "adjective",
+    "meaningVi": "khó khăn",
+    "ipa": "ˈdɪf.ə.kəlt",
+    "tags": []
+  },
+  {
+    "id": 911,
+    "word": "Decision",
+    "pos": "noun",
+    "meaningVi": "quyết định",
+    "ipa": "dɪˈsɪʒ.ən",
+    "tags": []
+  },
+  {
+    "id": 912,
+    "word": "Rewarding",
+    "pos": "adjective",
+    "meaningVi": "xứng đáng",
+    "ipa": "rɪˈwɔːr.dɪŋ",
+    "tags": []
+  },
+  {
+    "id": 913,
+    "word": "Understandably",
+    "pos": "adverb",
+    "meaningVi": "một cách dễ hiểu",
+    "ipa": "ˌʌn.dɚˈstæn.də.bli",
+    "tags": []
+  },
+  {
+    "id": 914,
+    "word": "Understand",
+    "pos": "verb",
+    "meaningVi": "hiểu",
+    "ipa": "ˌʌn.dɚˈstænd",
+    "tags": []
+  },
+  {
+    "id": 915,
+    "word": "When",
+    "pos": "conjunction",
+    "meaningVi": "khi",
+    "ipa": "wen",
+    "tags": []
+  },
+  {
+    "id": 916,
+    "word": "While",
+    "pos": "conjunction",
+    "meaningVi": "trong khi",
+    "ipa": "waɪl",
+    "tags": []
+  },
+  {
+    "id": 917,
+    "word": "Since",
+    "pos": "conjunction",
+    "meaningVi": "khi, vì",
+    "ipa": "sɪns",
+    "tags": []
+  },
+  {
+    "id": 918,
+    "word": "As",
+    "pos": "conjunction",
+    "meaningVi": "khi, vì",
+    "ipa": "əz",
+    "tags": []
+  },
+  {
+    "id": 919,
+    "word": "After",
+    "pos": "conjunction/preposition",
+    "meaningVi": "sau khi",
+    "ipa": "ˈæf.tɚ",
+    "tags": []
+  },
+  {
+    "id": 920,
+    "word": "Before",
+    "pos": "conjunction/preposition",
+    "meaningVi": "trước khi",
+    "ipa": "bɪˈfɔːr",
+    "tags": []
+  },
+  {
+    "id": 921,
+    "word": "As soon as",
+    "pos": "conjunction",
+    "meaningVi": "ngay khi",
+    "ipa": "əz suːn əz",
+    "tags": []
+  },
+  {
+    "id": 922,
+    "word": "If",
+    "pos": "conjunction",
+    "meaningVi": "nếu",
+    "ipa": "ɪf",
+    "tags": []
+  },
+  {
+    "id": 923,
+    "word": "As long as",
+    "pos": "conjunction",
+    "meaningVi": "miễn là",
+    "ipa": "əz lɑːŋ əz",
+    "tags": []
+  },
+  {
+    "id": 924,
+    "word": "Unless",
+    "pos": "conjunction",
+    "meaningVi": "trừ khi, nếu không",
+    "ipa": "ənˈles",
+    "tags": []
+  },
+  {
+    "id": 925,
+    "word": "Once",
+    "pos": "conjunction",
+    "meaningVi": "một khi",
+    "ipa": "wʌns",
+    "tags": []
+  },
+  {
+    "id": 926,
+    "word": "In case",
+    "pos": "conjunction",
+    "meaningVi": "trong trường hợp",
+    "ipa": "ɪn keɪs",
+    "tags": []
+  },
+  {
+    "id": 927,
+    "word": "Because",
+    "pos": "conjunction",
+    "meaningVi": "vì",
+    "ipa": "bɪˈkʌz",
+    "tags": []
+  },
+  {
+    "id": 928,
+    "word": "Since",
+    "pos": "conjunction",
+    "meaningVi": "vì",
+    "ipa": "sɪns",
+    "tags": []
+  },
+  {
+    "id": 929,
+    "word": "As",
+    "pos": "conjunction",
+    "meaningVi": "vì",
+    "ipa": "əz",
+    "tags": []
+  },
+  {
+    "id": 930,
+    "word": "Now that",
+    "pos": "conjunction",
+    "meaningVi": "vì",
+    "ipa": "naʊ ðæt",
+    "tags": []
+  },
+  {
+    "id": 931,
+    "word": "Although",
+    "pos": "conjunction",
+    "meaningVi": "mặc dù",
+    "ipa": "ɑːlˈðoʊ",
+    "tags": []
+  },
+  {
+    "id": 932,
+    "word": "Even though",
+    "pos": "conjunction",
+    "meaningVi": "mặc dù",
+    "ipa": "ˈiː.vən ðoʊ",
+    "tags": []
+  },
+  {
+    "id": 933,
+    "word": "Though",
+    "pos": "conjunction",
+    "meaningVi": "mặc dù",
+    "ipa": "ðoʊ",
+    "tags": []
+  },
+  {
+    "id": 934,
+    "word": "Even if",
+    "pos": "conjunction",
+    "meaningVi": "dù có hay không",
+    "ipa": "ˈiː.vən ɪf",
+    "tags": []
+  },
+  {
+    "id": 935,
+    "word": "So that",
+    "pos": "conjunction",
+    "meaningVi": "để",
+    "ipa": "soʊ ðæt",
+    "tags": []
+  },
+  {
+    "id": 936,
+    "word": "So",
+    "pos": "conjunction",
+    "meaningVi": "để, vì vậy",
+    "ipa": "soʊ",
+    "tags": []
+  },
+  {
+    "id": 937,
+    "word": "Expire",
+    "pos": "verb",
+    "meaningVi": "hết bạn",
+    "ipa": "ɪkˈspaɪr",
+    "tags": []
+  },
+  {
+    "id": 938,
+    "word": "Supplier",
+    "pos": "noun",
+    "meaningVi": "nhà cung cấp",
+    "ipa": "səˈplaɪ.ɚ",
+    "tags": []
+  },
+  {
+    "id": 939,
+    "word": "Decide",
+    "pos": "verb",
+    "meaningVi": "quyết định",
+    "ipa": "dɪˈsaɪd",
+    "tags": []
+  },
+  {
+    "id": 940,
+    "word": "Despite",
+    "pos": "preposition",
+    "meaningVi": "mặc dù",
+    "ipa": "dɪˈspaɪt",
+    "tags": []
+  },
+  {
+    "id": 941,
+    "word": "Rise",
+    "pos": "noun",
+    "meaningVi": "sự tăng",
+    "ipa": "raɪz",
+    "tags": []
+  },
+  {
+    "id": 942,
+    "word": "Demand",
+    "pos": "noun",
+    "meaningVi": "nhu cầu",
+    "ipa": "dɪˈmænd",
+    "tags": []
+  },
+  {
+    "id": 943,
+    "word": "Secretary",
+    "pos": "noun",
+    "meaningVi": "thư kí",
+    "ipa": "ˈsek.rə.ter.i",
+    "tags": []
+  },
+  {
+    "id": 944,
+    "word": "Urgent",
+    "pos": "adjective",
+    "meaningVi": "khẩn cấp",
+    "ipa": "ˈɝː.dʒənt",
+    "tags": []
+  },
+  {
+    "id": 945,
+    "word": "Business",
+    "pos": "noun",
+    "meaningVi": "việc",
+    "ipa": "ˈbɪz.nɪs",
+    "tags": []
+  },
+  {
+    "id": 946,
+    "word": "Improve",
+    "pos": "verb",
+    "meaningVi": "cải thiện",
+    "ipa": "ɪmˈpruːv",
+    "tags": []
+  },
+  {
+    "id": 947,
+    "word": "Exhibition",
+    "pos": "noun",
+    "meaningVi": "buổi triển lãm",
+    "ipa": "ˌek.səˈbɪʃ.ən",
+    "tags": []
+  },
+  {
+    "id": 948,
+    "word": "Feature",
+    "pos": "verb",
+    "meaningVi": "có, trưng bày",
+    "ipa": "ˈfiː.tʃɚ",
+    "tags": []
+  },
+  {
+    "id": 949,
+    "word": "Ancient",
+    "pos": "adjective",
+    "meaningVi": "cổ đại",
+    "ipa": "ˈeɪn.ʃənt",
+    "tags": []
+  },
+  {
+    "id": 950,
+    "word": "Civilization",
+    "pos": "noun",
+    "meaningVi": "nền văn minh",
+    "ipa": "ˌsɪv.əl.əˈzeɪ.ʃən",
+    "tags": []
+  },
+  {
+    "id": 951,
+    "word": "Apply for",
+    "pos": "phrase",
+    "meaningVi": "ứng tuyển",
+    "ipa": "əˈplaɪ fɚ",
+    "tags": []
+  },
+  {
+    "id": 952,
+    "word": "Scholarship",
+    "pos": "noun",
+    "meaningVi": "học bổng",
+    "ipa": "ˈskɑː.lɚ.ʃɪp",
+    "tags": []
+  },
+  {
+    "id": 953,
+    "word": "Transcript",
+    "pos": "noun",
+    "meaningVi": "bảng điểm, học bạ",
+    "ipa": "ˈtræn.skrɪpt",
+    "tags": []
+  },
+  {
+    "id": 954,
+    "word": "First",
+    "pos": "adverb",
+    "meaningVi": "đầu tiên",
+    "ipa": "ˈfɝːst",
+    "tags": []
+  },
+  {
+    "id": 955,
+    "word": "Due",
+    "pos": "adjective",
+    "meaningVi": "tới hạn",
+    "ipa": "duː",
+    "tags": []
+  },
+  {
+    "id": 956,
+    "word": "Price",
+    "pos": "noun",
+    "meaningVi": "giá cả",
+    "ipa": "praɪs",
+    "tags": []
+  },
+  {
+    "id": 957,
+    "word": "List",
+    "pos": "verb",
+    "meaningVi": "liệt kê",
+    "ipa": "lɪst",
+    "tags": []
+  },
+  {
+    "id": 958,
+    "word": "Brochure",
+    "pos": "noun",
+    "meaningVi": "tờ quảng cáo",
+    "ipa": "broʊˈʃʊr",
+    "tags": []
+  },
+  {
+    "id": 959,
+    "word": "Effective",
+    "pos": "adjective",
+    "meaningVi": "hiệu quả, có hiệu lực",
+    "ipa": "əˈfek.tɪv",
+    "tags": []
+  },
+  {
+    "id": 960,
+    "word": "Notice",
+    "pos": "noun",
+    "meaningVi": "sự thông báo",
+    "ipa": "ˈnoʊ.t̬ɪs",
+    "tags": []
+  },
+  {
+    "id": 961,
+    "word": "Further",
+    "pos": "adjective",
+    "meaningVi": "thêm, xa hơn",
+    "ipa": "ˈfɝː.ðɚ",
+    "tags": []
+  },
+  {
+    "id": 962,
+    "word": "Charity",
+    "pos": "noun",
+    "meaningVi": "từ thiện",
+    "ipa": "ˈtʃer.ə.t̬i",
+    "tags": []
+  },
+  {
+    "id": 963,
+    "word": "Event",
+    "pos": "noun",
+    "meaningVi": "sự kiện",
+    "ipa": "ɪˈvent",
+    "tags": []
+  },
+  {
+    "id": 964,
+    "word": "Nurse",
+    "pos": "noun",
+    "meaningVi": "y tá",
+    "ipa": "nɝːs",
+    "tags": []
+  },
+  {
+    "id": 965,
+    "word": "Both…and",
+    "pos": null,
+    "meaningVi": "cả….và",
+    "ipa": "boʊθ ænd",
+    "tags": []
+  },
+  {
+    "id": 966,
+    "word": "Either….or…",
+    "pos": null,
+    "meaningVi": "hoặc…. hoặc",
+    "ipa": "ˈiː.ðɚ ɔːr",
+    "tags": []
+  },
+  {
+    "id": 967,
+    "word": "Neither …. Nor",
+    "pos": null,
+    "meaningVi": "không…..cũng không",
+    "ipa": "ˈniː.ðɚ nɔːr",
+    "tags": []
+  },
+  {
+    "id": 968,
+    "word": "Not only…..but also..",
+    "pos": null,
+    "meaningVi": "không nhữnh.. mà còn",
+    "ipa": "nɑːt ˈoʊn.li …. bʌt ˈɑːl.soʊ",
+    "tags": []
+  },
+  {
+    "id": 969,
+    "word": "Serve",
+    "pos": "verb",
+    "meaningVi": "phục vụ",
+    "ipa": "sɝːv",
+    "tags": []
+  },
+  {
+    "id": 970,
+    "word": "Fresh",
+    "pos": "adjective",
+    "meaningVi": "tươi",
+    "ipa": "freʃ",
+    "tags": []
+  },
+  {
+    "id": 971,
+    "word": "Organic",
+    "pos": "adjective",
+    "meaningVi": "hữu cơ",
+    "ipa": "ɔːrˈɡæn.ɪk",
+    "tags": []
+  },
+  {
+    "id": 972,
+    "word": "Vegetable",
+    "pos": "noun",
+    "meaningVi": "rau củ",
+    "ipa": "ˈvedʒ.tə.bəl",
+    "tags": []
+  },
+  {
+    "id": 973,
+    "word": "Lounge",
+    "pos": "noun",
+    "meaningVi": "phòng chờ",
+    "ipa": "laʊndʒ",
+    "tags": []
+  },
+  {
+    "id": 974,
+    "word": "Laptop",
+    "pos": "noun",
+    "meaningVi": "máy tính xách tay",
+    "ipa": "ˈlæp.tɑːp",
+    "tags": []
+  },
+  {
+    "id": 975,
+    "word": "Computer",
+    "pos": "noun",
+    "meaningVi": "máy tính để bàn",
+    "ipa": "kəmˈpjuː.t̬ɚ",
+    "tags": []
+  },
+  {
+    "id": 976,
+    "word": "Simple",
+    "pos": "adjective",
+    "meaningVi": "đơn giảm",
+    "ipa": "ˈsɪm.pəl",
+    "tags": []
+  },
+  {
+    "id": 977,
+    "word": "Powerful",
+    "pos": "adjective",
+    "meaningVi": "mạnh mẽ",
+    "ipa": "ˈpaʊ.ɚ.fəl",
+    "tags": []
+  },
+  {
+    "id": 978,
+    "word": "Way",
+    "pos": "noun",
+    "meaningVi": "cách",
+    "ipa": "weɪ",
+    "tags": []
+  },
+  {
+    "id": 979,
+    "word": "Promote",
+    "pos": "verb",
+    "meaningVi": "quảng bá",
+    "ipa": "prəˈmoʊt",
+    "tags": []
+  },
+  {
+    "id": 980,
+    "word": "Currently",
+    "pos": "adverb",
+    "meaningVi": "hiện tại",
+    "ipa": "ˈkɝː.ənt.li",
+    "tags": []
+  },
+  {
+    "id": 981,
+    "word": "Look for",
+    "pos": "phrase",
+    "meaningVi": "tìm",
+    "ipa": "lʊk fɚ",
+    "tags": []
+  },
+  {
+    "id": 982,
+    "word": "Experienced",
+    "pos": "adjective",
+    "meaningVi": "có kinh nghiệm",
+    "ipa": "ɪkˈspɪr.i.ənst",
+    "tags": []
+  },
+  {
+    "id": 983,
+    "word": "Promote",
+    "pos": "verb",
+    "meaningVi": "thăng tiến",
+    "ipa": "prəˈmoʊt",
+    "tags": []
+  },
+  {
+    "id": 984,
+    "word": "Satisfactory",
+    "pos": "adjective",
+    "meaningVi": "thỏa mãn",
+    "ipa": "ˌsæt̬.ɪsˈfæk.tɚ.i",
+    "tags": []
+  },
+  {
+    "id": 985,
+    "word": "Salary",
+    "pos": "noun",
+    "meaningVi": "lương",
+    "ipa": "ˈsæl.ɚ.i",
+    "tags": []
+  },
+  {
+    "id": 986,
+    "word": "Comprehensive",
+    "pos": "adjective",
+    "meaningVi": "toàn diện",
+    "ipa": "ˌkɑːm.prəˈhen.sɪv",
+    "tags": []
+  },
+  {
+    "id": 987,
+    "word": "Benefit",
+    "pos": "noun",
+    "meaningVi": "lợi ích",
+    "ipa": "ˈben.ə.fɪt",
+    "tags": []
+  },
+  {
+    "id": 988,
+    "word": "Major",
+    "pos": "adjective",
+    "meaningVi": "chính",
+    "ipa": "ˈmeɪ.dʒɚ",
+    "tags": []
+  },
+  {
+    "id": 989,
+    "word": "Retail",
+    "pos": "noun",
+    "meaningVi": "bán lẻ",
+    "ipa": "ˈriː.teɪl",
+    "tags": []
+  },
+  {
+    "id": 990,
+    "word": "Department store",
+    "pos": "noun",
+    "meaningVi": "cửa hàng tổng hợp",
+    "ipa": "dɪˈpɑːrt.mənt stɔːr",
+    "tags": []
+  },
+  {
+    "id": 991,
+    "word": "Sign",
+    "pos": "verb",
+    "meaningVi": "kí",
+    "ipa": "saɪn",
+    "tags": []
+  },
+  {
+    "id": 992,
+    "word": "Already",
+    "pos": "adverb",
+    "meaningVi": "rồi",
+    "ipa": "ɑːlˈred.i",
+    "tags": []
+  },
+  {
+    "id": 993,
+    "word": "Official",
+    "pos": "adjective",
+    "meaningVi": "chính thức",
+    "ipa": "əˈfɪʃ.əl",
+    "tags": []
+  },
+  {
+    "id": 994,
+    "word": "Insurance",
+    "pos": "noun",
+    "meaningVi": "bảo hiểm",
+    "ipa": "ɪnˈʃɝː.əns",
+    "tags": []
+  },
+  {
+    "id": 995,
+    "word": "Pay",
+    "pos": "verb",
+    "meaningVi": "trả tiền",
+    "ipa": "peɪ",
+    "tags": []
+  },
+  {
+    "id": 996,
+    "word": "Tenant",
+    "pos": "noun",
+    "meaningVi": "người thuê",
+    "ipa": "ˈten.ənt",
+    "tags": []
+  },
+  {
+    "id": 997,
+    "word": "Custodian",
+    "pos": "noun",
+    "meaningVi": "người quản lí",
+    "ipa": "kʌsˈtoʊ.di.ən",
+    "tags": []
+  },
+  {
+    "id": 998,
+    "word": "Directly",
+    "pos": "adverb",
+    "meaningVi": "một cách trực tiếp",
+    "ipa": "daɪˈrekt.li",
+    "tags": []
+  },
+  {
+    "id": 999,
+    "word": "Heating",
+    "pos": "noun",
+    "meaningVi": "hệ thống sưởi, máy sưởi",
+    "ipa": "ˈhiː.t̬ɪŋ",
+    "tags": []
+  },
+  {
+    "id": 1000,
+    "word": "Occur",
+    "pos": "verb",
+    "meaningVi": "xảy ra",
+    "ipa": "əˈkɝː",
+    "tags": []
+  },
+  {
+    "id": 1001,
+    "word": "Then",
+    "pos": "adverb",
+    "meaningVi": "sau đó",
+    "ipa": "ðen",
+    "tags": []
+  },
+  {
+    "id": 1002,
+    "word": "Sorry",
+    "pos": "adjective",
+    "meaningVi": "tiếc, xin lỗi",
+    "ipa": "ˈsɔːr.i",
+    "tags": []
+  },
+  {
+    "id": 1003,
+    "word": "Processing",
+    "pos": "noun",
+    "meaningVi": "quá trình xử lí",
+    "ipa": "ˈprɑː.ses.ɪŋ",
+    "tags": []
+  },
+  {
+    "id": 1004,
+    "word": "Delay",
+    "pos": "verb",
+    "meaningVi": "trễ, hoãn",
+    "ipa": "dɪˈleɪ",
+    "tags": []
+  },
+  {
+    "id": 1005,
+    "word": "Beyond",
+    "pos": "preposition",
+    "meaningVi": "vượt quá",
+    "ipa": "biˈjɑːnd",
+    "tags": []
+  },
+  {
+    "id": 1006,
+    "word": "Control",
+    "pos": "noun",
+    "meaningVi": "sự kiểm soát",
+    "ipa": "kənˈtroʊl",
+    "tags": []
+  },
+  {
+    "id": 1007,
+    "word": "Supporting",
+    "pos": "adjective",
+    "meaningVi": "hỗ trợ",
+    "ipa": "səˈpɔːr.t̬ɪŋ",
+    "tags": []
+  },
+  {
+    "id": 1008,
+    "word": "Auditor",
+    "pos": "noun",
+    "meaningVi": "kiểm toán viên",
+    "ipa": "ˈɑː.də.t̬ɚ",
+    "tags": []
+  },
+  {
+    "id": 1009,
+    "word": "Innovate",
+    "pos": "verb",
+    "meaningVi": "đổi mới",
+    "ipa": "ˈɪn.ə.veɪt",
+    "tags": []
+  },
+  {
+    "id": 1010,
+    "word": "Innovation",
+    "pos": "noun",
+    "meaningVi": "sự đổi mới",
+    "ipa": "ˌɪn.əˈveɪ.ʃən",
+    "tags": []
+  },
+  {
+    "id": 1011,
+    "word": "Innovative",
+    "pos": "adjective",
+    "meaningVi": "đổi mới",
+    "ipa": "ˈɪn.ə.veɪ.t̬ɪv",
+    "tags": []
+  },
+  {
+    "id": 1012,
+    "word": "Innovatively",
+    "pos": "adverb",
+    "meaningVi": "một cách đổi mới",
+    "ipa": "ˈɪn.ə.veɪ.t̬ɪv.li",
+    "tags": []
+  },
+  {
+    "id": 1013,
+    "word": "Furniture",
+    "pos": "noun",
+    "meaningVi": "đồ nội thất",
+    "ipa": "ˈfɝː.nɪ.tʃɚ",
+    "tags": []
+  },
+  {
+    "id": 1014,
+    "word": "Arrive",
+    "pos": "verb",
+    "meaningVi": "đến",
+    "ipa": "əˈraɪv",
+    "tags": []
+  },
+  {
+    "id": 1015,
+    "word": "Specialist",
+    "pos": "noun",
+    "meaningVi": "chuyên gia",
+    "ipa": "ˈspeʃ.əl.ɪst",
+    "tags": []
+  },
+  {
+    "id": 1016,
+    "word": "Private",
+    "pos": "adjective",
+    "meaningVi": "tư nhân",
+    "ipa": "ˈpraɪ.vət",
+    "tags": []
+  },
+  {
+    "id": 1017,
+    "word": "Agency",
+    "pos": "noun",
+    "meaningVi": "cơ quan, đại lí",
+    "ipa": "ˈeɪ.dʒən.si",
+    "tags": []
+  },
+  {
+    "id": 1018,
+    "word": "Primary",
+    "pos": "adjective",
+    "meaningVi": "chính, thiết yếu",
+    "ipa": "ˈpraɪ.mer.i",
+    "tags": []
+  },
+  {
+    "id": 1019,
+    "word": "Educate",
+    "pos": "verb",
+    "meaningVi": "giáo dục",
+    "ipa": "ˈedʒ.ə.keɪt",
+    "tags": []
+  },
+  {
+    "id": 1020,
+    "word": "Violence",
+    "pos": "noun",
+    "meaningVi": "sự bạo lực",
+    "ipa": "ˈvaɪə.ləns",
+    "tags": []
+  },
+  {
+    "id": 1021,
+    "word": "Poverty",
+    "pos": "noun",
+    "meaningVi": "sự nghèo đói",
+    "ipa": "ˈpɑː.vɚ.t̬i",
+    "tags": []
+  },
+  {
+    "id": 1022,
+    "word": "Protect",
+    "pos": "verb",
+    "meaningVi": "bảo vệ",
+    "ipa": "prəˈtekt",
+    "tags": []
+  },
+  {
+    "id": 1023,
+    "word": "Incentive",
+    "pos": "adjective",
+    "meaningVi": "khuyến khích",
+    "ipa": "ɪnˈsen.t̬ɪv",
+    "tags": []
+  },
+  {
+    "id": 1024,
+    "word": "Such",
+    "pos": "determiner",
+    "meaningVi": "nhấn mạnh danh từ, thật là",
+    "ipa": "sʌtʃ",
+    "tags": []
+  },
+  {
+    "id": 1025,
+    "word": "Desk",
+    "pos": "noun",
+    "meaningVi": "bàn",
+    "ipa": "desk",
+    "tags": []
+  },
+  {
+    "id": 1026,
+    "word": "Visitor",
+    "pos": "noun",
+    "meaningVi": "khách",
+    "ipa": "ˈvɪz.ɪ.t̬ɚ",
+    "tags": []
+  },
+  {
+    "id": 1027,
+    "word": "Sponsor",
+    "pos": "verb",
+    "meaningVi": "tài trợ",
+    "ipa": "ˈspɑːn.sɚ",
+    "tags": []
+  },
+  {
+    "id": 1028,
+    "word": "Job fair",
+    "pos": "noun",
+    "meaningVi": "hội chợ",
+    "ipa": "dʒɑːb fer",
+    "tags": []
+  },
+  {
+    "id": 1029,
+    "word": "Win",
+    "pos": "verb",
+    "meaningVi": "chiến thắng",
+    "ipa": "wɪn",
+    "tags": []
+  },
+  {
+    "id": 1030,
+    "word": "Award",
+    "pos": "noun",
+    "meaningVi": "giải thưởng",
+    "ipa": "əˈwɔːrd",
+    "tags": []
+  },
+  {
+    "id": 1031,
+    "word": "Sell out",
+    "pos": "phrase",
+    "meaningVi": "bán hết",
+    "ipa": "sel aʊt",
+    "tags": []
+  },
+  {
+    "id": 1032,
+    "word": "Proof",
+    "pos": "noun",
+    "meaningVi": "bằng chứng",
+    "ipa": "pruːf",
+    "tags": []
+  },
+  {
+    "id": 1033,
+    "word": "Singer",
+    "pos": "noun",
+    "meaningVi": "ca sĩ",
+    "ipa": "ˈsɪŋ.ɚ",
+    "tags": []
+  },
+  {
+    "id": 1034,
+    "word": "Popularity",
+    "pos": "noun",
+    "meaningVi": "sự nổi tiếng",
+    "ipa": "ˌpɑː.pjəˈler.ə.t̬i",
+    "tags": []
+  },
+  {
+    "id": 1035,
+    "word": "Inexperienced",
+    "pos": "adjective",
+    "meaningVi": "không có kinh nghiệm",
+    "ipa": "ˌɪn.ɪkˈspɪr.i.ənst",
+    "tags": []
+  },
+  {
+    "id": 1036,
+    "word": "Potential",
+    "pos": "noun",
+    "meaningVi": "tiềm năng",
+    "ipa": "poʊˈten.ʃəl",
+    "tags": []
+  },
+  {
+    "id": 1037,
+    "word": "Try",
+    "pos": "verb",
+    "meaningVi": "cố gắng",
+    "ipa": "traɪ",
+    "tags": []
+  },
+  {
+    "id": 1038,
+    "word": "Excellent",
+    "pos": "adjective",
+    "meaningVi": "xuât sắc, tốt",
+    "ipa": "ˈek.səl.ənt",
+    "tags": []
+  },
+  {
+    "id": 1039,
+    "word": "Feedback",
+    "pos": "noun",
+    "meaningVi": "phản hồi",
+    "ipa": "ˈfiːd.bæk",
+    "tags": []
+  },
+  {
+    "id": 1040,
+    "word": "Such as",
+    "pos": "phrase",
+    "meaningVi": "ví dụ, như là",
+    "ipa": "sʌtʃ əz",
+    "tags": []
+  },
+  {
+    "id": 1041,
+    "word": "In addition to",
+    "pos": "preposition",
+    "meaningVi": "cùng với",
+    "ipa": "ɪn əˈdɪʃ.ən tu",
+    "tags": []
+  },
+  {
+    "id": 1042,
+    "word": "By means of",
+    "pos": "preposition",
+    "meaningVi": "bằng cách, phương tiện",
+    "ipa": "baɪ miːnz əv",
+    "tags": []
+  },
+  {
+    "id": 1043,
+    "word": "Convention",
+    "pos": "noun",
+    "meaningVi": "hội nghị",
+    "ipa": "kənˈven.ʃən",
+    "tags": []
+  },
+  {
+    "id": 1044,
+    "word": "January",
+    "pos": "noun",
+    "meaningVi": "tháng 1",
+    "ipa": "ˈdʒæn.ju.er.i",
+    "tags": []
+  },
+  {
+    "id": 1045,
+    "word": "Press release",
+    "pos": "noun",
+    "meaningVi": "công bố báo chí",
+    "ipa": "ˈpres rɪˌliːs",
+    "tags": []
+  },
+  {
+    "id": 1046,
+    "word": "Instead",
+    "pos": "adverb",
+    "meaningVi": "thay vào đó",
+    "ipa": "ɪnˈsted",
+    "tags": []
+  },
+  {
+    "id": 1047,
+    "word": "Get a raise",
+    "pos": "phrase",
+    "meaningVi": "tăng lương",
+    "ipa": "ɡet ə reɪz",
+    "tags": []
+  },
+  {
+    "id": 1048,
+    "word": "Soon",
+    "pos": "adverb",
+    "meaningVi": "sớm",
+    "ipa": "suːn",
+    "tags": []
+  },
+  {
+    "id": 1049,
+    "word": "Later",
+    "pos": "adverb",
+    "meaningVi": "sau đó",
+    "ipa": "ˈleɪ.t̬ɚ",
+    "tags": []
+  },
+  {
+    "id": 1050,
+    "word": "Indicate",
+    "pos": "verb",
+    "meaningVi": "chỉ ra",
+    "ipa": "ˈɪn.də.keɪt",
+    "tags": []
+  },
+  {
+    "id": 1051,
+    "word": "However",
+    "pos": "adverb",
+    "meaningVi": "tuy nhiên",
+    "ipa": "ˌhaʊˈev.ɚ",
+    "tags": []
+  },
+  {
+    "id": 1052,
+    "word": "Package",
+    "pos": "noun",
+    "meaningVi": "gói",
+    "ipa": "ˈpæk.ɪdʒ",
+    "tags": []
+  },
+  {
+    "id": 1053,
+    "word": "Include",
+    "pos": "verb",
+    "meaningVi": "bao gồm",
+    "ipa": "ɪnˈkluːd",
+    "tags": []
+  },
+  {
+    "id": 1054,
+    "word": "Round-trip",
+    "pos": "adjective",
+    "meaningVi": "khứ hồi",
+    "ipa": "ˌraʊnd ˈtrɪp",
+    "tags": []
+  },
+  {
+    "id": 1055,
+    "word": "Airfare",
+    "pos": "noun",
+    "meaningVi": "vé máy bay",
+    "ipa": "ˈer.fer",
+    "tags": []
+  },
+  {
+    "id": 1056,
+    "word": "Accommodation",
+    "pos": "noun",
+    "meaningVi": "chỗ ở",
+    "ipa": "əˌkɑː.məˈdeɪ.ʃən",
+    "tags": []
+  },
+  {
+    "id": 1057,
+    "word": "Apply",
+    "pos": "verb",
+    "meaningVi": "áp dụng",
+    "ipa": "əˈplaɪ",
+    "tags": []
+  },
+  {
+    "id": 1058,
+    "word": "Existing",
+    "pos": "adjective",
+    "meaningVi": "hiện có",
+    "ipa": "ɪɡˈzɪs.tɪŋ",
+    "tags": []
+  },
+  {
+    "id": 1059,
+    "word": "Résumé",
+    "pos": "noun",
+    "meaningVi": "sơ yếu lí lịch, CV",
+    "ipa": "ˈrez.ə.meɪ",
+    "tags": []
+  },
+  {
+    "id": 1060,
+    "word": "Summarize",
+    "pos": "verb",
+    "meaningVi": "tóm tắt",
+    "ipa": "ˈsʌm.ə.raɪz",
+    "tags": []
+  },
+  {
+    "id": 1061,
+    "word": "Education",
+    "pos": "noun",
+    "meaningVi": "giáo dục, trình độ học vấn",
+    "ipa": "ˌedʒ.əˈkeɪ.ʃən",
+    "tags": []
+  },
+  {
+    "id": 1062,
+    "word": "Educational",
+    "pos": "adjective",
+    "meaningVi": "giáo dục",
+    "ipa": "ˌedʒ.əˈkeɪ.ʃən.əl",
+    "tags": []
+  },
+  {
+    "id": 1063,
+    "word": "Educator",
+    "pos": "noun",
+    "meaningVi": "nhà giáo dục",
+    "ipa": "ˈedʒ.ə.keɪ.t̬ɚ",
+    "tags": []
+  },
+  {
+    "id": 1064,
+    "word": "Skill",
+    "pos": "noun",
+    "meaningVi": "kĩ năng",
+    "ipa": "skɪl",
+    "tags": []
+  },
+  {
+    "id": 1065,
+    "word": "Tuition",
+    "pos": "noun",
+    "meaningVi": "học phí",
+    "ipa": "tuːˈɪʃ.ən",
+    "tags": []
+  },
+  {
+    "id": 1066,
+    "word": "Meal",
+    "pos": "noun",
+    "meaningVi": "bữa ăn",
+    "ipa": "mɪəl",
+    "tags": []
+  },
+  {
+    "id": 1067,
+    "word": "Housing accommodation",
+    "pos": "noun",
+    "meaningVi": "chỗ ở",
+    "ipa": "ˈhaʊ.zɪŋ əˌkɑː.məˈdeɪ.ʃən",
+    "tags": []
+  },
+  {
+    "id": 1068,
+    "word": "By hand",
+    "pos": "phrase",
+    "meaningVi": "bằng tay",
+    "ipa": "baɪ hænd",
+    "tags": []
+  },
+  {
+    "id": 1069,
+    "word": "Accounting",
+    "pos": "noun",
+    "meaningVi": "kế toán",
+    "ipa": "əˈkaʊn.t̬ɪŋ",
+    "tags": []
+  },
+  {
+    "id": 1070,
+    "word": "Familiar with",
+    "pos": "adjective",
+    "meaningVi": "quen với",
+    "ipa": "fəˈmɪl.i.jɚ",
+    "tags": []
+  },
+  {
+    "id": 1071,
+    "word": "Rival",
+    "pos": "adjective",
+    "meaningVi": "đối thủ",
+    "ipa": "ˈraɪ.vəl",
+    "tags": []
+  },
+  {
+    "id": 1072,
+    "word": "Trade show",
+    "pos": "noun",
+    "meaningVi": "triễn lãm thương mại",
+    "ipa": "treɪd ʃoʊ",
+    "tags": []
+  },
+  {
+    "id": 1073,
+    "word": "Issue",
+    "pos": "verb",
+    "meaningVi": "cấp, ban hành",
+    "ipa": "ˈɪʃ.uː",
+    "tags": []
+  },
+  {
+    "id": 1074,
+    "word": "Parking",
+    "pos": "noun",
+    "meaningVi": "việc đỗ xe",
+    "ipa": "ˈpɑːr.kɪŋ",
+    "tags": []
+  },
+  {
+    "id": 1075,
+    "word": "Permit",
+    "pos": "noun",
+    "meaningVi": "giấy phép",
+    "ipa": "pɚˈmɪt",
+    "tags": []
+  },
+  {
+    "id": 1076,
+    "word": "Seek",
+    "pos": "verb",
+    "meaningVi": "tìm kiếm",
+    "ipa": "siːk",
+    "tags": []
+  },
+  {
+    "id": 1077,
+    "word": "The number of",
+    "pos": null,
+    "meaningVi": "số lượng",
+    "ipa": null,
+    "tags": []
+  },
+  {
+    "id": 1078,
+    "word": "Gradually",
+    "pos": "adverb",
+    "meaningVi": "từ từ, dần dần",
+    "ipa": "ˈɡrædʒ.u.ə.li",
+    "tags": []
+  },
+  {
+    "id": 1079,
+    "word": "Korean",
+    "pos": "noun",
+    "meaningVi": "tiếng Hàn",
+    "ipa": "kəˈriː.ən",
+    "tags": []
+  },
+  {
+    "id": 1080,
+    "word": "Security door",
+    "pos": "noun",
+    "meaningVi": "cửa an ninh",
+    "ipa": "səˈkjʊr.ə.t̬I dɔːr",
+    "tags": []
+  },
+  {
+    "id": 1081,
+    "word": "Remote control",
+    "pos": "noun",
+    "meaningVi": "cái điều khiển từ xa",
+    "ipa": "rɪˈmoʊt kənˈtroʊl",
+    "tags": []
+  },
+  {
+    "id": 1082,
+    "word": "Renovation",
+    "pos": "noun",
+    "meaningVi": "sự tân trang",
+    "ipa": "ˌren.əˈveɪ.ʃən",
+    "tags": []
+  },
+  {
+    "id": 1083,
+    "word": "Reopen",
+    "pos": "verb",
+    "meaningVi": "mở lại",
+    "ipa": "ˌriːˈoʊ.pən",
+    "tags": []
+  },
+  {
+    "id": 1084,
+    "word": "Limousine service",
+    "pos": "noun",
+    "meaningVi": "dịch vụ xe limousine",
+    "ipa": "ˌlɪm.əˈziːn ˈsɝː.vɪs",
+    "tags": []
+  },
+  {
+    "id": 1085,
+    "word": "Run",
+    "pos": "verb",
+    "meaningVi": "vận hành",
+    "ipa": "rʌn",
+    "tags": []
+  },
+  {
+    "id": 1086,
+    "word": "Favorably",
+    "pos": "adverb",
+    "meaningVi": "ủng hộ, yêu thích",
+    "ipa": "ˈfeɪ.vɚ.ə.bli",
+    "tags": []
+  },
+  {
+    "id": 1087,
+    "word": "Traveler",
+    "pos": "noun",
+    "meaningVi": "khách du lịch",
+    "ipa": "ˈtræv.əl.ɚ",
+    "tags": []
+  },
+  {
+    "id": 1088,
+    "word": "Agenda",
+    "pos": "noun",
+    "meaningVi": "chương trình họp",
+    "ipa": "əˈdʒen.də",
+    "tags": []
+  },
+  {
+    "id": 1089,
+    "word": "Moreover",
+    "pos": "adverb",
+    "meaningVi": "hơn nữa",
+    "ipa": "ˌmɔːrˈoʊ.vɚ",
+    "tags": []
+  },
+  {
+    "id": 1090,
+    "word": "Also",
+    "pos": "adverb",
+    "meaningVi": "cũng",
+    "ipa": "ˈɑːl.soʊ",
+    "tags": []
+  },
+  {
+    "id": 1091,
+    "word": "Successful",
+    "pos": "adjective",
+    "meaningVi": "thành công",
+    "ipa": "səkˈses.fəl",
+    "tags": []
+  },
+  {
+    "id": 1092,
+    "word": "Relatively",
+    "pos": "adverb",
+    "meaningVi": "tương đối",
+    "ipa": "ˈrel.ə.t̬ɪv.li",
+    "tags": []
+  },
+  {
+    "id": 1093,
+    "word": "Spacious",
+    "pos": "adjective",
+    "meaningVi": "rộng rãi",
+    "ipa": "ˈspeɪ.ʃəs",
+    "tags": []
+  },
+  {
+    "id": 1094,
+    "word": "Spaciousness",
+    "pos": "noun",
+    "meaningVi": "sự rộng rãi",
+    "ipa": "ˈspeɪ.ʃəs.nəs",
+    "tags": []
+  },
+  {
+    "id": 1095,
+    "word": "Adequately",
+    "pos": "adverb",
+    "meaningVi": "một cách đầy đủ",
+    "ipa": "ˈæd.ə.kwət.li",
+    "tags": []
+  },
+  {
+    "id": 1096,
+    "word": "Ventilated",
+    "pos": "adjective",
+    "meaningVi": "thông gió",
+    "ipa": "ˈven.t̬əl.eɪ.t̬ɪd",
+    "tags": []
+  },
+  {
+    "id": 1097,
+    "word": "Performance",
+    "pos": "noun",
+    "meaningVi": "năng suất, sự thể hiện",
+    "ipa": "pɚˈfɔːr.məns",
+    "tags": []
+  },
+  {
+    "id": 1098,
+    "word": "Surely",
+    "pos": "adverb",
+    "meaningVi": "chắc chắn",
+    "ipa": "ˈʃʊr.li",
+    "tags": []
+  },
+  {
+    "id": 1099,
+    "word": "Recommend",
+    "pos": "verb",
+    "meaningVi": "giới thiệu, đề xuất",
+    "ipa": "ˌrek.əˈmend",
+    "tags": []
+  },
+  {
+    "id": 1100,
+    "word": "Anyone",
+    "pos": "pronoun",
+    "meaningVi": "bất cứ ai",
+    "ipa": "ˈen.i.wʌn",
+    "tags": []
+  },
+  {
+    "id": 1101,
+    "word": "Move",
+    "pos": "noun",
+    "meaningVi": "sự di chuyển",
+    "ipa": "muːv",
+    "tags": []
+  },
+  {
+    "id": 1102,
+    "word": "Often",
+    "pos": "adverb",
+    "meaningVi": "thường xuyên",
+    "ipa": "ˈɑːf.tən",
+    "tags": []
+  },
+  {
+    "id": 1103,
+    "word": "Stress",
+    "pos": "verb",
+    "meaningVi": "nhấn mạnh",
+    "ipa": "stres",
+    "tags": []
+  },
+  {
+    "id": 1104,
+    "word": "Reward",
+    "pos": "verb",
+    "meaningVi": "thưởng",
+    "ipa": "rɪˈwɔːrd",
+    "tags": []
+  },
+  {
+    "id": 1105,
+    "word": "Dedicated",
+    "pos": "adjective",
+    "meaningVi": "cống hiến",
+    "ipa": "ˈded.ə.keɪ.t̬ɪd",
+    "tags": []
+  },
+  {
+    "id": 1106,
+    "word": "Raise",
+    "pos": "verb",
+    "meaningVi": "tăng",
+    "ipa": "reɪz",
+    "tags": []
+  },
+  {
+    "id": 1107,
+    "word": "Morale",
+    "pos": "noun",
+    "meaningVi": "tinh thần",
+    "ipa": "məˈræl",
+    "tags": []
+  },
+  {
+    "id": 1108,
+    "word": "Workplace",
+    "pos": "noun",
+    "meaningVi": "nơi làm việc",
+    "ipa": "ˈwɝːk.pleɪs",
+    "tags": []
+  },
+  {
+    "id": 1109,
+    "word": "Gift certificate",
+    "pos": "noun",
+    "meaningVi": "giấy khen",
+    "ipa": "ɡɪft sɚˈtɪf.ə.kət",
+    "tags": []
+  },
+  {
+    "id": 1110,
+    "word": "Director",
+    "pos": "noun",
+    "meaningVi": "giám đốc",
+    "ipa": "dɪˈrek.tɚ",
+    "tags": []
+  },
+  {
+    "id": 1111,
+    "word": "Hard",
+    "pos": "adjective",
+    "meaningVi": "chăm chỉ",
+    "ipa": "hɑːrd",
+    "tags": []
+  },
+  {
+    "id": 1112,
+    "word": "Work",
+    "pos": "noun",
+    "meaningVi": "sự làm việc",
+    "ipa": "wɝːk",
+    "tags": []
+  },
+  {
+    "id": 1113,
+    "word": "Thank",
+    "pos": "noun",
+    "meaningVi": "sự cảm ơn",
+    "ipa": "θæŋk",
+    "tags": []
+  },
+  {
+    "id": 1114,
+    "word": "Commitment",
+    "pos": "noun",
+    "meaningVi": "sự cam kết",
+    "ipa": "kəˈmɪt.mənt",
+    "tags": []
+  },
+  {
+    "id": 1115,
+    "word": "Express",
+    "pos": "verb",
+    "meaningVi": "bày tỏ",
+    "ipa": "ɪkˈspres",
+    "tags": []
+  }
+]

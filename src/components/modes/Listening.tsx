@@ -1,0 +1,58 @@
+import { useState } from 'react';
+import { Rating } from 'ts-fsrs';
+import { getVocabEntry } from '../../data/vocabulary';
+import { speak } from '../../lib/tts';
+import { normalizeAnswer } from '../../lib/text';
+import type { StudyModeProps } from '../../types';
+
+export function Listening({ vocabId, onComplete }: StudyModeProps) {
+  const entry = getVocabEntry(vocabId);
+  const [input, setInput] = useState('');
+  const [checked, setChecked] = useState(false);
+
+  if (!entry) return null;
+
+  const isCorrect = checked && normalizeAnswer(input) === normalizeAnswer(entry.word);
+
+  return (
+    <div className="mode-card">
+      <div className="mode-card__label">Nghe & gõ lại</div>
+
+      <button className="icon-button icon-button--large" onClick={() => speak(entry.word)}>
+        🔊 Phát âm
+      </button>
+
+      <input
+        className="text-input"
+        type="text"
+        autoFocus
+        value={input}
+        disabled={checked}
+        placeholder="Gõ lại từ bạn vừa nghe..."
+        onChange={(e) => setInput(e.target.value)}
+        onKeyDown={(e) => {
+          if (e.key === 'Enter' && !checked) setChecked(true);
+        }}
+      />
+
+      {checked && (
+        <div className={isCorrect ? 'feedback feedback--correct' : 'feedback feedback--wrong'}>
+          {isCorrect ? 'Chính xác!' : `Đáp án đúng: ${entry.word}`}
+        </div>
+      )}
+
+      {!checked ? (
+        <button className="primary-button" onClick={() => setChecked(true)}>
+          Kiểm tra
+        </button>
+      ) : (
+        <button
+          className="primary-button"
+          onClick={() => onComplete(isCorrect ? Rating.Good : Rating.Again)}
+        >
+          Tiếp tục
+        </button>
+      )}
+    </div>
+  );
+}
