@@ -522,6 +522,23 @@
 .feedback--correct { color: #16a34a; }
 .feedback--wrong { color: #dc2626; }
 
+.hint-row {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 16px;
+}
+
+.hint-text {
+  font-family: var(--mono);
+  font-size: 20px;
+  letter-spacing: 4px;
+  color: var(--text-h);
+  animation: fadeInUp 0.2s ease;
+  word-break: break-all;
+}
+
 /* Settings */
 .settings__section {
   margin-bottom: 28px;

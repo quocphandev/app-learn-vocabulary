@@ -2,17 +2,19 @@ import { useState } from 'react';
 import { Rating } from 'ts-fsrs';
 import { getVocabEntry } from '../../data/vocabulary';
 import { speak } from '../../lib/tts';
-import { normalizeAnswer } from '../../lib/text';
+import { buildHint, countHintableLetters, normalizeAnswer } from '../../lib/text';
 import type { StudyModeProps } from '../../types';
 
 export function Listening({ vocabId, onComplete }: StudyModeProps) {
   const entry = getVocabEntry(vocabId);
   const [input, setInput] = useState('');
   const [checked, setChecked] = useState(false);
+  const [hintLevel, setHintLevel] = useState(0);
 
   if (!entry) return null;
 
   const isCorrect = checked && normalizeAnswer(input) === normalizeAnswer(entry.word);
+  const maxHint = countHintableLetters(entry.word);
 
   return (
     <div className="mode-card">
@@ -34,6 +36,19 @@ export function Listening({ vocabId, onComplete }: StudyModeProps) {
           if (e.key === 'Enter' && !checked) setChecked(true);
         }}
       />
+
+      {!checked && (
+        <div className="hint-row">
+          {hintLevel > 0 && <span className="hint-text">{buildHint(entry.word, hintLevel)}</span>}
+          <button
+            className="icon-button"
+            disabled={hintLevel >= maxHint}
+            onClick={() => setHintLevel((h) => Math.min(h + 1, maxHint))}
+          >
+            💡 Gợi ý
+          </button>
+        </div>
+      )}
 
       {checked && (
         <div className={isCorrect ? 'feedback feedback--correct feedback--pop' : 'feedback feedback--wrong feedback--pop'}>
