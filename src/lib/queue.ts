@@ -1,4 +1,4 @@
-import { getDueCards, getNewCards, getSettings, saveSettings } from './db';
+import { getDueCards, getNewCards, getSettings } from './db';
 import { todayLocalDateString } from './date';
 
 export interface StudyQueue {
@@ -10,19 +10,18 @@ export interface StudyQueue {
 /**
  * Builds today's study queue: all cards due for review, plus new words (starting at id 301,
  * since baseline 1-300 are seeded straight into Review) up to the remaining daily new-card cap.
- * The cap is consumed as soon as a new word is added to the queue (not on completion), which is
- * a deliberate simplification for a single-user local app.
+ * The cap is only spent when a new word is actually completed (see fsrs.ts#applyRating) — not
+ * just by appearing in a queue — so an abandoned/interrupted session doesn't make its unfinished
+ * new words vanish for the rest of the day.
  */
 export async function buildTodayQueue(now = new Date()): Promise<StudyQueue> {
   const settings = await getSettings();
   const today = todayLocalDateString(now);
 
-  let introducedToday = settings.newWordsIntroducedToday;
-  if (introducedToday.date !== today) {
-    introducedToday = { date: today, count: 0 };
-  }
+  const introducedTodayCount =
+    settings.newWordsIntroducedToday.date === today ? settings.newWordsIntroducedToday.count : 0;
 
-  const remainingNewCap = Math.max(0, settings.newCardsPerDay - introducedToday.count);
+  const remainingNewCap = Math.max(0, settings.newCardsPerDay - introducedTodayCount);
 
   const [dueCards, newCards] = await Promise.all([
     getDueCards(now),
@@ -30,19 +29,6 @@ export async function buildTodayQueue(now = new Date()): Promise<StudyQueue> {
   ]);
 
   dueCards.sort((a, b) => a.due.getTime() - b.due.getTime());
-
-  if (newCards.length > 0) {
-    await saveSettings({
-      ...settings,
-      newWordsIntroducedToday: {
-        date: today,
-        count: introducedToday.count + newCards.length,
-      },
-    });
-  } else if (introducedToday.date !== settings.newWordsIntroducedToday.date) {
-    // Day rolled over but no new cards were queued (cap already 0) — still persist the reset.
-    await saveSettings({ ...settings, newWordsIntroducedToday: introducedToday });
-  }
 
   return {
     vocabIds: [...dueCards.map((c) => c.vocabId), ...newCards.map((c) => c.vocabId)],

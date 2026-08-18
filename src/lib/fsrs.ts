@@ -1,6 +1,6 @@
 import { createEmptyCard, fsrs, generatorParameters, Rating, State, type Card, type Grade } from 'ts-fsrs';
 import type { CardRow, ReviewLogRow } from '../types';
-import { addReviewLog, getCard, isSeeded, putCard, putCards } from './db';
+import { addReviewLog, getCard, incrementNewWordsIntroducedToday, isSeeded, putCard, putCards } from './db';
 import vocabulary from '../data/vocabulary.json';
 
 export const scheduler = fsrs(generatorParameters({ maximum_interval: 36500 }));
@@ -73,6 +73,8 @@ export async function applyRating(vocabId: number, rating: Grade, now = new Date
   const existing = await getCard(vocabId);
   if (!existing) throw new Error(`No card found for vocabId ${vocabId}`);
 
+  const wasNew = existing.state === State.New;
+
   const { card, log } = scheduler.next(existing, now, rating);
   const cardRow: CardRow = { ...card, vocabId };
   await putCard(cardRow);
@@ -85,6 +87,8 @@ export async function applyRating(vocabId: number, rating: Grade, now = new Date
     state: log.state,
   };
   await addReviewLog(logRow);
+
+  if (wasNew) await incrementNewWordsIntroducedToday(now);
 
   return card;
 }

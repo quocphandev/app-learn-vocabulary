@@ -2,6 +2,7 @@ import { openDB, type DBSchema, type IDBPDatabase } from 'idb';
 import { State } from 'ts-fsrs';
 import type { AppSettings, CardRow, ReviewLogRow } from '../types';
 import { CURRENT_SETTINGS_VERSION, DEFAULT_SETTINGS } from '../types';
+import { todayLocalDateString } from './date';
 
 interface VocabDB extends DBSchema {
   cards: {
@@ -122,6 +123,21 @@ export async function getSettings(): Promise<AppSettings> {
 export async function saveSettings(settings: AppSettings): Promise<void> {
   const db = await getDB();
   await db.put('settings', { key: SETTINGS_KEY, value: settings });
+}
+
+/**
+ * Spends one slot of today's new-word budget. Called only when a New-state card is actually
+ * completed (rated) — not merely queued — so an abandoned session's unfinished new words stay
+ * visible and simply reappear the next time a queue is built today.
+ */
+export async function incrementNewWordsIntroducedToday(now = new Date()): Promise<void> {
+  const settings = await getSettings();
+  const today = todayLocalDateString(now);
+  const currentCount = settings.newWordsIntroducedToday.date === today ? settings.newWordsIntroducedToday.count : 0;
+  await saveSettings({
+    ...settings,
+    newWordsIntroducedToday: { date: today, count: currentCount + 1 },
+  });
 }
 
 export async function resetAllProgress(): Promise<void> {
