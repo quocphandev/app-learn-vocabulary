@@ -40,11 +40,16 @@ export interface AppSettings {
   newWordsIntroducedToday: NewWordsToday;
   enabledModes: StudyMode[];
   firstRunAt: string | null; // ISO timestamp, null until seeded
+  settingsVersion: number;
 }
+
+/** Bump when DEFAULT_SETTINGS changes in a way that should override old stored settings. */
+export const CURRENT_SETTINGS_VERSION = 2;
 
 export const DEFAULT_SETTINGS: AppSettings = {
   newCardsPerDay: 20,
   newWordsIntroducedToday: { date: '', count: 0 },
-  enabledModes: ['flashcard', 'multipleChoice', 'typing', 'listening'],
+  enabledModes: ['flashcard', 'typing'],
   firstRunAt: null,
+  settingsVersion: CURRENT_SETTINGS_VERSION,
 };

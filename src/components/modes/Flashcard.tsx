@@ -13,27 +13,40 @@ export function Flashcard({ vocabId, onComplete }: StudyModeProps) {
   return (
     <div className="mode-card">
       <div className="mode-card__label">Flashcard</div>
-      <div className="flashcard">
-        <div className="flashcard__word">{entry.word}</div>
-        {entry.ipa && <div className="flashcard__ipa">/{entry.ipa}/</div>}
-        <button className="icon-button" onClick={() => speak(entry.word)}>
-          🔊 Phát âm
-        </button>
 
-        {flipped && (
-          <div className="flashcard__back">
+      <div
+        className={flipped ? 'flip-card flip-card--flipped' : 'flip-card'}
+        onClick={() => !flipped && setFlipped(true)}
+        role="button"
+        tabIndex={0}
+      >
+        <div className="flip-card__inner">
+          <div className="flip-card__face flip-card__face--front">
+            <div className="flashcard__word">{entry.word}</div>
+            {entry.ipa && <div className="flashcard__ipa">/{entry.ipa}/</div>}
+            <button
+              className="icon-button"
+              onClick={(e) => {
+                e.stopPropagation();
+                speak(entry.word);
+              }}
+            >
+              🔊 Phát âm
+            </button>
+            <div className="flip-card__hint">Chạm để lật thẻ</div>
+          </div>
+
+          <div className="flip-card__face flip-card__face--back">
             {entry.pos && <div className="flashcard__pos">{entry.pos}</div>}
             <div className="flashcard__meaning">{entry.meaningVi}</div>
           </div>
-        )}
+        </div>
       </div>
 
-      {!flipped ? (
-        <button className="primary-button" onClick={() => setFlipped(true)}>
-          Lật thẻ
-        </button>
-      ) : (
-        <RatingButtons onRate={onComplete} />
+      {flipped && (
+        <div className="mode-card__actions-enter">
+          <RatingButtons onRate={onComplete} />
+        </div>
       )}
     </div>
   );

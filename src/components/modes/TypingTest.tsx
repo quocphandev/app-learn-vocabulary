@@ -2,6 +2,7 @@ import { useState } from 'react';
 import { Rating } from 'ts-fsrs';
 import { getVocabEntry } from '../../data/vocabulary';
 import { normalizeAnswer } from '../../lib/text';
+import { speak } from '../../lib/tts';
 import type { StudyModeProps } from '../../types';
 
 export function TypingTest({ vocabId, onComplete }: StudyModeProps) {
@@ -17,9 +18,12 @@ export function TypingTest({ vocabId, onComplete }: StudyModeProps) {
     <div className="mode-card">
       <div className="mode-card__label">Gõ lại từ</div>
       <div className="quiz-question">{entry.meaningVi}</div>
+      <button className="icon-button" onClick={() => speak(entry.word)}>
+        🔊 Phát âm
+      </button>
 
       <input
-        className="text-input"
+        className={checked ? `text-input ${isCorrect ? 'text-input--correct' : 'text-input--wrong'}` : 'text-input'}
         type="text"
         autoFocus
         value={input}
@@ -32,8 +36,8 @@ export function TypingTest({ vocabId, onComplete }: StudyModeProps) {
       />
 
       {checked && (
-        <div className={isCorrect ? 'feedback feedback--correct' : 'feedback feedback--wrong'}>
-          {isCorrect ? 'Chính xác!' : `Đáp án đúng: ${entry.word}`}
+        <div className={isCorrect ? 'feedback feedback--correct feedback--pop' : 'feedback feedback--wrong feedback--pop'}>
+          {isCorrect ? '✓ Chính xác!' : `✕ Đáp án đúng: ${entry.word}`}
         </div>
       )}
 

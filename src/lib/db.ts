@@ -1,7 +1,7 @@
 import { openDB, type DBSchema, type IDBPDatabase } from 'idb';
 import { State } from 'ts-fsrs';
 import type { AppSettings, CardRow, ReviewLogRow } from '../types';
-import { DEFAULT_SETTINGS } from '../types';
+import { CURRENT_SETTINGS_VERSION, DEFAULT_SETTINGS } from '../types';
 
 interface VocabDB extends DBSchema {
   cards: {
@@ -102,7 +102,21 @@ export async function addReviewLog(log: ReviewLogRow): Promise<void> {
 export async function getSettings(): Promise<AppSettings> {
   const db = await getDB();
   const row = await db.get('settings', SETTINGS_KEY);
-  return row?.value ?? DEFAULT_SETTINGS;
+  if (!row) return DEFAULT_SETTINGS;
+
+  // One-time migration: pre-v2 settings always had all 4 modes enabled (the old default).
+  // v2 simplifies the default study flow to flashcard + typing only.
+  if ((row.value.settingsVersion ?? 1) < CURRENT_SETTINGS_VERSION) {
+    const migrated: AppSettings = {
+      ...row.value,
+      enabledModes: DEFAULT_SETTINGS.enabledModes,
+      settingsVersion: CURRENT_SETTINGS_VERSION,
+    };
+    await saveSettings(migrated);
+    return migrated;
+  }
+
+  return row.value;
 }
 
 export async function saveSettings(settings: AppSettings): Promise<void> {

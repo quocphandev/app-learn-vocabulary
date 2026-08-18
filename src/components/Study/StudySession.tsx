@@ -24,8 +24,9 @@ export function StudySession() {
 
   if (session.done) {
     return (
-      <div className="study-done">
-        <h1>Hoàn thành phiên học! 🎉</h1>
+      <div className="study-done study-done--enter">
+        <div className="study-done__badge">🎉</div>
+        <h1>Hoàn thành phiên học!</h1>
         <p>Bạn đã ôn xong {session.total} từ hôm nay.</p>
         <button className="primary-button" onClick={() => setScreen('dashboard')}>
           Về trang tổng quan
@@ -35,11 +36,15 @@ export function StudySession() {
   }
 
   const ModeComponent = MODE_COMPONENTS[session.currentMode];
+  const progressPercent = session.total > 0 ? (session.index / session.total) * 100 : 0;
 
   return (
     <div className="study-session">
       <div className="study-session__progress">
         {session.index + 1} / {session.total}
+      </div>
+      <div className="study-session__bar">
+        <div className="study-session__bar-fill" style={{ width: `${progressPercent}%` }} />
       </div>
       <ModeComponent key={session.currentVocabId} vocabId={session.currentVocabId} onComplete={session.submit} />
     </div>

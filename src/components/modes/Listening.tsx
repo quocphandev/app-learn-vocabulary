@@ -23,7 +23,7 @@ export function Listening({ vocabId, onComplete }: StudyModeProps) {
       </button>
 
       <input
-        className="text-input"
+        className={checked ? `text-input ${isCorrect ? 'text-input--correct' : 'text-input--wrong'}` : 'text-input'}
         type="text"
         autoFocus
         value={input}
@@ -36,8 +36,8 @@ export function Listening({ vocabId, onComplete }: StudyModeProps) {
       />
 
       {checked && (
-        <div className={isCorrect ? 'feedback feedback--correct' : 'feedback feedback--wrong'}>
-          {isCorrect ? 'Chính xác!' : `Đáp án đúng: ${entry.word}`}
+        <div className={isCorrect ? 'feedback feedback--correct feedback--pop' : 'feedback feedback--wrong feedback--pop'}>
+          {isCorrect ? '✓ Chính xác!' : `✕ Đáp án đúng: ${entry.word}`}
         </div>
       )}
 
